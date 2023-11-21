@@ -1,59 +1,51 @@
-## Introduction
+## Print Hello
 
-Add project description here. What will learners be making? Broadly what skills will they be learning?
+--- task ---
 
-### What you will make
+In Python, `print()` outputs text (words or numbers) to the screen.
+Type the code to `print()` Hello to the screen:
 
---- no-print ---
-Add instructions for interacting with the embedded content here.
+--- /task ---
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
---- /no-print ---
+Your code should look like this:
 
---- print-only ---
-![Complete project](images/showcase_static.png)
---- /print-only ---
-
---- collapse ---
+--- code ---
 ---
-title: What you will need
+language: python
+line_numbers: true
+line_number_start: 1
+line_highlights: 8
 ---
-### Hardware
+# variables
+world = '🌍🌎🌏'
+python = 'Python 🐍'
+fire = '🔥'
 
-+ A computer or tablet capable of running Scratch 3
+# Function definitions        
+  
+# Put code to run under here
+print(f'Hello')
+--- /code ---
 
-### Software
+--- tip ---
 
-+ Scratch 3 (either [online](https://scratch.mit.edu/){:target="_blank"} or [offline](https://scratch.mit.edu/download){:target="_blank"})
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
+When you type an opening bracket `(` the code editor will automatically add a closing bracket `)` 
+This also happens when you type an opening apostrophe `'`.
 
-### Downloads
+--- /tip ---
 
-+ Download the project [starter file](https://rpf.io/p/en/projectName-go){:target="_blank"} if working offline
+This is what you should see when you run your code.
 
---- /collapse ---
+--- output ---
 
---- collapse ---
----
-title: What you will learn
----
+```
+Hello
+```
 
-+ Learning objective 1
-+ Learning objective 2
-+ Learning objective 3
+--- /output ---
 
---- /collapse ---
+--- debug ---
 
---- collapse ---
----
-title: Additional information for educators
----
+If you get an error then check your code really carefully. Check there are single quotes around `Hello` so Python knows it is meant to be text.
 
-You can download the completed project [here](https://rpf.io/p/en/projectName-get){:target="_blank"}.
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/projectName/print){:target="_blank"}.
-
---- /collapse ---
+--- /debug ---

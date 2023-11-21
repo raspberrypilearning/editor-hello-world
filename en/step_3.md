@@ -1,7 +1,49 @@
-## What next?
+## Print variables
 
-If you are following the [PathwayName](https://projects.raspberrypi.org/en/raspberrypi/pathway-name) pathway, you can move on to the [ProjectName](https://projects.raspberrypi.org/en/projects/project-name) project. In this project, you will make a (add description here).
+--- task ---
 
-![ProjectName project](images/projectname-project.png)
+Change your code to also `print()` the contents of the `world` variable. You can do this by adding the variable name in curly brackets `{}`
 
-If you want to have more fun exploring Scratch, then you could try out any of [these projects](https://projects.raspberrypi.org/en/projects?software%5B%5D=scratch&curriculum%5B%5D=%201).
+--- /task ---
+
+Your code should look like this:
+
+--- code ---
+---
+language: python
+line_numbers: true
+line_number_start: 1
+line_highlights: 8
+---
+# variables
+world = '🌍🌎🌏'
+python = 'Python 🐍'
+fire = '🔥'
+
+# Function definitions        
+  
+# Put code to run under here
+print(f'Hello {world}')
+--- /code ---
+
+--- tip ---
+
+The `f` character inside the print, lets you easily print variables along with strings of text.
+
+--- /tip ---
+
+This is what you should see when you run your code.
+
+--- output ---
+
+```python
+Hello 🌍🌎🌏
+```
+
+--- /output ---
+
+--- debug ---
+
+If you get an error then check you have opened and closed all your brackets `()` and curly brackets `{}`
+
+--- /debug ---

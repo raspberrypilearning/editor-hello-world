@@ -1,23 +1,24 @@
-## Step title
+## Variables
 
-Add an introductory sentence. What will learners achieve by the end of this step?
+A **variable** is used to store values such as text or numbers. Choosing a sensible name for a variable makes it easier for you to remember what it is for.
 
---- task ---
+We have included some variables that store emoji characters.
 
-If working **online**, open the [starter project](https://rpf.io/p/en/projectName-on){:target="_blank"} in Scratch.
- 
-If working **offline**, open the project [starter file](https://rpf.io/p/en/projectName-get){:target="_blank"} in the Scratch offline editor. If you need to download and install Scratch, you can find it [here](https://scratch.mit.edu/download){:target="_blank"}.
+--- code ---
+---
+language: python
+filename: main.py
+line_numbers: true
+line_number_start: 1
+line_highlights: 1, 2, 3
+---
+# variables
+world = '🌍🌎🌏'
+python = 'Python 🐍'
+fire = '🔥'
 
-You should see...
- 
-![starter project](images/starter_project.png)
-
---- /task ---
-
---- task ---
-
-Step content...
-
---- /task ---
-
---- save ---
+# Function definitions
+  
+# Put code to run under here
+print(f'Hello')
+--- /code ---
