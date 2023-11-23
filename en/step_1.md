@@ -1,4 +1,4 @@
-## Print Hello
+<h2 class="rpf-squiggle-heading">Print Hello</h2>
 
 --- task ---
 
