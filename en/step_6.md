@@ -1,4 +1,4 @@
-## Create a calculation
+<h2 class="c-project-heading--task">Create a calculation</h2>
 
 --- task ---
 
