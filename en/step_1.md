@@ -1,4 +1,4 @@
-<h2 class="rpf-squiggle-heading">Print Hello</h2>
+<h2 class="c-project-heading--task">Print Hello</h2>
 
 --- task ---
 
