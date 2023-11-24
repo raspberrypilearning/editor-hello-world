@@ -1,4 +1,4 @@
-## Sentence starter
+<h2 class="c-project-heading--task">Sentence starter</h2>
 
 --- task ---
 
