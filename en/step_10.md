@@ -1,4 +1,4 @@
-## Roll dice
+<h2 class="c-project-heading--task">Roll dice</h2>
 
 --- task ---
 
