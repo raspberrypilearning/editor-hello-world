@@ -1,4 +1,4 @@
-## Multiply strings
+<h2 class="c-project-heading--task">Multiply strings</h2>
 
 --- task ---
 
