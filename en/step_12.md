@@ -1,4 +1,4 @@
-## Random numbers
+<h2 class="c-project-heading--task">Random numbers</h2>
 
 --- task ---
 
