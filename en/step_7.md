@@ -1,4 +1,4 @@
-## Using modules
+<h2 class="c-project-heading--task">Using modules</h2>
 
 --- task ---
 
