@@ -1,4 +1,4 @@
-## Print the date
+<h2 class="c-project-heading--task">Print the date</h2>
 
 --- task ---
 
