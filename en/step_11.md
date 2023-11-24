@@ -1,4 +1,4 @@
-## Import randint
+<h2 class="c-project-heading--task">Import randint</h2>
 
 --- task ---
 
