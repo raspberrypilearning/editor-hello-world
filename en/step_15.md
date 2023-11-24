@@ -1,4 +1,4 @@
-## Change the dice
+<h2 class="c-project-heading--task">Change the dice</h2>
 
 --- task ---
 
