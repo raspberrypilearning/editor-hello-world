@@ -29,6 +29,8 @@ print(f'Hello')
 
 <div class="c-project-callout c-project-callout--tip">
 
+### Tip
+
 When you type an opening bracket `(` the code editor will automatically add a closing bracket `)` 
 This also happens when you type an opening apostrophe `'`.
 
@@ -45,6 +47,8 @@ Hello
 --- /output ---
 
 <div class="c-project-callout c-project-callout--debug">
+
+### Debugging
 
 If you get an error then check your code really carefully. Check there are single quotes around `Hello` so Python knows it is meant to be text.
 
