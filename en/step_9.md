@@ -1,4 +1,4 @@
-## Functions
+<h2 class="c-project-heading--explainer">Functions</h2>
 
 Functions can be used in Python to create small "packages" of code that can be used over and over again.
 
