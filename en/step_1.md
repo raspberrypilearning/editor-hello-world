@@ -2,7 +2,7 @@
 
 --- task ---
 
-In Python, `{: .language-python}print()` outputs text (words or numbers) to the screen.
+In Python, `{:.language-python}print()` outputs text (words or numbers) to the screen.
 Type the code to `print()` Hello to the screen:
 
 --- /task ---
