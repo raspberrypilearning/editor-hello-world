@@ -3,7 +3,7 @@
 --- task ---
 
 In Python, `print()`{:.language-python} outputs text (words or numbers) to the screen.
-Type the code to `print()` Hello to the screen:
+Type the code to `print()`{:.language-python} Hello to the screen:
 
 --- /task ---
 
@@ -31,8 +31,8 @@ print(f'Hello')
 
 ### Tip
 
-When you type an opening bracket `(` the code editor will automatically add a closing bracket `)` 
-This also happens when you type an opening apostrophe `'`.
+When you type an opening bracket `(`{:.language-python} the code editor will automatically add a closing bracket `)`{:.language-python} 
+This also happens when you type an opening apostrophe `'`{:.language-python}.
 
 </div>
 
@@ -46,6 +46,6 @@ Hello
 
 ### Debugging
 
-If you get an error then check your code really carefully. Check there are single quotes around `Hello` so Python knows it is meant to be text.
+If you get an error then check your code really carefully. Check there are single quotes around `Hello`{:.language-python} so Python knows it is meant to be text.
 
 </div>
