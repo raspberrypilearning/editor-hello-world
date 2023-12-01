@@ -16,6 +16,7 @@ line_numbers: true
 line_number_start: 1
 line_highlights: 8
 ---
+<p>main.py</p>
 # variables
 world = '🌍🌎🌏'
 python = 'Python 🐍'
