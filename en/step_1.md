@@ -9,6 +9,7 @@ Type the code to `print()`{:.language-python} Hello to the screen:
 
 Your code should look like this:
 
+<p class="c-project-code__heading">main.py</p>
 --- code ---
 ---
 language: python
@@ -16,7 +17,6 @@ line_numbers: true
 line_number_start: 1
 line_highlights: 8
 ---
-<p>main.py</p>
 # variables
 world = '🌍🌎🌏'
 python = 'Python 🐍'
