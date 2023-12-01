@@ -9,7 +9,8 @@ Type the code to `print()`{:.language-python} Hello to the screen:
 
 Your code should look like this:
 
-<p class="c-project-code__heading">main.py</p>
+<div class="c-project-code-block">
+  <p class="c-project-code__heading">main.py</p>
 --- code ---
 ---
 language: python
@@ -27,6 +28,7 @@ fire = '🔥'
 # Put code to run under here
 print(f'Hello')
 --- /code ---
+</div>
 
 <div class="c-project-callout c-project-callout--tip">
 
