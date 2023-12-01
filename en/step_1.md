@@ -9,7 +9,7 @@ Type the code to `print()`{:.language-python} Hello to the screen:
 
 Your code should look like this:
 
-<div class="c-project-code-block">
+<div class="c-project-code">
   <p class="c-project-code__heading">main.py</p>
 --- code ---
 ---
