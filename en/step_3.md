@@ -26,24 +26,24 @@ fire = '🔥'
 print(f'Hello {world}')
 --- /code ---
 
---- tip ---
+<div class="c-project-callout c-project-callout--tip">
+
+### Tip
 
 The `f` character inside the print, lets you easily print variables along with strings of text.
 
---- /tip ---
+</div>
 
 This is what you should see when you run your code.
 
---- output ---
-
-```python
+<div class="c-project-output">
 Hello 🌍🌎🌏
-```
+</div>
 
---- /output ---
+<div class="c-project-callout c-project-callout--debug">
 
---- debug ---
+### Debugging
 
 If you get an error then check you have opened and closed all your brackets `()` and curly brackets `{}`
 
---- /debug ---
+</div>
