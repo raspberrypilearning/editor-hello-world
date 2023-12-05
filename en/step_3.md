@@ -37,7 +37,9 @@ The `f` character inside the print, lets you easily print variables along with s
 This is what you should see when you run your code.
 
 <div class="c-project-output">
+```
 Hello 🌍🌎🌏
+```
 </div>
 
 <div class="c-project-callout c-project-callout--debug">
