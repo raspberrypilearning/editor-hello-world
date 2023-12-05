@@ -24,6 +24,7 @@ def roll_dice():
 This is what you should see when you run your code.
 
 <div class="c-project-output">
+```
 Hello 🌍🌎🌏
 Welcome to Python 🐍
 Python 🐍 is good at maths!
@@ -33,4 +34,5 @@ How many sides on your dice?:
 20 # This is where you typed your number
 That is a D 20
 You rolled a 1 🔥
+```
 </div>
