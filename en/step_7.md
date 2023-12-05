@@ -21,16 +21,20 @@ from datetime import datetime
 # variables
 --- /code ---
 
---- tip ---
+<div class="c-project-callout c-project-callout--tip">
+
+### Tip
 
 Any text you write in Python with a `#` in front of it becomes a comment. These lines won't run, so they can be useful to help people read and understand your code.
 
---- /tip ---
+</div>
 
 When you run this code, nothing should change, and you should have the same output as the pervious step.
 
---- debug ---
+<div class="c-project-callout c-project-callout--debug">
+
+### Debugging
 
 Check that you have spelled `datetime` correctly, and it is all lowercase.
 
---- /debug ---
+</div>
