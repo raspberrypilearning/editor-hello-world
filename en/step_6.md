@@ -20,27 +20,27 @@ print(f'{python} is good at maths!')
 print(f'{111111111 * 111111111}')
 --- /code ---
 
---- tip ---
+<div class="c-project-callout c-project-callout--tip">
+
+### Tip
 
 Python uses the same rules for calculations as you might have learned at school. *B*rackets first, then **O**rders, **D**ivision, **M**ultiplication, **A**ddition, and lastly **S**ubtraction
 
---- /tip ---
+</div>
 
 This is what you should see when you run your code.
 
---- output ---
-
-```
+<div class="c-project-output">
 Hello 🌍🌎🌏
 Welcome to Python 🐍
 Python 🐍 is good at maths!
 12345678987654321
-```
+</div>
 
---- /output ---
+<div class="c-project-callout c-project-callout--debug">
 
---- debug ---
+### Debugging
 
 Don't forget that the UPPERCASE and lowercase letters are important in Python. Always check you are using the correct case.
 
---- /debug ---
+</div>
