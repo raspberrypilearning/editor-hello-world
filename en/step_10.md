@@ -46,12 +46,14 @@ You can use the **Tab** key on your keyboard to insert 4 spaces. Pressing **Shif
 This is what you should see when you run your code.
 
 <div class="c-project-output">
+```
 Hello 🌍🌎🌏
 Welcome to Python 🐍
 Python 🐍 is good at maths!
 12345678987654321
 The date and time is 2023-11-21 15:55:33.038000
 4
+```
 </div>
 
 <div class="c-project-callout c-project-callout--debug">
