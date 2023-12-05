@@ -22,20 +22,18 @@ print(f'The date and time is {datetime.now()}')
 
 This is what you should see when you run your code, but the date and time will be different.
 
---- output ---
-
-```
+<div class="c-project-output">
 Hello 🌍🌎🌏
 Welcome to Python 🐍
 Python 🐍 is good at maths!
 12345678987654321
 The date and time is 2023-11-21 15:34:10.148000
-```
+</div>
 
---- /output ---
+<div class="c-project-callout c-project-callout--debug">
 
---- debug ---
+### Debugging
 
 Check all your brackets `()` and curly brackets `{}` to make sure they are all opened and closed in the correct place.
 
---- /debug ---
+</div>
