@@ -31,10 +31,12 @@ Python uses the same rules for calculations as you might have learned at school.
 This is what you should see when you run your code.
 
 <div class="c-project-output">
+```
 Hello 🌍🌎🌏
 Welcome to Python 🐍
 Python 🐍 is good at maths!
 12345678987654321
+```
 </div>
 
 <div class="c-project-callout c-project-callout--debug">
