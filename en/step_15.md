@@ -32,7 +32,7 @@ Changing one type of data to another type of data is called **type casting**
 This is what you should see when you run your code.
 
 <div class="c-project-output">
-```python
+```
 Hello 🌍🌎🌏
 Welcome to Python 🐍
 Python 🐍 is good at maths!
