@@ -22,11 +22,7 @@ print(f'Welcome to {python}')
 
 This is what you should see when you run your code.
 
---- output ---
-
-```
+<div class="c-project-output">
 Hello 🌍🌎🌏
 Welcome to Python 🐍
-```
-
---- /output ---
+</div>
