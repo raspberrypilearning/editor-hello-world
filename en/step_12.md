@@ -29,12 +29,14 @@ def roll_dice():
 This is what you should see when you run your code, and a new random number between 1 and 6 will be chosen each time.
 
 <div class="c-project-output">
+```
 Hello 🌍🌎🌏
 Welcome to Python 🐍
 Python 🐍 is good at maths!
 12345678987654321
 The date and time is 2023-11-21 16:02:12.535000
 You rolled a 6
+```
 </div>
 
 <div class="c-project-callout c-project-callout--debug">
