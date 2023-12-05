@@ -23,10 +23,9 @@ def roll_dice():
     print(f'You rolled a {roll} {fire * roll}')
 --- /code ---
 
-You output should look something like this"
+You output should look something like this
 
---- output ---
-
+<div class="c-project-output">
 ```
 Hello 🌍🌎🌏
 Welcome to Python 🐍
@@ -35,11 +34,12 @@ Python 🐍 is good at maths!
 The date and time is 2023-11-21 16:14:45.140000
 You rolled a 4 🔥🔥🔥🔥
 ```
+</div>
 
---- /output ---
+<div class="c-project-callout c-project-callout--debug">
 
---- debug ---
+### Debugging
 
 Check all your brackets are the same as the code example above.
 
---- /debug ---
+</div>
