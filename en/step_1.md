@@ -5,8 +5,6 @@
 In Python, `print()`{:.language-python} outputs text (words or numbers) to the screen.
 Type the code to `print()`{:.language-python} Hello to the screen:
 
---- /task ---
-
 Your code should look like this:
 
 <div class="c-project-code">
@@ -26,8 +24,11 @@ fire = '🔥'
 # Function definitions        
   
 # Put code to run under here
-print(f'Hello')
+print('Hello')
 --- /code ---
+
+--- /task ---
+
 </div>
 
 <div class="c-project-callout c-project-callout--tip">
@@ -39,6 +40,7 @@ This also happens when you type an opening apostrophe `'`{:.language-python}.
 
 </div>
 
+**Test:** Click the **Run** button. 
 This is what you should see when you run your code.
 
 <div class="c-project-output">

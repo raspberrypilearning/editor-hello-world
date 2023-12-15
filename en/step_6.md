@@ -2,9 +2,7 @@
 
 --- task ---
 
-Add another two `print()` lines to your code including a sum for Python to calculate:
-
---- /task ---
+Add two more `print()` lines to your code including a sum for Python to calculate:
 
 --- code ---
 ---
@@ -20,11 +18,13 @@ print(f'{python} is good at maths!')
 print(f'{111111111 * 111111111}')
 --- /code ---
 
+--- /task ---
+
 <div class="c-project-callout c-project-callout--tip">
 
 ### Tip
 
-Python uses the same rules for calculations as you might have learned at school. *B*rackets first, then **O**rders, **D**ivision, **M**ultiplication, **A**ddition, and lastly **S**ubtraction
+Python uses the same rules for calculations as you might have learned at school. **B**rackets first, then **O**rders, **D**ivision, **M**ultiplication, **A**ddition, and lastly **S**ubtraction
 
 </div>
 

@@ -4,8 +4,6 @@
 
 Change your code to also `print()` the contents of the `world` variable. You can do this by adding the variable name in curly brackets `{}`
 
---- /task ---
-
 Your code should look like this:
 
 --- code ---
@@ -23,8 +21,10 @@ fire = '🔥'
 # Function definitions        
   
 # Put code to run under here
-print(f'Hello {world}')
+print('Hello {world}')
 --- /code ---
+
+--- /task ---
 
 <div class="c-project-callout c-project-callout--tip">
 
