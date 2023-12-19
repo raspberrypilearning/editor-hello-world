@@ -4,7 +4,7 @@
 
 In Python you can multiply strings such as emojis or whole words by a number, so they print out several times.
 
-Change your function to store the random number is a variable called `roll`, then print it out.
+Change your function to store the random number in a variable called `roll`, then print it out.
 
 --- /task ---
 
@@ -14,8 +14,8 @@ Your code should look like this:
 ---
 language: python
 line_numbers: true
-line_number_start: 1
-line_highlights: 8
+line_number_start: 9
+line_highlights: 11,12
 ---
 # Function definitions        
 def roll_dice():

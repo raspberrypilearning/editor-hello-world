@@ -12,11 +12,10 @@ Your code should look like this:
 ---
 language: python
 line_numbers: true
-line_number_start: 6
-line_highlights: 8,9
+line_number_start: 9
+line_highlights: 10,11
 ---
 # Function definitions        
-
 def roll_dice():
     print(f'You rolled a {4}')
     
@@ -27,8 +26,8 @@ def roll_dice():
 ---
 language: python
 line_numbers: true
-line_number_start: 12
-line_highlights: 14
+line_number_start: 17
+line_highlights: 19
 ---
 print(f'{111111111 * 111111111}')
 print(f'The date and time is {datetime.now()}')

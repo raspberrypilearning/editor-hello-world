@@ -2,7 +2,7 @@
 
 --- task ---
 
-Use you `max` variable to change the number of sides the dice has. At the moment `max` is a string, so it needs changing to an integer `int()`
+Use your `max` variable to change the number of sides the dice has. At the moment `max` is a string, so it needs changing to an integer `int()`
 
 --- /task ---
 

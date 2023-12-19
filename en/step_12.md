@@ -13,7 +13,7 @@ line_numbers: true
 line_number_start: 9
 line_highlights: 11
 ---
-# Function definitions        
+# Function definitions 
 def roll_dice():
     print('You rolled a {randint(1, 6)})
 --- /code ---
