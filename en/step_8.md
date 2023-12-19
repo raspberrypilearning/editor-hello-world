@@ -10,8 +10,8 @@ Get the current date and time by using the `now()` function from the `datetime` 
 ---
 language: python
 line_numbers: true
-line_number_start: 13
-line_highlights: 15
+line_number_start: 11
+line_highlights: 13
 ---
 print(f'{python} is good at maths!')
 print(f'{111111111 * 111111111}')

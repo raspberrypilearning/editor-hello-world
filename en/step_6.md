@@ -8,8 +8,8 @@ Add two more `print()` lines to your code including a multiplication for Python 
 ---
 language: python
 line_numbers: true
-line_number_start: 7
-line_highlights: 10, 11
+line_number_start: 8
+line_highlights: 11, 12
 ---
 # Put code to run under here
 print(f'Hello {world}')
