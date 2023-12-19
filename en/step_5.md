@@ -6,4 +6,4 @@ In Python you can work with numbers and dates. You can use arithmetic operators 
 | - | subtract |   
 | * | multiply |   
 | / | divide |   
-| ** | to the power |   
+| ** | exponent |   

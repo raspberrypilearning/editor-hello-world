@@ -2,7 +2,7 @@
 
 --- task ---
 
-In Python, `print()`{:.language-python} outputs text (words or numbers) to the screen.
+In Python, `print()`{:.language-python} outputs string (words or numbers) to the screen.
 Type the code to `print()`{:.language-python} Hello to the screen:
 
 Your code should look like this:
@@ -24,7 +24,7 @@ fire = '🔥'
 # Function definitions        
   
 # Put code to run under here
-print('Hello')
+print(f'Hello')
 --- /code ---
 
 --- /task ---

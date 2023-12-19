@@ -21,7 +21,7 @@ fire = '🔥'
 # Function definitions        
   
 # Put code to run under here
-print('Hello {world}')
+print(f'Hello {world}')
 --- /code ---
 
 --- /task ---

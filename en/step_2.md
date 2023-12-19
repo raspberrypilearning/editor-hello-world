@@ -23,7 +23,7 @@ fire = '🔥'
 # Function definitions
   
 # Put code to run under here
-print('Hello')
+print(f'Hello')
 --- /code ---
 </div>
 

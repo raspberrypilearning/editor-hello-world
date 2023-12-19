@@ -2,7 +2,7 @@
 
 --- task ---
 
-Add two more `print()` lines to your code including a sum for Python to calculate:
+Add two more `print()` lines to your code including a multiplication for Python to calculate:
 
 --- code ---
 ---
