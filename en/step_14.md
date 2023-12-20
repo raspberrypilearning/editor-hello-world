@@ -31,7 +31,7 @@ Python 🐍 is good at maths!
 12345678987654321
 The date and time is 2023-11-21 16:20:41.323000
 How many sides on your dice?:
-20 # This is where you typed your number
+20 
 That is a D 20
 You rolled a 1 🔥
 ```

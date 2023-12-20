@@ -51,7 +51,7 @@ Welcome to Python 🐍
 Python 🐍 is good at maths!
 12345678987654321
 The date and time is 2023-11-21 15:55:33.038000
-4
+You rolled a 4
 ```
 </div>
 

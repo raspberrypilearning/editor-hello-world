@@ -1,6 +1,6 @@
 <h2 class="c-project-heading--explainer">Functions</h2>
 
-Functions can be used in Python to create small "packages" of code that can be used over and over again.
+Functions can be used in Python to perform specific tasks. They are blocks of code that can be used over and over again.
 
 A function needs a name, and then the code that is going to go in the function.
 

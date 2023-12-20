@@ -43,6 +43,6 @@ You rolled a 6
 
 ### Debugging
 
-Check your brackets and curly brackets if you get and error. Also remember that the same number might be chosen over and over again. It's random!
+Check your brackets and curly brackets if you get and error. Take note that the same number might be chosen over and over again. It's random!
 
 </div>

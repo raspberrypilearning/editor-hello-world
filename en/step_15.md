@@ -2,7 +2,9 @@
 
 --- task ---
 
-Use your `max` variable to change the number of sides the dice has. At the moment `max` is a string, so it needs changing to an integer `int()`
+Use your `max` variable to change the number of sides the dice has. At the moment `max` is a string, so it needs changing to an integer `int()`.
+
+Changing one type of data to another type of data is called **type casting**
 
 --- /task ---
 
@@ -20,14 +22,6 @@ def roll_dice():
     roll = randint(1, int(max))
     print(f'You rolled a {roll} {fire * roll}')
 --- /code ---
-
-<div class="c-project-callout c-project-callout--tip">
-
-### Tip
-
-Changing one type of data to another type of data is called **type casting**
-
-</div>
 
 This is what you should see when you run your code.
 
