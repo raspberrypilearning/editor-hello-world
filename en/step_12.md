@@ -26,6 +26,7 @@ def roll_dice():
 
 </div>
 
+**Test:** Click the **Run** button.
 This is what you should see when you run your code, and a new random number between 1 and 6 will be chosen each time.
 
 <div class="c-project-output">

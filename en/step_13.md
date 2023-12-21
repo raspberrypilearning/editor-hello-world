@@ -23,7 +23,8 @@ def roll_dice():
     print(f'You rolled a {roll} {fire * roll}')
 --- /code ---
 
-Your output should look something like this:
+**Test:** Click the **Run** button.
+Your output code should look something like this:
 
 <div class="c-project-output">
 ```

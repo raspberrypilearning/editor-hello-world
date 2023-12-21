@@ -34,6 +34,7 @@ The `f` character inside the print, lets you easily print variables along with s
 
 </div>
 
+**Test:** Click the **Run** button.
 This is what you should see when you run your code.
 
 <div class="c-project-output">

@@ -42,6 +42,7 @@ You can use the **Tab** key on your keyboard to insert 4 spaces. Pressing **Shif
 
 </div>
 
+**Test:** Click the **Run** button.
 This is what you should see when you run your code.
 
 <div class="c-project-output">

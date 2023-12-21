@@ -31,7 +31,7 @@ Any text you write in Python with a `#` in front of it becomes a comment. These 
 
 </div>
 
-When you run this code, nothing should change, and you should have the same output as the pervious step.
+When you run this code, nothing should change, and you should have the same output as the previous step.
 
 <div class="c-project-callout c-project-callout--debug">
 

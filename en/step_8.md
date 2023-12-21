@@ -18,6 +18,7 @@ print(f'{111111111 * 111111111}')
 print(f'The date and time is {datetime.now()}')
 --- /code ---
 
+**Test:** Click the **Run** button.
 This is what you should see when you run your code, but the date and time will be different.
 
 --- /task ---

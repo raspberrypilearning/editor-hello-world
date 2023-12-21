@@ -20,6 +20,7 @@ print(f'Welcome to {python}')
 
 --- /task ---
 
+**Test:** Click the **Run** button.
 This is what you should see when you run your code.
 
 <div class="c-project-output">
