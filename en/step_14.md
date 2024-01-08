@@ -22,6 +22,7 @@ def roll_dice():
 --- /code ---
 
 **Test:** Click the **Run** button.
+Ensure you press the <kbd> Enter </kbd> key after inputting how many sides.
 This is what you should see when you run your code.
 
 <div class="c-project-output">

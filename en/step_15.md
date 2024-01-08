@@ -4,7 +4,7 @@
 
 Use your `max` variable to change the number of sides the dice has. At the moment `max` is a string, so it needs changing to an integer `int()`.
 
-Changing one type of data to another type of data is called **type casting**
+Changing one type of data to another type of data is called **type casting**.
 
 --- /task ---
 

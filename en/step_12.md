@@ -15,7 +15,7 @@ line_highlights: 11
 ---
 # Function definitions 
 def roll_dice():
-    print('You rolled a {randint(1, 6)})
+    print(f'You rolled a {randint(1, 6)}')
 --- /code ---
 
 <div class="c-project-callout c-project-callout--tip">

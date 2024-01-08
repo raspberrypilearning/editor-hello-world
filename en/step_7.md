@@ -6,7 +6,7 @@ Python has many **modules** that you can use in your code to help perform certai
 
 The `datetime` module helps with writing code that uses dates and times.
 
-Import the `datetime` module on the first line of code in your file.
+Import the `datetime` module on the first lines of code in your file.
 
 --- code ---
 ---
