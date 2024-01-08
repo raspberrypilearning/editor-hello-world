@@ -25,7 +25,7 @@ print(f'{111111111 * 111111111}')
 
 ### Tip
 
-Python uses the same rules for calculations as you might have learned at school. **B**rackets first, then **O**rders, **D**ivision, **M**ultiplication, **A**ddition, and lastly **S**ubtraction
+Python uses the same rules for calculations as you might have learned at school. **B**rackets first, then **O**rders, **D**ivision, **M**ultiplication, **A**ddition, and lastly **S**ubtraction.
 
 </div>
 

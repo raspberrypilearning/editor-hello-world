@@ -30,7 +30,7 @@ print(f'Hello {world}')
 
 ### Tip
 
-The `f` character inside the print, lets you easily print variables along with strings of text.
+The `f` character inside the print lets you easily print variables along with strings of text.
 
 </div>
 
