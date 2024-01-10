@@ -7,4 +7,4 @@ fire = '🔥'
 
 # Function definitions        
     
-# Put code to run under here.
+# Put code to run under here

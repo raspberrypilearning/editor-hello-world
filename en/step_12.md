@@ -10,8 +10,8 @@ Change your `roll_dice()` function so that it chooses a random number each time 
 ---
 language: python
 line_numbers: true
-line_number_start: 9
-line_highlights: 11
+line_number_start: 10
+line_highlights: 12
 ---
 # Function definitions 
 def roll_dice():

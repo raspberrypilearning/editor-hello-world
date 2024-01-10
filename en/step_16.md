@@ -12,8 +12,8 @@ Your code should look something like this.
 ---
 language: python
 line_numbers: true
-line_number_start: 22
-line_highlights: 23, 24, 25
+line_number_start: 23
+line_highlights: 24-26
 ---
 roll_dice()
 print(f'I ❤️ ...')   

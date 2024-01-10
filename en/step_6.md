@@ -12,8 +12,8 @@ Your code should look like this.
 ---
 language: python
 line_numbers: true
-line_number_start: 8
-line_highlights: 11, 12
+line_number_start: 10
+line_highlights: 13-14
 ---
 # Put code to run under here
 print(f'Hello {world}')
