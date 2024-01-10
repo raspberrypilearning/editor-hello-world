@@ -16,18 +16,19 @@ language: python
 filename: main.py
 line_numbers: true
 line_number_start: 1
-line_highlights: 9
+line_highlights: 11
 ---
+# imports
+
 # variables
 world = '🌍🌎🌏'
 python = 'Python 🐍'
 fire = '🔥'
 
 # Function definitions        
-  
-# Put code to run under here
+    
+# Put code to run under here.
 print(f'Hello')
-
 --- /code ---
 
 </div>

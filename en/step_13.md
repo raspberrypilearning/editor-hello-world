@@ -14,8 +14,8 @@ Your code should look like this:
 ---
 language: python
 line_numbers: true
-line_number_start: 9
-line_highlights: 11,12
+line_number_start: 10
+line_highlights: 12-13
 ---
 # Function definitions        
 def roll_dice():

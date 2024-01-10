@@ -13,7 +13,7 @@ Your code should look like this:
 language: python
 line_numbers: true
 line_number_start: 1
-line_highlights: 9
+line_highlights: 11
 ---
 # variables
 world = '🌍🌎🌏'
