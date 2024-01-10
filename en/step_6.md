@@ -4,6 +4,10 @@
 
 Add two more `print()` lines to your code including a multiplication for Python to calculate:
 
+--- /task ---
+
+Your code should look like this.
+
 --- code ---
 ---
 language: python
@@ -19,7 +23,7 @@ print(f'{111111111 * 111111111}')
 
 --- /code ---
 
---- /task ---
+
 
 <div class="c-project-callout c-project-callout--tip">
 

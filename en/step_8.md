@@ -6,6 +6,8 @@ Add another line to your code to `print` the current date and time.
 
 Get the current date and time by using the `now()` function from the `datetime` module:
 
+--- /task ---
+
 --- code ---
 ---
 language: python
@@ -20,8 +22,6 @@ print(f'The date and time is {datetime.now()}')
 
 **Test:** Click the **Run** button.
 This is what you should see when you run your code, but the date and time will be different.
-
---- /task ---
 
 <div class="c-project-output">
 ```

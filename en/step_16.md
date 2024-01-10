@@ -6,6 +6,8 @@ Add more `print` lines to your code. Here are some sentence starters that you ca
 
 --- /task ---
 
+Your code should look something like this.
+
 --- code ---
 ---
 language: python
@@ -23,9 +25,11 @@ print(f'I would like to make ... with {python}')
 
 ### Tip
 
-Here are a list of some emojis you might like to use:
+Here are a list of some emojis you might like to use.:
 
 🎊 🙌 🙌🏼 🙌🏽 🙌🏾 🙌🏿 😃 🕒 🎨 🎮 🔬 🎉 🕶️ 🎲 😊
 🦄 🚀 💯 ⭐ 💛 ❤️ 📚 ⚽ 🏏 🏀 🥋 🏆 ✨ 🥺 🌈 🔥 ♻️ 🌳
 👩‍🦽👩🏼‍🦽👩🏽‍🦽👩🏾‍🦽👩🏿‍🦽🧘 🧘🏼 🧘🏽 🧘🏾 🧘🏿 🙋 🙋🏼 🙋🏽 🙋🏾 🙋🏿
+
+You can copy and paste them into your code.
 </div>

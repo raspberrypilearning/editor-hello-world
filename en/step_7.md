@@ -8,6 +8,8 @@ The `datetime` module helps with writing code that uses dates and times.
 
 Import the `datetime` module on the first lines of code in your file.
 
+--- /task ---
+
 --- code ---
 ---
 language: python
@@ -20,8 +22,6 @@ from datetime import datetime
 
 # variables
 --- /code ---
-
---- /task ---
 
 <div class="c-project-callout c-project-callout--tip">
 

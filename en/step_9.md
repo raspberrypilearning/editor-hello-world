@@ -1,5 +1,7 @@
 <h2 class="c-project-heading--explainer">Functions</h2>
 
+--- task ---
+
 Functions can be used in Python to perform specific tasks. They are blocks of code that can be used over and over again.
 
 A function needs a name, and then the code that is going to go in the function.
@@ -7,6 +9,8 @@ A function needs a name, and then the code that is going to go in the function.
 Code in a function needs to be **indented**, which means that you need to add **four spaces** before each line of code.
 
 Most code editors add the indentation for you.
+
+--- /task ---
 
 Here is an example of a function:
 
@@ -23,4 +27,8 @@ def my_function():
     print(x)
 --- /code ---
 
-You *call* a function by using its name. In this case `my_function()`.
+<div class="c-project-callout c-project-callout--tip">
+
+**Calling** a function runs the code inside it. You **call** a function by using its name. In this case `my_function()`.
+
+</div>
