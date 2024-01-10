@@ -13,7 +13,7 @@ Your code should look like this:
 language: python
 line_numbers: true
 line_number_start: 9
-line_highlights: 10,11
+line_highlights: 10, 11
 ---
 # Function definitions        
 def roll_dice():

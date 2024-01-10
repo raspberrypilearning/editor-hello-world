@@ -4,6 +4,8 @@
 
 A **variable** is used to store values such as text or numbers. Choosing a sensible name for a variable makes it easier for you to remember what it is for.
 
+--- /task ---
+
 We have included some variables that store emoji characters.
 
 <div class="c-project-code">
@@ -27,4 +29,4 @@ print(f'Hello')
 --- /code ---
 </div>
 
---- /task ---
+

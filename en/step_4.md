@@ -4,6 +4,8 @@
 
 **Add** another line to your code to `print()` more text and emojis:
 
+--- /task ---
+
 Your code should look like this:
 
 --- code ---
@@ -17,8 +19,6 @@ line_highlights: 10
 print(f'Hello {world}')
 print(f'Welcome to {python}')
 --- /code ---
-
---- /task ---
 
 **Test:** Click the **Run** button.
 This is what you should see when you run your code.
