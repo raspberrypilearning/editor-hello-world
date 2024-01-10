@@ -12,7 +12,7 @@ Your code should look like this:
 ---
 language: python
 line_numbers: true
-line_number_start: 1
+line_number_start: 3
 line_highlights: 11
 ---
 # variables

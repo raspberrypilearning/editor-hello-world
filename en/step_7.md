@@ -15,7 +15,7 @@ Import the `datetime` module on the first lines of code in your file.
 language: python
 line_numbers: true
 line_number_start: 1
-line_highlights: 1, 2
+line_highlights: 2
 ---
 # imports
 from datetime import datetime
