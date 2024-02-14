@@ -35,6 +35,6 @@ steps:
       version: 1
       questions: 3
       passing_score: 3
+  - title: step 18
     completion:
       - external
-  - title: step 18
