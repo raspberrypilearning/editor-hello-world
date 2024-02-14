@@ -11,7 +11,7 @@ last_tested: "2021-10-06"
 steps:
   - title: step 1
   - title: step 2
-      completion:
+    completion:
       - engaged
   - title: step 3
   - title: step 4
@@ -27,7 +27,7 @@ steps:
   - title: step 14
   - title: step 15
   - title: step 16
-      completion:
+    completion:
       - internal
   - title: step 17
     knowledge_quiz:
@@ -35,6 +35,6 @@ steps:
       version: 1
       questions: 3
       passing_score: 3
-  - title: step 18
-      completion:
+    completion:
       - external
+  - title: step 18
