@@ -1,11 +1,5 @@
 ## Quick quiz
 
-Answer the three questions. There are hints to guide you to the correct answer.
-
-When you have answered each question, click on **Check my answer**.
-
-Have fun!
-
 --- question ---
 ---
 legend: Question 1 of 3
