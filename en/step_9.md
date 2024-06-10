@@ -7,9 +7,7 @@ Here is an example of a function:
 --- code ---
 ---
 language: python
-line_numbers: true
-line_number_start: 1
-line_highlights:
+line_numbers: false
 ---
 # Function definitions
 def add_one_and_one():
