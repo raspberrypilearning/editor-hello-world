@@ -7,7 +7,7 @@
 ➡️ Call the function to run the code inside it. 
 --- /task ---
 
-Create a function called `roll_dice()`, that prints out a number that you can choose. 
+Create a function called `roll_dice()`, that prints out the number 4. 
 
 --- code ---
 ---

@@ -2,20 +2,35 @@
 
 --- task ---
 
-In Python you can multiply strings such as emojis or whole words by a number, so they print out several times.
-
-Change your function to store the random number in a variable called `roll`, then print it out.
+➡️ Store the random number in a variable.
+➡️ Multiply the number by the 🔥 emoji to print the emoji a number of times equal to the dice roll. 
 
 --- /task ---
 
-Your code should look like this:
+In Python you can multiply strings such as emojis or whole words by a number, so they print out several times.
+
+Store the random number in a variable called `roll`.
 
 --- code ---
 ---
 language: python
 line_numbers: true
 line_number_start: 10
-line_highlights: 12-13
+line_highlights: 12
+---
+# Function definitions        
+def roll_dice():
+    roll = randint(1,6)
+--- /code ---
+
+Multiply the random number stored in `roll` by the 🔥 emoji, and print the result.
+
+--- code ---
+---
+language: python
+line_numbers: true
+line_number_start: 10
+line_highlights: 13
 ---
 # Function definitions        
 def roll_dice():
