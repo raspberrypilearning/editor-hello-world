@@ -1,12 +1,13 @@
 <h2 class="c-project-heading--task">Change the dice</h2>
 
 --- task ---
-
-Use your `max` variable to change the number of sides the dice has. At the moment `max` is a string, so it needs changing to an integer `int()`.
-
-Changing one type of data to another type of data is called **type casting**.
-
+➡️ Change the input data to an integer.
+➡️ Generate a random number between 1 and the number of sides the user typed in.
 --- /task ---
+
+Inputs are always stored as text, but we need to use the input stored in `max` to specify the largest number that could be rolled. 
+
+`max` is a string, so it needs changing to an integer `int()`.
 
 --- code ---
 ---
@@ -37,4 +38,12 @@ How many sides on your dice?:12
 That is a D 12
 You rolled a 5 🔥🔥🔥🔥🔥
 ```
+</div>
+
+<div class="c-project-callout c-project-callout--tip">
+
+### Tip
+
+Changing one type of data to another type of data is called **type casting**.
+
 </div>

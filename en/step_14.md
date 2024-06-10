@@ -2,9 +2,10 @@
 
 --- task ---
 
-You can use `input()` to ask the person using your program to enter text, and save it as a variable.
-
+➡️ Allow the person using your program to type in some input.
 --- /task ---
+
+You can use `input()` to ask the person using your program to enter text, and save it as a variable.
 
 --- code ---
 ---
