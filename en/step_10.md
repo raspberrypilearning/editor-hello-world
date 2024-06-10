@@ -2,11 +2,12 @@
 
 --- task ---
 
-Create a function called `roll_dice()`, that prints out a number that you can choose. Then call the function at the bottom of your code.
+➡️ Create a function to simulate rolling a dice.
 
+➡️ Call the function to run the code inside it. 
 --- /task ---
 
-Your code should look like this:
+Create a function called `roll_dice()`, that prints out a number that you can choose. 
 
 --- code ---
 ---
@@ -22,25 +23,18 @@ def roll_dice():
 # Put code to run under here
 --- /code ---
 
+Then, call the function at the bottom of your code.
+
 --- code ---
 ---
 language: python
 line_numbers: true
-line_number_start: 17
+line_number_start: 18
 line_highlights: 19
 ---
-print(f'{111111111 * 111111111}')
 print(f'The date and time is {datetime.now()}')
 roll_dice()
 --- /code ---
-
-<div class="c-project-callout c-project-callout--tip">
-
-### Tip
-
-You can use the **Tab** key on your keyboard to insert 4 spaces. Pressing **Shift** and **Tab** will remove the 4 spaces.
-
-</div>
 
 **Test:** Click the **Run** button.
 This is what you should see when you run your code.
@@ -54,6 +48,14 @@ Python 🐍 is good at maths!
 The date and time is 2023-11-21 15:55:33.038000
 You rolled a 4
 ```
+</div>
+
+<div class="c-project-callout c-project-callout--tip">
+
+### Tip
+
+You can use the **Tab** key on your keyboard to insert 4 spaces. Pressing **Shift** and **Tab** will remove the 4 spaces.
+
 </div>
 
 <div class="c-project-callout c-project-callout--debug">

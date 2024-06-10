@@ -2,9 +2,10 @@
 
 --- task ---
 
-Change your `roll_dice()` function so that it chooses a random number each time the code is run.
-
+➡️ Choose a random number for the dice roll.
 --- /task ---
+
+Use the `randint` function you imported to choose a random number between 1 and 6 for the dice roll.
 
 --- code ---
 ---
@@ -18,16 +19,9 @@ def roll_dice():
     print(f'You rolled a {randint(1, 6)}')
 --- /code ---
 
-<div class="c-project-callout c-project-callout--tip">
-
-### Tip
-
-`randint` is short for random integer. Integers are whole numbers.
-
-</div>
 
 **Test:** Click the **Run** button.
-This is what you should see when you run your code, and a new random number between 1 and 6 will be chosen each time.
+Now when you run your code, a new random number between 1 and 6 will be chosen each time.
 
 <div class="c-project-output">
 ```
@@ -39,6 +33,15 @@ The date and time is 2023-11-21 16:02:12.535000
 You rolled a 6
 ```
 </div>
+
+<div class="c-project-callout c-project-callout--tip">
+
+### Tip
+
+`randint` is short for random integer. Integers are whole numbers.
+
+</div>
+
 
 <div class="c-project-callout c-project-callout--debug">
 

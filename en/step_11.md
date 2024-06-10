@@ -2,12 +2,11 @@
 
 --- task ---
 
-Another module called `random` can be used to create random numbers
-Import the `randint` function from the `random` module.
+➡️ Import the `randint` function from the `random` module.
 
 --- /task ---
 
-Your code should look like this:
+Another module called `random` can be used to create random numbers
 
 --- code ---
 ---
