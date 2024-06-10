@@ -2,43 +2,25 @@
 
 --- task ---
 
-In Python, `print()`{:.language-python} outputs strings (words or numbers) to the screen.
-Type the code to `print()`{:.language-python} Hello to the screen:
+➡️ Display the word 'Hello' on the screen
 
 --- /task ---
 
-Your code should look like this:
+In Python, `print()`{:.language-python} outputs strings (words or numbers) to the screen.
+
+Type the code to `print()`{:.language-python} Hello to the screen:
 
 <div class="c-project-code">
 --- code ---
 ---
 language: python
-filename: main.py
 line_numbers: true
-line_number_start: 1
+line_number_start: 10
 line_highlights: 11
 ---
-# imports
-
-# variables
-world = '🌍🌎🌏'
-python = 'Python 🐍'
-fire = '🔥'
-
-# Function definitions        
-    
 # Put code to run under here.
 print(f'Hello')
 --- /code ---
-
-</div>
-
-<div class="c-project-callout c-project-callout--tip">
-
-### Tip
-
-When you type an opening bracket `(`{:.language-python} the code editor will automatically add a closing bracket `)`{:.language-python} 
-This also happens when you type an opening apostrophe `'`{:.language-python}.
 
 </div>
 
@@ -49,6 +31,15 @@ This is what you should see when you run your code.
 ```
 Hello
 ```
+</div>
+
+<div class="c-project-callout c-project-callout--tip">
+
+### Tip
+
+When you type an opening bracket `(`{:.language-python} the code editor will automatically add a closing bracket `)`{:.language-python} 
+This also happens when you type an opening apostrophe `'`{:.language-python}.
+
 </div>
 
 <div class="c-project-callout c-project-callout--debug">
