@@ -1,12 +1,11 @@
-<h2 class="c-project-heading--task">Sentence starter</h2>
+<h2 class="c-project-heading--task">Over to you</h2>
 
 --- task ---
-
-Add more `print` lines to your code. Here are some sentence starters that you can use:
+➡️ Practice adding more `print` lines to your code. 
 
 --- /task ---
 
-Your code should look something like this.
+Here are some sentence starters that you can use:
 
 --- code ---
 ---
