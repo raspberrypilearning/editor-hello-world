@@ -14,7 +14,6 @@ We have included some variables that store emoji characters.
 --- code ---
 ---
 language: python
-filename: main.py
 line_numbers: true
 line_number_start: 3
 line_highlights: 4-6
