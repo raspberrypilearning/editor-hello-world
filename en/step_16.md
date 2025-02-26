@@ -24,7 +24,7 @@ print(f'I would like to make ... with {python}')
 
 ### Tip
 
-Here are a list of some emojis you might like to use.:
+Here is a list of some emojis you might like to use:
 
 🎊 🙌 🙌🏼 🙌🏽 🙌🏾 🙌🏿 😃 🕒 🎨 🎮 🔬 🎉 🕶️ 🎲 😊
 🦄 🚀 💯 ⭐ 💛 ❤️ 📚 ⚽ 🏏 🏀 🥋 🏆 ✨ 🥺 🌈 🔥 ♻️ 🌳
