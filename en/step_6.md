@@ -1,12 +1,10 @@
 <h2 class="c-project-heading--task">Create a calculation</h2>
 
 --- task ---
-
-Add two more `print()` lines to your code including a multiplication for Python to calculate:
-
+➡️ Print the value of a calculation.
 --- /task ---
 
-Your code should look like this.
+Add two more `print()` lines to your code including a multiplication for Python to calculate:
 
 --- code ---
 ---
@@ -23,16 +21,6 @@ print(f'{111111111 * 111111111}')
 
 --- /code ---
 
-
-
-<div class="c-project-callout c-project-callout--tip">
-
-### Tip
-
-Python uses the same rules for calculations as you might have learned at school. **B**rackets first, then **O**rders, **D**ivision, **M**ultiplication, **A**ddition, and lastly **S**ubtraction.
-
-</div>
-
 **Test:** Click the **Run** button.
 This is what you should see when you run your code.
 
@@ -44,6 +32,16 @@ Python 🐍 is good at maths!
 12345678987654321
 ```
 </div>
+
+
+<div class="c-project-callout c-project-callout--tip">
+
+### Tip
+
+Python uses the same rules for calculations as you might have learned at school. **B**rackets first, then **O**rders, **D**ivision, **M**ultiplication, **A**ddition, and lastly **S**ubtraction.
+
+</div>
+
 
 <div class="c-project-callout c-project-callout--debug">
 

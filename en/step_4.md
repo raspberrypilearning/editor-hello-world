@@ -1,12 +1,10 @@
-<h2 class="c-project-heading--task">Print python</h2>
+<h2 class="c-project-heading--task">Print another variable</h2>
 
 --- task ---
-
-**Add** another line to your code to `print()` more text and emojis:
-
+➡️ Print the contents of the `python` variable.
 --- /task ---
 
-Your code should look like this:
+**Add** another line to your code to `print()` more text and emojis:
 
 --- code ---
 ---
