@@ -1,22 +1,20 @@
-<h2 class="c-project-heading--task">Create a calculation</h2>
+<h2 class="c-project-heading--task">Maak een berekening</h2>
 
 \--- task ---
+➡️ Print the value of a calculation.
+\---/task---
 
 Add two more `print()` lines to your code including a multiplication for Python to calculate:
 
-\--- /task ---
-
-Your code should look like this.
-
-## --- code ---
+## images/iss-image.png
 
 language: python
 line_numbers: true
 line_number_start: 10
 line_highlights: 13-14
--------------------------------------------
+-----------------------------------------------------------
 
-# Put code to run under here
+# Zet de code om uit te voeren hier onder
 
 print(f'Hello {world}')
 print(f'Welcome to {python}')
@@ -24,14 +22,6 @@ print(f'{python} is good at maths!')
 print(f'{111111111 \* 111111111}')
 
 \--- /code ---
-
-<div class="c-project-callout c-project-callout--tip">
-
-### Tip
-
-Python uses the same rules for calculations as you might have learned at school. **B**rackets first, then **O**rders, **D**ivision, **M**ultiplication, **A**ddition, and lastly **S**ubtraction.
-
-</div>
 
 **Test:** Click the **Run** button.
 This is what you should see when you run your code.
@@ -43,6 +33,14 @@ Welcome to Python 🐍
 Python 🐍 is good at maths!
 12345678987654321
 ```
+</div>
+
+<div class="c-project-callout c-project-callout--tip">
+
+### Tip
+
+Python uses the same rules for calculations as you might have learned at school. **B**rackets first, then **O**rders, **D**ivision, **M**ultiplication, **A**ddition, and lastly **S**ubtraction.
+
 </div>
 
 <div class="c-project-callout c-project-callout--debug">
