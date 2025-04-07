@@ -1,6 +1,6 @@
 ## --- question ---
 
-## legend: Question 2 of 3
+## legend: Vraag 2 van 3
 
 Which of these function definitions is correct and will print `I can code` when called?
 
@@ -10,12 +10,12 @@ Which of these function definitions is correct and will print `I can code` when 
 
 - (x)
 
-## --- code ---
+## images/iss-image.png
 
 ## language: python
 
-def awesome():
-print('I can code')
+def geweldig():
+print('Ik kan coderen')
 
 \--- /code ---
 
@@ -27,35 +27,35 @@ That's correct, calling this function will print `I can code`. You spotted that 
 
 - ()
 
-## --- code ---
+## images/iss-image.png
 
 ## language: python
 
-def awesome():
-print('I can code')
+def geweldig():
+print('Ik kan coderen')
 
 \--- /code ---
 
 \--- feedback ---
 
-Not quite, the layout in this example would cause an error.
+Niet helemaal, de lay-out in dit voorbeeld zou een fout veroorzaken.
 
 \--- /feedback ---
 
 - ( )
 
-## --- code ---
+## images/iss-image.png
 
 ## language: python
 
-def awesome()
-print('I can code')
+def geweldig()
+print('Ik kan coderen')
 
 \--- /code ---
 
 \--- feedback ---
 
-Not quite, there is something missing from the function definition that woud cause an error.
+Niet helemaal, er ontbreekt iets in de functiedefinitie en deze lay-out zou een fout veroorzaken.
 
 \--- /feedback ---
 
