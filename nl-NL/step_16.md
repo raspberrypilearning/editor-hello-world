@@ -1,20 +1,19 @@
-<h2 class="c-project-heading--task">Sentence starter</h2>
+<h2 class="c-project-heading--task">Over to you</h2>
 
 \--- task ---
+➡️ Practice adding more `print` lines to your code.
 
-Add more `print` lines to your code. Here are some sentence starters that you can use:
+\---/task---
 
-\--- /task ---
+Here are some sentence starters that you can use:
 
-Your code should look something like this.
-
-## --- code ---
+## images/iss-image.png
 
 language: python
 line_numbers: true
 line_number_start: 23
 line_highlights: 24-26
--------------------------------------------
+-----------------------------------------------------------
 
 roll_dice()
 print(f'I ❤️ ...')\
@@ -26,7 +25,7 @@ print(f'I would like to make ... with {python}')
 
 ### Tip
 
-Here are a list of some emojis you might like to use.:
+Here is a list of some emojis you might like to use:
 
 🎊 🙌 🙌🏼 🙌🏽 🙌🏾 🙌🏿 😃 🕒 🎨 🎮 🔬 🎉 🕶️ 🎲 😊
 🦄 🚀 💯 ⭐ 💛 ❤️ 📚 ⚽ 🏏 🏀 🥋 🏆 ✨ 🥺 🌈 🔥 ♻️ 🌳
