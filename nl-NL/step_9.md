@@ -1,32 +1,25 @@
-<h2 class="c-project-heading--explainer">Functions</h2>
+<h2 class="c-project-heading--explainer">Functies</h2>
 
-Functions can be used in Python to perform specific tasks. They are blocks of code that can be used over and over again.
-
-A function needs a name, and then the code that is going to go in the function.
-
-Code in a function needs to be **indented**, which means that you need to add **four spaces** before each line of code.
-
-Most code editors add the indentation for you.
+Functions are blocks of code that perform specific tasks. They can be used over and over again.
 
 Here is an example of a function:
 
-## --- code ---
+## images/iss-image.png
 
 language: python
-line_numbers: true
-line_number_start: 1
-line_highlights:
--------------------------------------
+line_numbers: false
+--------------------------------------------------------
 
-# Function definitions
+# Functiedefinities
 
-def my_function():
+def add_one_and_one():
 x = 1 + 1
 print(x)
 \--- /code ---
 
-<div class="c-project-callout c-project-callout--tip">
+The name of this function is `add_one_and_one`.
 
-**Calling** a function runs the code inside it. You **call** a function by using its name. In this case `my_function()`.
+The code for the task you want the function to do needs to be **indented**, which means that you need to add **four spaces** before each line of code.
 
-</div>
+**Calling** a function runs the code inside it. You **call** a function by using its name. In this case `add_one_and_one()`.
+
