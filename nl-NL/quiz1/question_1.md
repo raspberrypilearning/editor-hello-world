@@ -1,22 +1,16 @@
-## Quick quiz
-
-Answer the three questions. There are hints to guide you to the correct answer.
-
-When you have answered each question, click on **Check my answer**.
-
-Have fun!
+## Snelle quiz
 
 ## --- question ---
 
-## legend: Question 1 of 3
+## legend: Vraag 1 van 3
 
 This code sets the `world` variable to contain the text '🌍🌎🌏' (the three different world emoji):
 
-## --- code ---
+## images/iss-image.png
 
 ## language: python
 
-world = '🌍🌎🌏'
+wereld = '🌍🌎🌏'
 
 \--- /code ---
 
@@ -28,11 +22,11 @@ Which code correctly uses the `world` variable and outputs Hello 🌍🌎🌏?
 
 - ( )
 
-## --- code ---
+## images/iss-image.png
 
 ## language: python
 
-output('Hello' world)
+output('Hallo' wereld)
 
 \--- /code ---
 
@@ -44,11 +38,11 @@ Not quite, `output` is not the way to output messages to the screen.
 
 - ( )
 
-## --- code ---
+## images/iss-image.png
 
 ## language: python
 
-print('Hello' world)
+print('Hallo' wereld)
 
 \--- /code ---
 
@@ -60,27 +54,27 @@ Not quite, in Python `print` outputs messages to the screen, but something is mi
 
 - (x)
 
-## --- code ---
+## images/iss-image.png
 
 ## language: python
 
-print('Hello', world)
+print(f'Hello {world}')
 
 \--- /code ---
 
 \--- feedback ---
 
-That's correct, in Python `print` outputs messages to the screen. The text output is inside single quotes `'` , a comma separates the two items and provides a space, then the `world` variable is called, which stores the earth emoji 🌍🌎🌏, like in your project.
+That's correct, in Python `print(f'')` outputs messages to the screen. The text output is inside single quotes `'` , and curly braces `{}` are used to print the `world` variable.
 
 \--- /feedback ---
 
 - ( )
 
-## --- code ---
+## images/iss-image.png
 
 ## language: python
 
-print(Hello, world)
+print('Hello {world}')
 
 \--- /code ---
 
