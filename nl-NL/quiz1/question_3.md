@@ -1,20 +1,20 @@
 ## --- question ---
 
-## legend: Question 3 of 3
+## legend: Vraag 3 van 3
 
-This function outputs two random numbers:
+Deze functie geeft twee willekeurige getallen:
 
-## --- code ---
+## images/iss-image.png
 
 ## language: python
 
-def two_dice():
-print('First number:', randint(1, 6))
-print('Second number:', randint(1, 6))
+def twee_getallen():
+print('Eerste getal: ', randint(1, 6))
+print('Tweede getal: ', randint(1, 6))
 
 \--- /code ---
 
-Which code will call the function to run it?
+Welke code roept de functie aan om uit te voeren?
 
 ![The code editor with output area showing two randomly generated numbers.](images/quiz3.png)
 
@@ -22,62 +22,62 @@ Which code will call the function to run it?
 
 - ( )
 
-## --- code ---
+## images/iss-image.png
 
 ## language: python
 
-def two_dice():
-print('First number:', randint(1, 6))
-print('Second number:', randint(1, 6))
+def twee_getallen():
+print('Eerste getal: ', randint(1, 6))
+print('Tweede getal: ', randint(1, 6))
 
 \--- /code ---
 
 \--- feedback ---
 
-No, this is the code to define the function, but it does not run the function. You'll need to use different code to call it.
+Nee, dit is de code om de functie te definiëren, maar deze voert de functie niet uit. Je moet andere code gebruiken om de functie aan te roepen.
 
 \--- /feedback ---
 
 - ( )
-  \--- code ---
+ \--- code ---
 
-***
+---
 
 ## language: python
 
-two_dice
+twee_dobbelstenen
 
 \--- /code ---
 
 \--- feedback ---
 
-Close! `two_dice` is the name of the function, but to call it you need more than just the name.
+Bijna! `two_dice` is the name of the function, but to call it you need more than just the name.
 
 \--- /feedback ---
 
 - ()
 
-## --- code ---
+## images/iss-image.png
 
 ## language: python
 
-two_dice[]
+twee_getallen[]
 
 \--- /code ---
 
 \--- feedback ---
 
-Not quite, think about they type of brackets you used to call the functions in your project.
+Niet helemaal, denk aan het type haakjes dat je moet gebruiken om de functies in je project aan te roepen.
 
 \--- /feedback ---
 
 - (x)
 
-## --- code ---
+## images/iss-image.png
 
 ## language: python
 
-two_dice()
+twee_getallen()
 
 \--- /code ---
 
