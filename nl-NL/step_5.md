@@ -1,4 +1,4 @@
-<h2 class="c-project-heading--explainer">Operators</h2>
+<h2 class="c-project-heading--explainer">Functies</h2>
 
 In Python you can work with numbers and dates. You can use **arithmetic operators** such as `+` and `-`  to do calculations:
 
@@ -7,3 +7,5 @@ In Python you can work with numbers and dates. You can use **arithmetic operator
 \| \* | multiply |\
 \| / | divide |\
 \| \*\* | exponent |
+
+
