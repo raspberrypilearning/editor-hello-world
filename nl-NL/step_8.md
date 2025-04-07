@@ -1,12 +1,12 @@
 <h2 class="c-project-heading--task">Print the date</h2>
 
 \--- task ---
+➡️ Display the current date and time.
+\---/task---
 
 Add another line to your code to `print` the current date and time.
 
 Get the current date and time by using the `now()` function from the `datetime` module:
-
-\--- /task ---
 
 ## --- code ---
 
@@ -14,11 +14,12 @@ language: python
 line_numbers: true
 line_number_start: 14
 line_highlights: 16
-----------------------------------------
+--------------------------------------------------------
 
 print(f'{python} is good at maths!')
 print(f'{111111111 \* 111111111}')
 print(f'The date and time is {datetime.now()}')
+
 \--- /code ---
 
 **Test:** Click the **Run** button.
