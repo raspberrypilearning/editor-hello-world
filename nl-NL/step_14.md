@@ -2,19 +2,20 @@
 
 \--- task ---
 
-You can use `input()` to ask the person using your program to enter text, and save it as a variable.
-
+➡️ Allow the person using your program to type in some input.
 \--- /task ---
 
-## --- code ---
+You can use `input()` to ask the person using your program to enter text, and save it as a variable.
+
+## images/iss-image.png
 
 language: python
 line_numbers: true
 line_number_start: 10
 line_highlights: 12-13
--------------------------------------------
+-----------------------------------------------------------
 
-# Function definitions
+# Functiedefinities
 
 def roll_dice():
 max = input('How many sides on your dice?:')
