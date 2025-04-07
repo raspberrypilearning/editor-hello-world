@@ -1,41 +1,31 @@
 <h2 class="c-project-heading--task">Print variables</h2>
 
 \--- task ---
+➡️ Print the contents of a variable.
+\---/task---
 
 Change your code to also `print()` the contents of the `world` variable. You can do this by adding the variable name in curly brackets `{}`
 
-\--- /task ---
-
-Your code should look like this:
-
-## --- code ---
+## images/iss-image.png
 
 language: python
 line_numbers: true
 line_number_start: 3
 line_highlights: 11
-----------------------------------------
+--------------------------------------------------------
 
-# variables
+# variabelen
 
-world = '🌍🌎🌏'
+wereld = '🌍🌎🌏'
 python = 'Python 🐍'
-fire = '🔥'
+vuur = '🔥'
 
-# Function definitions
+# Functiedefinities
 
-# Put code to run under here
+# Zet de code om uit te voeren hier onder
 
 print(f'Hello {world}')
 \--- /code ---
-
-<div class="c-project-callout c-project-callout--tip">
-
-### Tip
-
-The `f` character inside the print lets you easily print variables along with strings of text.
-
-</div>
 
 **Test:** Click the **Run** button.
 This is what you should see when you run your code.
@@ -44,6 +34,14 @@ This is what you should see when you run your code.
 ```
 Hello 🌍🌎🌏
 ```
+</div>
+
+<div class="c-project-callout c-project-callout--tip">
+
+### Tip
+
+The `f` character inside the print lets you easily print variables along with strings of text.
+
 </div>
 
 <div class="c-project-callout c-project-callout--debug">
