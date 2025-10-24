@@ -5,7 +5,7 @@
 ➡️ Change the input data to an integer.
 ➡️ Generate a random number between 1 and the number of sides the user typed in.
 
-\---/task---
+\--- /task ---
 
 Inputs are always stored as text, but we need to use the input stored in `max` to specify the largest number that could be rolled.
 
@@ -19,7 +19,7 @@ line_number_start: 10
 line_highlights: 14
 --------------------------------------------------------
 
-# Function definitions
+# Functiedefinities
 
 def roll_dice():
 max = input('How many sides on your dice?:')
@@ -29,7 +29,7 @@ print(f'You rolled a {roll} {fire \* roll}')
 
 \--- /code ---
 
-**Test:** Click the **Run** button.
+**Test:** Klik op de **Run** knop.
 This is what you should see:
 
 <div class="c-project-output">
