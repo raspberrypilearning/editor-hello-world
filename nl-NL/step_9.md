@@ -15,6 +15,7 @@ line_numbers: false
 def add_one_and_one():
 x = 1 + 1
 print(x)
+
 \--- /code ---
 
 The name of this function is `add_one_and_one`.
