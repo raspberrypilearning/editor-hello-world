@@ -10,7 +10,7 @@ vuur = '🔥'
 def gooi_dobbelsteen():
     max = input('How many sides on your dice?:')
     print(f'That is a D {max}')
-    roll = randint(1, int(max))
+    worp = randint(1, int(max))
     print(f'You rolled a {roll} {fire * roll}')
     
 # Zet de code om uit te voeren hieronder
@@ -22,4 +22,4 @@ print(f'The date and time is {datetime.now()}')
 gooi_dobbelsteen() #Roep de dobbelsteen functie aan
 print(f'I ❤️ ...')   
 print(f'... maakt mij 😃')   
-print(f'I would like to make ... with {python}')
+print(f'I would like to make ... maken met {python}')
