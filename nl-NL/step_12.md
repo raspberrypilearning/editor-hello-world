@@ -3,11 +3,12 @@
 \--- task ---
 
 ➡️ Choose a random number for the dice roll.
+
 \--- /task ---
 
 Use the `randint` function you imported to choose a random number between 1 and 6 for the dice roll.
 
-## images/iss-image.png
+## --- code ---
 
 language: python
 line_numbers: true
@@ -15,10 +16,11 @@ line_number_start: 10
 line_highlights: 12
 --------------------------------------------------------
 
-# Functiedefinities
+# Function definitions
 
 def roll_dice():
 print(f'You rolled a {randint(1, 6)}')
+
 \--- /code ---
 
 **Test:** Click the **Run** button.
