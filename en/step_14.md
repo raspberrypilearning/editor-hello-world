@@ -3,6 +3,7 @@
 --- task ---
 
 ➡️ Allow the person using your program to type in some input.
+
 --- /task ---
 
 You can use `input()` to ask the person using your program to enter text, and save it as a variable.
@@ -14,12 +15,14 @@ line_numbers: true
 line_number_start: 10
 line_highlights: 12-13
 ---
+
 # Function definitions
 def roll_dice():
     max = input('How many sides on your dice?:')
     print(f'That is a D {max}')
     roll = randint(1,6)
     print(f'You rolled a {roll} {fire * roll}')
+
 --- /code ---
 
 **Test:** Click the **Run** button.

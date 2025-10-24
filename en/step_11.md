@@ -15,9 +15,11 @@ line_numbers: true
 line_number_start: 1
 line_highlights: 3
 ---
+
 # imports
 from datetime import datetime
 from random import randint
+
 --- /code ---
 
 Your code output will not change when you run it.

@@ -18,9 +18,11 @@ line_numbers: true
 line_number_start: 10
 line_highlights: 12
 ---
+
 # Function definitions        
 def roll_dice():
     roll = randint(1,6)
+
 --- /code ---
 
 Multiply the random number stored in `roll` by the 🔥 emoji, and print the result.
@@ -32,10 +34,12 @@ line_numbers: true
 line_number_start: 10
 line_highlights: 13
 ---
+
 # Function definitions        
 def roll_dice():
     roll = randint(1,6)
     print(f'You rolled a {roll} {fire * roll}')
+    
 --- /code ---
 
 **Test:** Click the **Run** button.

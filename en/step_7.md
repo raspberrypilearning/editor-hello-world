@@ -1,6 +1,7 @@
 <h2 class="c-project-heading--task">Using modules</h2>
 
 --- task ---
+
 ➡️ Import the `datetime` module.
 
 --- /task ---
@@ -16,10 +17,12 @@ line_numbers: true
 line_number_start: 1
 line_highlights: 2
 ---
+
 # imports
 from datetime import datetime
 
 # variables
+
 --- /code ---
 
 When you run this code, nothing should change, and you should have the same output as the previous step.

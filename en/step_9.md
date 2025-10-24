@@ -9,10 +9,12 @@ Here is an example of a function:
 language: python
 line_numbers: false
 ---
+
 # Function definitions
 def add_one_and_one():
     x = 1 + 1
     print(x)
+
 --- /code ---
 
 The name of this function is `add_one_and_one`. 
