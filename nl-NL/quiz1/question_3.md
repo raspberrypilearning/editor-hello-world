@@ -4,7 +4,7 @@
 
 Deze functie geeft twee willekeurige getallen:
 
-## images/iss-image.png
+## --- code ---
 
 ## language: python
 
@@ -22,7 +22,7 @@ Welke code roept de functie aan om uit te voeren?
 
 - ( )
 
-## images/iss-image.png
+## --- code ---
 
 ## language: python
 
@@ -57,7 +57,7 @@ Bijna! `two_dice` is the name of the function, but to call it you need more than
 
 - ()
 
-## images/iss-image.png
+## --- code ---
 
 ## language: python
 
@@ -73,7 +73,7 @@ Niet helemaal, denk aan het type haakjes dat je moet gebruiken om de functies in
 
 - (x)
 
-## images/iss-image.png
+## --- code ---
 
 ## language: python
 
