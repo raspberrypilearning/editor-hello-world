@@ -7,11 +7,11 @@
 
 \--- /task ---
 
-In Python you can multiply strings such as emojis or whole words by a number, so they print out several times.
+In Python kun je strings zoals emoji's of hele woorden vermenigvuldigen met een getal, zodat ze meerdere keren worden geprint.
 
 Store the random number in a variable called `roll`.
 
-## images/iss-image.png
+## --- code ---
 
 language: python
 line_numbers: true
@@ -36,7 +36,7 @@ line_number_start: 10
 line_highlights: 13
 --------------------------------------------------------
 
-# Function definitions
+# Functiedefinities
 
 def roll_dice():
 roll = randint(1,6)
@@ -44,8 +44,8 @@ print(f'You rolled a {roll} {fire \* roll}')
 
 \--- /code ---
 
-**Test:** Click the **Run** button.
-Your output code should look something like this:
+**Test:** Klik op de **Run** knop.
+Je uitvoer zou er ongeveer zo uit moeten zien:
 
 <div class="c-project-output">
 ```
@@ -60,7 +60,7 @@ You rolled a 4 🔥🔥🔥🔥
 
 <div class="c-project-callout c-project-callout--debug">
 
-### Debugging
+### Foutopsporing
 
 Check all your brackets are the same as the code example above.
 
