@@ -1,7 +1,9 @@
 <h2 class="c-project-heading--task">Create a calculation</h2>
 
 --- task ---
+
 ➡️ Print the value of a calculation.
+
 --- /task ---
 
 Add two more `print()` lines to your code including a multiplication for Python to calculate:
@@ -13,6 +15,7 @@ line_numbers: true
 line_number_start: 10
 line_highlights: 13-14
 ---
+
 # Put code to run under here
 print(f'Hello {world}')
 print(f'Welcome to {python}')

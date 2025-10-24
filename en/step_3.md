@@ -1,7 +1,9 @@
 <h2 class="c-project-heading--task">Print variables</h2>
 
 --- task ---
+
 ➡️ Print the contents of a variable.
+
 --- /task ---
 
 Change your code to also `print()` the contents of the `world` variable. You can do this by adding the variable name in curly brackets `{}`
@@ -13,6 +15,7 @@ line_numbers: true
 line_number_start: 3
 line_highlights: 11
 ---
+
 # variables
 world = '🌍🌎🌏'
 python = 'Python 🐍'
@@ -22,6 +25,7 @@ fire = '🔥'
   
 # Put code to run under here
 print(f'Hello {world}')
+
 --- /code ---
 
 **Test:** Click the **Run** button.

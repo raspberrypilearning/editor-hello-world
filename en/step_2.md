@@ -11,6 +11,7 @@ A **variable** is used to store values such as text or numbers. Choosing a sensi
 We have included some variables that store emoji characters.
 
 <div class="c-project-code">
+
 --- code ---
 ---
 language: python
@@ -18,6 +19,7 @@ line_numbers: true
 line_number_start: 3
 line_highlights: 4-6
 ---
+
 # variables
 world = '🌍🌎🌏'
 python = 'Python 🐍'
@@ -27,7 +29,9 @@ fire = '🔥'
   
 # Put code to run under here
 print(f'Hello')
+
 --- /code ---
+
 </div>
 
 
