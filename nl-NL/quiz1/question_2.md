@@ -14,8 +14,8 @@ Which of these function definitions is correct and will print `I can code` when 
 
 ## language: python
 
-def geweldig():
-print('Ik kan coderen')
+def awesome():
+print('I can code')
 
 \--- /code ---
 
@@ -48,8 +48,8 @@ Niet helemaal, de lay-out in dit voorbeeld zou een fout veroorzaken.
 
 ## language: python
 
-def geweldig()
-print('Ik kan coderen')
+def awesome()
+print('I can code')
 
 \--- /code ---
 
