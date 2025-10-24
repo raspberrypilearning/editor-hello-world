@@ -1,7 +1,9 @@
 <h2 class="c-project-heading--task">Maak een berekening</h2>
 
 \--- task ---
+
 ➡️ Print the value of a calculation.
+
 \---/task---
 
 Add two more `print()` lines to your code including a multiplication for Python to calculate:
