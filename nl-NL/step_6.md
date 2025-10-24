@@ -4,11 +4,11 @@
 
 ➡️ Print the value of a calculation.
 
-\---/task---
+\--- /task ---
 
 Add two more `print()` lines to your code including a multiplication for Python to calculate:
 
-## images/iss-image.png
+## --- code ---
 
 language: python
 line_numbers: true
@@ -25,8 +25,8 @@ print(f'{111111111 \* 111111111}')
 
 \--- /code ---
 
-**Test:** Click the **Run** button.
-This is what you should see when you run your code.
+**Test:** Klik op de **Run** knop.
+Dit is wat je zou moeten zien wanneer je jouw code uitvoert.
 
 <div class="c-project-output">
 ```
@@ -47,7 +47,7 @@ Python uses the same rules for calculations as you might have learned at school.
 
 <div class="c-project-callout c-project-callout--debug">
 
-### Debugging
+### Foutopsporing
 
 Don't forget that the UPPERCASE and lowercase letters are important in Python. Always check you are using the correct case.
 
