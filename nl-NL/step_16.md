@@ -4,11 +4,11 @@
 
 ➡️ Practice adding more `print` lines to your code.
 
-\---/task---
+\--- /task ---
 
-Here are some sentence starters that you can use:
+Hier zijn enkele startzinnen die je kunt gebruiken:
 
-## images/iss-image.png
+## --- code ---
 
 language: python
 line_numbers: true
@@ -19,7 +19,7 @@ line_highlights: 24-26
 roll_dice()
 print(f'I ❤️ ...')  
 print(f'... makes me 😃')  
-print(f'I would like to make ... with {python}')
+print(f'I would like to make ... maken met {python}')
 
 \--- /code ---
 
@@ -27,7 +27,7 @@ print(f'I would like to make ... with {python}')
 
 ### Tip
 
-Here is a list of some emojis you might like to use:
+Hier is een lijst met emoji's die je zou kunnen gebruiken:
 
 🎊 🙌 🙌🏼 🙌🏽 🙌🏾 🙌🏿 😃 🕒 🎨 🎮 🔬 🎉 🕶️ 🎲 😊
 🦄 🚀 💯 ⭐ 💛 ❤️ 📚 ⚽ 🏏 🏀 🥋 🏆 ✨ 🥺 🌈 🔥 ♻️ 🌳
