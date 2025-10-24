@@ -18,16 +18,16 @@ line_number_start: 9
 line_highlights: 10, 11
 ------------------------------------------------------------
 
-# Function definitions
+# Functiedefinities
 
 def roll_dice():
 print(f'You rolled a {4}')
 
-# Put code to run under here
+# Zet de code om uit te voeren hier onder
 
 \--- /code ---
 
-Then, call the function at the bottom of your code.
+Roep vervolgens de functie onderaan je code aan.
 
 ## --- code ---
 
@@ -42,8 +42,8 @@ roll_dice()
 
 \--- /code ---
 
-**Test:** Click the **Run** button.
-This is what you should see when you run your code.
+**Test:** Klik op de **Run** knop.
+Dit is wat je zou moeten zien wanneer je jouw code uitvoert.
 
 <div class="c-project-output">
 ```
@@ -66,7 +66,7 @@ You can use the **Tab** key on your keyboard to insert 4 spaces. Pressing **Shif
 
 <div class="c-project-callout c-project-callout--debug">
 
-### Debugging
+### Foutopsporing
 
 Check that you have brackets `()` and a colon `:` at the end of your function definition. Also check you are using brackets `()` when you call your function.
 
