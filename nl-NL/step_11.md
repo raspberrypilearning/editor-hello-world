@@ -4,11 +4,11 @@
 
 ➡️ Import the `randint` function from the `random` module.
 
-\---/task---
+\--- /task ---
 
 Another module called `random` can be used to create random numbers
 
-## images/iss-image.png
+## --- code ---
 
 language: python
 line_numbers: true
