@@ -23,6 +23,7 @@ line_highlights: 12
 
 def roll_dice():
 roll = randint(1,6)
+
 \--- /code ---
 
 Multiply the random number stored in `roll` by the 🔥 emoji, and print the result.
@@ -40,6 +41,7 @@ line_highlights: 13
 def roll_dice():
 roll = randint(1,6)
 print(f'You rolled a {roll} {fire \* roll}')
+
 \--- /code ---
 
 **Test:** Click the **Run** button.
