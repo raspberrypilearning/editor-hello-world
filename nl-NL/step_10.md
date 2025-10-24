@@ -5,11 +5,12 @@
 ➡️ Create a function to simulate rolling a dice.
 
 ➡️ Call the function to run the code inside it.
+
 \--- /task ---
 
 Create a function called `roll_dice()`, that prints out the number 4.
 
-## images/iss-image.png
+## --- code ---
 
 language: python
 line_numbers: true
@@ -17,18 +18,18 @@ line_number_start: 9
 line_highlights: 10, 11
 ------------------------------------------------------------
 
-# Functiedefinities
+# Function definitions
 
 def roll_dice():
 print(f'You rolled a {4}')
 
-# Zet de code om uit te voeren hier onder
+# Put code to run under here
 
 \--- /code ---
 
 Then, call the function at the bottom of your code.
 
-## images/iss-image.png
+## --- code ---
 
 language: python
 line_numbers: true
@@ -38,6 +39,7 @@ line_highlights: 19
 
 print(f'The date and time is {datetime.now()}')
 roll_dice()
+
 \--- /code ---
 
 **Test:** Click the **Run** button.
