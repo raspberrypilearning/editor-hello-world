@@ -16,15 +16,15 @@ line_number_start: 10
 line_highlights: 12
 --------------------------------------------------------
 
-# Function definitions
+# Functiedefinities
 
 def roll_dice():
 print(f'You rolled a {randint(1, 6)}')
 
 \--- /code ---
 
-**Test:** Click the **Run** button.
-Now when you run your code, a new random number between 1 and 6 will be chosen each time.
+**Test:** Klik op de **Run** knop.
+Wanneer je nu je code nog eens uitvoert, zal er elke keer een nieuw willekeurig getal tussen 1 en 6 worden gekozen.
 
 <div class="c-project-output">
 ```
@@ -47,7 +47,7 @@ You rolled a 6
 
 <div class="c-project-callout c-project-callout--debug">
 
-### Debugging
+### Foutopsporing
 
 Check your brackets and curly brackets if you get and error. Take note that the same number might be chosen over and over again. It's random!
 
