@@ -4,11 +4,11 @@
 
 ➡️ Print the contents of the `python` variable.
 
-\---/task---
+\--- /task ---
 
 **Add** another line to your code to `print()` more text and emojis:
 
-## images/iss-image.png
+## --- code ---
 
 language: python
 line_numbers: true
@@ -23,8 +23,8 @@ print(f'Welcome to {python}')
 
 \--- /code ---
 
-**Test:** Click the **Run** button.
-This is what you should see when you run your code.
+**Test:** Klik op de **Run** knop.
+Dit is wat je zou moeten zien wanneer je jouw code uitvoert.
 
 <div class="c-project-output">
 ```
