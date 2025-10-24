@@ -1,0 +1,55 @@
+<h2 class="c-project-heading--task">Print Hello</h2>
+
+\--- task ---
+
+➡️ Display the word 'Hello' on the screen
+
+\--- /task ---
+
+In Python, `print()`{:.language-python} outputs strings (words or numbers) to the screen.
+
+Type the code to `print()`{:.language-python} Hello to the screen:
+
+<div class="c-project-code">
+
+## --- code ---
+
+language: python
+line_numbers: true
+line_number_start: 10
+line_highlights: 11
+--------------------------------------------------------
+
+# Нижче розмісти код, який потрібно виконати
+
+print(f'Привіт')
+
+\--- /code ---
+
+</div>
+
+**Протестуй:** натисни на кнопку **Run**.
+Ось що ти маєш побачити.
+
+<div class="c-project-output">
+```
+Привіт
+```
+</div>
+
+<div class="c-project-callout c-project-callout--tip">
+
+### Tip
+
+When you type an opening bracket `(`{:.language-python} the code editor will automatically add a closing bracket `)`{:.language-python}
+This also happens when you type an opening apostrophe `'`{:.language-python}.
+
+</div>
+
+<div class="c-project-callout c-project-callout--debug">
+
+### Debugging
+
+If you get an error then check your code really carefully. Check there are single quotes around `Hello`{:.language-python} so Python knows it is meant to be text.
+
+</div>
