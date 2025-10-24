@@ -6,7 +6,7 @@
 
 This code sets the `world` variable to contain the text '🌍🌎🌏' (the three different world emoji):
 
-## images/iss-image.png
+## --- code ---
 
 ## language: python
 
@@ -22,7 +22,7 @@ Which code correctly uses the `world` variable and outputs Hello 🌍🌎🌏?
 
 - ( )
 
-## images/iss-image.png
+## --- code ---
 
 ## language: python
 
@@ -38,7 +38,7 @@ Not quite, `output` is not the way to output messages to the screen.
 
 - ( )
 
-## images/iss-image.png
+## --- code ---
 
 ## language: python
 
@@ -54,7 +54,7 @@ Not quite, in Python `print` outputs messages to the screen, but something is mi
 
 - (x)
 
-## images/iss-image.png
+## --- code ---
 
 ## language: python
 
@@ -70,7 +70,7 @@ That's correct, in Python `print(f'')` outputs messages to the screen. The text 
 
 - ( )
 
-## images/iss-image.png
+## --- code ---
 
 ## language: python
 
