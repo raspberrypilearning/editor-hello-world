@@ -11,16 +11,20 @@ In Python, `print()`{:.language-python} outputs strings (words or numbers) to th
 Type the code to `print()`{:.language-python} Hello to the screen:
 
 <div class="c-project-code">
---- code ---
----
+
+## --- code ---
+
 language: python
 line_numbers: true
 line_number_start: 10
 line_highlights: 11
----
+--------------------------------------------------------
+
 # Put code to run under here.
+
 print(f'Hello')
---- /code ---
+
+\--- /code ---
 
 </div>
 
