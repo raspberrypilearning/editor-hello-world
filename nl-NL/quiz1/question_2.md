@@ -10,7 +10,7 @@ Which of these function definitions is correct and will print `I can code` when 
 
 - (x)
 
-## images/iss-image.png
+## --- code ---
 
 ## language: python
 
@@ -27,7 +27,7 @@ That's correct, calling this function will print `I can code`. You spotted that 
 
 - ()
 
-## images/iss-image.png
+## --- code ---
 
 ## language: python
 
@@ -44,7 +44,7 @@ Niet helemaal, de lay-out in dit voorbeeld zou een fout veroorzaken.
 
 - ( )
 
-## images/iss-image.png
+## --- code ---
 
 ## language: python
 
