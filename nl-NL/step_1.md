@@ -4,7 +4,7 @@
 
 ➡️ Display the word 'Hello' on the screen
 
-\---/task---
+\--- /task ---
 
 In Python, `print()`{:.language-python} outputs strings (words or numbers) to the screen.
 
@@ -20,7 +20,7 @@ line_number_start: 10
 line_highlights: 11
 --------------------------------------------------------
 
-# Put code to run under here.
+# Zet de code om uit te voeren hieronder.
 
 print(f'Hello')
 
@@ -28,8 +28,8 @@ print(f'Hello')
 
 </div>
 
-**Test:** Click the **Run** button.
-This is what you should see when you run your code.
+**Test:** Klik op de **Run** knop.
+Dit is wat je zou moeten zien wanneer je jouw code uitvoert.
 
 <div class="c-project-output">
 ```
@@ -48,7 +48,7 @@ This also happens when you type an opening apostrophe `'`{:.language-python}.
 
 <div class="c-project-callout c-project-callout--debug">
 
-### Debugging
+### Foutopsporing
 
 If you get an error then check your code really carefully. Check there are single quotes around `Hello`{:.language-python} so Python knows it is meant to be text.
 
