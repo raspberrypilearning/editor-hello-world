@@ -1,10 +1,10 @@
 <h2 class="c-project-heading--explainer">Functies</h2>
 
-Functions are blocks of code that perform specific tasks. They can be used over and over again.
+Functies zijn codeblokken die specifieke taken uitvoeren. Ze kunnen steeds opnieuw gebruikt worden.
 
-Here is an example of a function:
+Hier is een voorbeeld van een functie:
 
-## images/iss-image.png
+## --- code ---
 
 language: python
 line_numbers: false
