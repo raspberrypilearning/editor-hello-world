@@ -16,8 +16,8 @@ line_highlights: 24-26
 -----------------------------------------------------------
 
 roll_dice()
-print(f'I ❤️ ...')\
-print(f'... makes me 😃')\
+print(f'I ❤️ ...')  
+print(f'... makes me 😃')  
 print(f'I would like to make ... with {python}')
 \--- /code ---
 
