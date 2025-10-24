@@ -1,4 +1,4 @@
-<h2 class="c-project-heading--task">Get input</h2>
+<h2 class="c-project-heading--task">Input ophalen</h2>
 
 \--- task ---
 
@@ -16,7 +16,7 @@ line_number_start: 10
 line_highlights: 12-13
 -----------------------------------------------------------
 
-# Function definitions
+# Functiedefinities
 
 def roll_dice():
 max = input('How many sides on your dice?:')
@@ -26,9 +26,9 @@ print(f'You rolled a {roll} {fire \* roll}')
 
 \--- /code ---
 
-**Test:** Click the **Run** button.
-Ensure you press the <kbd> Enter </kbd> key after inputting how many sides.
-This is what you should see when you run your code.
+**Test:** Klik op de **Run** knop.
+Zorg ervoor dat je op de knop <kbd>Enter</kbd> klikt nadat je het aantal kanten hebt ingevoerd.
+Dit is wat je zou moeten zien wanneer je jouw code uitvoert.
 
 <div class="c-project-output">
 ```
