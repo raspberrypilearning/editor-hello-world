@@ -8,9 +8,9 @@ Deze functie geeft twee willekeurige getallen:
 
 ## language: python
 
-def twee_getallen():
-print('Eerste getal: ', randint(1, 6))
-print('Tweede getal: ', randint(1, 6))
+def two_dice():
+print('First number:', randint(1, 6))
+print('Second number:', randint(1, 6))
 
 \--- /code ---
 
@@ -26,9 +26,9 @@ Welke code roept de functie aan om uit te voeren?
 
 ## language: python
 
-def twee_getallen():
-print('Eerste getal: ', randint(1, 6))
-print('Tweede getal: ', randint(1, 6))
+def two_dice():
+print('First number:', randint(1, 6))
+print('Second number:', randint(1, 6))
 
 \--- /code ---
 
