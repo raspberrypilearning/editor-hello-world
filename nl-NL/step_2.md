@@ -4,7 +4,7 @@
 
 ### Tip
 
-A **variable** is used to store values such as text or numbers. Choosing a sensible name for a variable makes it easier for you to remember what it is for.
+A **variable** is used to store values such as text or numbers. Als je een logische naam kiest voor een variabele, dan kun je later gemakkelijker onthouden waarvoor deze dient.
 
 </div>
 
@@ -20,11 +20,11 @@ line_number_start: 3
 line_highlights: 4-6
 ---------------------------------------------------------
 
-# variables
+# variabelen
 
-world = '🌍🌎🌏'
+wereld = '🌍🌎🌏'
 python = 'Python 🐍'
-fire = '🔥'
+vuur = '🔥'
 
 # Functiedefinities
 
