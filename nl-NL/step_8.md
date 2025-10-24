@@ -1,7 +1,9 @@
 <h2 class="c-project-heading--task">Print the date</h2>
 
 \--- task ---
+
 ➡️ Display the current date and time.
+
 \---/task---
 
 Add another line to your code to `print` the current date and time.
