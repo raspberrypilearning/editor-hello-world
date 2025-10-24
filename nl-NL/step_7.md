@@ -4,13 +4,13 @@
 
 ➡️ Import the `datetime` module.
 
-\---/task---
+\--- /task ---
 
 Python has many **modules** that you can use in your code to help perform certain tasks. To use a module, you first need to **import** it.
 
 The `datetime` module helps with writing code that uses dates and times.
 
-## images/iss-image.png
+## --- code ---
 
 language: python
 line_numbers: true
@@ -38,7 +38,7 @@ Any text you write in Python with a `#` in front of it becomes a comment. These 
 
 <div class="c-project-callout c-project-callout--debug">
 
-### Debugging
+### Foutopsporing
 
 Check that you have spelled `datetime` correctly, and it is all lowercase.
 
