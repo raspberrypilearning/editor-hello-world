@@ -42,11 +42,11 @@ Tu pourrais faire un ... projet sur ...
 
 roule_de
 
-roulis
+roule
 
 maintenant
 
-world 
+monde 
 
 sommes
 
@@ -70,13 +70,13 @@ idiot
 
 cœur 
 
-games 
+jeux 
 
 livres 
 
 sports 
 
-green 
+vert 
 
 nature 
 
