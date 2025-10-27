@@ -1,14 +1,14 @@
-<h2 class="c-project-heading--task">Roll dice</h2>
+<h2 class="c-project-heading--task">Gooi dobbelstenen</h2>
 
 \--- task ---
 
-➡️ Create a function to simulate rolling a dice.
+➡️ Maak een functie om het gooien van een dobbelsteen te simuleren.
 
-➡️ Call the function to run the code inside it.
+➡️ Roep de functie aan om de code erin uit te voeren.
 
 \--- /task ---
 
-Create a function called `roll_dice()`, that prints out the number 4.
+Maak een functie genaamd `roll_dice()`, die het getal 4 afdrukt.
 
 ## --- code ---
 
@@ -21,7 +21,7 @@ line_highlights: 10, 11
 # Functiedefinities
 
 def roll_dice():
-print(f'You rolled a {4}')
+print(f'Je hebt een {4} gegooid')
 
 # Zet de code om uit te voeren hier onder
 
@@ -37,7 +37,7 @@ line_number_start: 18
 line_highlights: 19
 --------------------------------------------------------
 
-print(f'The date and time is {datetime.now()}')
+print(f'De datum en tijd zijn {datetime.now()}')
 roll_dice()
 
 \--- /code ---
@@ -47,12 +47,12 @@ Dit is wat je zou moeten zien wanneer je jouw code uitvoert.
 
 <div class="c-project-output">
 ```
-Hello 🌍🌎🌏
-Welcome to Python 🐍
-Python 🐍 is good at maths!
+Hallo 🌍🌎🌏
+Welkom bij Python 🐍
+Python 🐍 is goed in wiskunde!
 12345678987654321
-The date and time is 2023-11-21 15:55:33.038000
-You rolled a 4
+De datum en tijd zijn 2023-11-21 15:55:33.038000
+Je hebt een 4 gegooid
 ```
 </div>
 
@@ -60,7 +60,7 @@ You rolled a 4
 
 ### Tip
 
-You can use the **Tab** key on your keyboard to insert 4 spaces. Pressing **Shift** and **Tab** will remove the 4 spaces.
+Je kunt de **Tab**-toets op jouw toetsenbord gebruiken om 4 spaties in te voegen. Door op **Shift** en **Tab** te drukken, worden de 4 spaties verwijderd.
 
 </div>
 
@@ -68,6 +68,6 @@ You can use the **Tab** key on your keyboard to insert 4 spaces. Pressing **Shif
 
 ### Foutopsporing
 
-Check that you have brackets `()` and a colon `:` at the end of your function definition. Also check you are using brackets `()` when you call your function.
+Controleer of er haakjes `()` en een dubbele punt `:` aan het einde van jouw functiedefinitie staan. Controleer ook of je haakjes `()` gebruikt wanneer je jouw functie aanroept.
 
 </div>
