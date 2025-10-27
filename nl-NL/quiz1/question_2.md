@@ -4,7 +4,7 @@
 
 Welke van deze functie definities is correct en geeft `Ik kan coderen` weer wanneer deze wordt aangeroepen?
 
-![The code editor with output area showing I can code.](images/quiz2.png)
+![De code-editor met het uitvoergebied met de tekst Ik kan coderen.](images/quiz2.png)
 
 \--- choices ---
 
@@ -14,14 +14,14 @@ Welke van deze functie definities is correct en geeft `Ik kan coderen` weer wann
 
 ## language: python
 
-def awesome():
-print('I can code')
+def geweldig():
+print('Ik kan coderen')
 
 \--- /code ---
 
 \--- feedback ---
 
-That's correct, calling this function will print `I can code`. You spotted that functions need `(` `)` brackets and a `:` in the function definition, and that all code to be run when that function is called must be indented.
+Dat klopt, als je deze functie aanroept, wordt 'Ik kan coderen' afgedrukt. Je hebt gezien dat functies '(' ')' haakjes en een ':' in de functiedefinitie nodig hebben, en dat alle uit te voeren code wanneer die functie wordt aangeroepen, moet worden ingesprongen.
 
 \--- /feedback ---
 
@@ -48,8 +48,8 @@ Niet helemaal, de lay-out in dit voorbeeld zou een fout veroorzaken.
 
 ## language: python
 
-def awesome()
-print('I can code')
+def geweldig()
+print('Ik kan coderen')
 
 \--- /code ---
 
