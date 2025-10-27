@@ -8,7 +8,7 @@ feu = '🔥'
 
 # Définitions de fonctions        
 def roule_de():
-    max = input('How many sides on your dice?:')
+    max = input('Combien de faces y a-t-il sur ton dé ?')
     print(f'That is a D {max}')
     roule = randint(1, int(max))
     print(f'You rolled a {roll} {fire * roll}')
