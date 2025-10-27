@@ -1,14 +1,14 @@
-<h2 class="c-project-heading--task">Print Hello</h2>
+<h2 class="c-project-heading--task">Print Bonjour</h2>
 
 \--- task ---
 
-➡️ Display the word 'Hello' on the screen
+➡️ Afficher le mot 'Bonjour' sur l'écran
 
 \--- /task ---
 
-In Python, `print()`{:.language-python} outputs strings (words or numbers) to the screen.
+En Python, `print()`{:.language-python} affiche des chaînes (mots ou nombres) à l'écran.
 
-Type the code to `print()`{:.language-python} Hello to the screen:
+Tape le code pour `print()`{:.language-python}(imprimer) Bonjour à l'écran :
 
 <div class="c-project-code">
 
@@ -22,7 +22,7 @@ line_highlights: 11
 
 # Mettre le code à exécuter ci-dessous.
 
-print(f'Hello')
+print(f'Bonjour ')
 
 \--- /code ---
 
@@ -33,7 +33,7 @@ Tu devrais voir ceci lorsque tu exécutes ton code .
 
 <div class="c-project-output">
 ```
-Hello
+Bonjour
 ```
 </div>
 
@@ -41,8 +41,8 @@ Hello
 
 ### Conseil
 
-When you type an opening bracket `(`{:.language-python} the code editor will automatically add a closing bracket `)`{:.language-python}
-This also happens when you type an opening apostrophe `'`{:.language-python}.
+Lorsque tu tapes une parenthèse ouvrante `(`{:.language-python} , l'éditeur de code ajoutera automatiquement une parenthèse fermante `)`{:.language-python}
+Cela se produit également lorsque tu tapes une apostrophe ouvrante `'`{:.language-python}.
 
 </div>
 
@@ -50,6 +50,6 @@ This also happens when you type an opening apostrophe `'`{:.language-python}.
 
 ### Déboguer
 
-If you get an error then check your code really carefully. Check there are single quotes around `Hello`{:.language-python} so Python knows it is meant to be text.
+Si tu obtiens une erreur, vérifie ton code très attentivement. Vérifie qu'il y a des guillemets simples autour de `Hello`{:.language-python} afin que Python sache qu'il s'agit de texte.
 
 </div>
