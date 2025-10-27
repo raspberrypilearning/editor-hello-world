@@ -4,7 +4,7 @@
 
 ### Tip
 
-A **variable** is used to store values such as text or numbers. Als je een logische naam kiest voor een variabele, dan kun je later gemakkelijker onthouden waarvoor deze dient.
+Een **variabele** wordt gebruikt om waarden zoals tekst of getallen op te slaan. Als je een logische naam kiest voor een variabele, dan kun je later gemakkelijker onthouden waarvoor deze dient.
 
 </div>
 
@@ -30,7 +30,7 @@ vuur = '🔥'
 
 # Zet de code om uit te voeren hier onder
 
-print(f'Hello')
+print(f'Hallo')
 
 \--- /code ---
 
