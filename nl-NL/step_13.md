@@ -1,15 +1,15 @@
-<h2 class="c-project-heading--task">Multiply strings</h2>
+<h2 class="c-project-heading--task">Strings vermenigvuldigen</h2>
 
 \--- task ---
 
-➡️ Store the random number in a variable.
-➡️ Multiply the number by the 🔥 emoji to print the emoji a number of times equal to the dice roll.
+➡️ Sla het willekeurige getal op in een variabele.
+➡️ Vermenigvuldig het getal met de 🔥-emoji om de emoji een aantal keer af te drukken dat gelijk is aan de worp van de dobbelstenen.
 
 \--- /task ---
 
 In Python kun je strings zoals emoji's of hele woorden vermenigvuldigen met een getal, zodat ze meerdere keren worden geprint.
 
-Store the random number in a variable called `roll`.
+Sla het willekeurige getal op in een variabele met de naam `roll`.
 
 ## --- code ---
 
@@ -26,7 +26,7 @@ roll = randint(1,6)
 
 \--- /code ---
 
-Multiply the random number stored in `roll` by the 🔥 emoji, and print the result.
+Vermenigvuldig het willekeurige getal in `roll` met de 🔥 emoji en druk het resultaat af.
 
 ## --- code ---
 
@@ -40,7 +40,7 @@ line_highlights: 13
 
 def roll_dice():
 roll = randint(1,6)
-print(f'You rolled a {roll} {fire \* roll}')
+print(f'Je hebt een {roll} {fire \* roll}') gegooid
 
 \--- /code ---
 
@@ -49,12 +49,12 @@ Je uitvoer zou er ongeveer zo uit moeten zien:
 
 <div class="c-project-output">
 ```
-Hello 🌍🌎🌏
-Welcome to Python 🐍
-Python 🐍 is good at maths!
+Hallo 🌍🌎🌏
+Welkom bij Python 🐍
+Python 🐍 is goed in wiskunde!
 12345678987654321
-The date and time is 2023-11-21 16:14:45.140000
-You rolled a 4 🔥🔥🔥🔥
+De datum en tijd zijn 2023-11-21 16:14:45.140000
+Je hebt een 4 gegooid 🔥🔥🔥🔥
 ```
 </div>
 
@@ -62,6 +62,6 @@ You rolled a 4 🔥🔥🔥🔥
 
 ### Foutopsporing
 
-Check all your brackets are the same as the code example above.
+Controleer of alle haakjes hetzelfde zijn als in het bovenstaande codevoorbeeld.
 
 </div>
