@@ -1,15 +1,15 @@
-<h2 class="c-project-heading--task">Change the dice</h2>
+<h2 class="c-project-heading--task">Verander de dobbelstenen</h2>
 
 \--- task ---
 
-➡️ Change the input data to an integer.
-➡️ Generate a random number between 1 and the number of sides the user typed in.
+➡️ Wijzig de invoergegevens naar een geheel getal.
+➡️ Genereer een willekeurig getal tussen 1 en het aantal zijden dat de gebruiker heeft ingevoerd.
 
 \--- /task ---
 
-Inputs are always stored as text, but we need to use the input stored in `max` to specify the largest number that could be rolled.
+Invoer wordt altijd opgeslagen als tekst, maar we moeten de invoer in `max` gebruiken om het grootste getal op te geven dat kan worden gerold.
 
-`max` is a string, so it needs changing to an integer `int()`.
+`max` is een string en moet daarom worden gewijzigd naar een integer `int()`.
 
 ## --- code ---
 
@@ -22,26 +22,26 @@ line_highlights: 14
 # Functiedefinities
 
 def roll_dice():
-max = input('How many sides on your dice?:')
-print(f'That is a D {max}')
+max = input('Hoeveel zijden heeft je dobbelsteen?:')
+print(f'Dat is een D {max}')
 roll = randint(1, int(max))
-print(f'You rolled a {roll} {fire \* roll}')
+print(f'Je hebt een {roll} {fire \* roll}') gegooid
 
 \--- /code ---
 
 **Test:** Klik op de **Run** knop.
-This is what you should see:
+Dit is wat je zou moeten zien:
 
 <div class="c-project-output">
 ```
-Hello 🌍🌎🌏
-Welcome to Python 🐍
-Python 🐍 is good at maths!
+Hallo 🌍🌎🌏
+Welkom bij Python 🐍
+Python 🐍 is goed in wiskunde!
 12345678987654321
-The date and time is 2023-11-21 16:27:24.101000
-How many sides on your dice?:12
-That is a D 12
-You rolled a 5 🔥🔥🔥🔥🔥
+De datum en tijd zijn 2023-11-21 16:27:24.101000
+Hoeveel zijden heeft je dobbelsteen?:12
+Dat is een D 12
+Je hebt een 5 gegooid 🔥🔥🔥🔥🔥
 ```
 </div>
 
@@ -49,6 +49,6 @@ You rolled a 5 🔥🔥🔥🔥🔥
 
 ### Tip
 
-Changing one type of data to another type of data is called **type casting**.
+Het veranderen van het ene gegevenstype naar het andere gegevenstype wordt **type casting** genoemd.
 
 </div>
