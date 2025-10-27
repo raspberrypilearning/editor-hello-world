@@ -2,12 +2,12 @@
 
 \--- task ---
 
-We’d love to hear your thoughts about using the Code editor to complete the Hello World project!
+Wij horen graag wat jij vindt van het gebruik van de code-editor om het Hallo Wereld-project te voltooien!
 
-➡️ Please complete our [feedback form](https://form.raspberrypi.org/4873648){:target="_blank"} to let us know.
+➡️ Vul ons [feedbackformulier](https://form.raspberrypi.org/4873648){:target="_blank"} in om ons dit te laten weten.
 
 ### Wat nu?
 
-If you are following the [Introduction to Python](https://projects.raspberrypi.org/en/raspberrypi/python-intro) pathway, you can move on to the [Target practice](https://projects.raspberrypi.org/en/projects/target-practice) project. In this project, you will draw a target then make an archery game where the player shoots arrows to score points.
+Als je het [Inleiding tot Python](https://projects.raspberrypi.org/en/raspberrypi/python-intro) pad volgt, kun je doorgaan naar het [Niet botsen](https://projects.raspberrypi.org/en/projects/target-practice) project. In dit project teken je een doelwit en maak je vervolgens een boogschietspel waarin de speler pijlen schiet om punten te scoren.
 
 \--- /task ---
