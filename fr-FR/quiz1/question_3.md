@@ -8,15 +8,15 @@ Cette fonction génère deux nombres aléatoires :
 
 ## language: python
 
-def two_dice():
-print('First number:', randint(1, 6))
-print('Second number:', randint(1, 6))
+def deux_des():
+print('Premier nombre :', randint(1, 6))
+print('Deuxième nombre :', randint(1, 6))
 
 \--- /code ---
 
 Quel code appellera la fonction pour l'exécuter ?
 
-![The code editor with output area showing two randomly generated numbers.](images/quiz3.png)
+![L'éditeur de code avec une zone de sortie affichant deux nombres générés aléatoirement.](images/quiz3.png)
 
 \--- choices ---
 
@@ -26,9 +26,9 @@ Quel code appellera la fonction pour l'exécuter ?
 
 ## language: python
 
-def two_dice():
-print('First number:', randint(1, 6))
-print('Second number:', randint(1, 6))
+def deux_des():
+print('Premier nombre :', randint(1, 6))
+print('Deuxième nombre :', randint(1, 6))
 
 \--- /code ---
 
@@ -51,7 +51,7 @@ deux_des
 
 \--- feedback ---
 
-Presque ! `two_dice` is the name of the function, but to call it you need more than just the name.
+Presque ! \`deux_des est le nom de la fonction, mais pour l'appeler, il faut plus que le nom.
 
 \--- /feedback ---
 
@@ -83,7 +83,7 @@ deux_des()
 
 \--- feedback ---
 
-That's correct, using the function name followed by `(` `)` brackets will call the function.
+C'est correct, l'utilisation du nom de la fonction suivi des parenthèses `(` `)` appellera la fonction.
 
 \--- /feedback ---
 
