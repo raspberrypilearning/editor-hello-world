@@ -18,9 +18,9 @@ line_highlights: 13-14
 
 # Mettre le code à exécuter ci-dessous
 
-print(f'Hello {world}')
-print(f'Welcome to {python}')
-print(f'{python} is good at maths!')
+print(f'Bonjour {monde}')
+print(f'Bienvenue à {python}')
+print(f'{python} est bon en maths !')
 print(f'{111111111 \* 111111111}')
 
 \--- /code ---
@@ -30,9 +30,9 @@ Tu devrais voir ceci lorsque tu exécutes ton code .
 
 <div class="c-project-output">
 ```
-Hello 🌍🌎🌏
-Welcome to Python 🐍
-Python 🐍 is good at maths!
+Bonjour 🌍🌎🌏
+Bienvenue dans Python 🐍
+Python 🐍 est bon en maths !
 12345678987654321
 ```
 </div>
@@ -41,7 +41,7 @@ Python 🐍 is good at maths!
 
 ### Conseil
 
-Python uses the same rules for calculations as you might have learned at school. **B**rackets first, then **O**rders, **D**ivision, **M**ultiplication, **A**ddition, and lastly **S**ubtraction.
+Python utilise les mêmes règles de calcul que celles que tu as peut-être apprises à l’école. **B**rackets first, then **O**rders, **D**ivision, **M**ultiplication, **A**ddition, and lastly **S**ubtraction.
 
 </div>
 
