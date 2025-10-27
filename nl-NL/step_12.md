@@ -2,11 +2,11 @@
 
 \--- task ---
 
-➡️ Choose a random number for the dice roll.
+➡️ Kies een willekeurig getal voor de dobbelsteenworp.
 
 \--- /task ---
 
-Use the `randint` function you imported to choose a random number between 1 and 6 for the dice roll.
+Gebruik de `randint`-functie die je hebt geïmporteerd om een willekeurig getal tussen 1 en 6 te kiezen voor de dobbelsteenworp.
 
 ## --- code ---
 
@@ -19,7 +19,7 @@ line_highlights: 12
 # Functiedefinities
 
 def roll_dice():
-print(f'You rolled a {randint(1, 6)}')
+print(f'Je hebt een {randint(1, 6)} gegooid')
 
 \--- /code ---
 
@@ -28,12 +28,12 @@ Wanneer je nu je code nog eens uitvoert, zal er elke keer een nieuw willekeurig 
 
 <div class="c-project-output">
 ```
-Hello 🌍🌎🌏
-Welcome to Python 🐍
-Python 🐍 is good at maths!
+Hallo 🌍🌎🌏
+Welkom bij Python 🐍
+Python 🐍 is goed in wiskunde!
 12345678987654321
-The date and time is 2023-11-21 16:02:12.535000
-You rolled a 6
+De datum en tijd zijn 2023-11-21 16:02:12.535000
+Je hebt een 6 gegooid
 ```
 </div>
 
@@ -41,7 +41,7 @@ You rolled a 6
 
 ### Tip
 
-`randint` is short for random integer. Integers are whole numbers.
+`randint` is de afkorting van random integer. Integers zijn gehele getallen.
 
 </div>
 
@@ -49,6 +49,6 @@ You rolled a 6
 
 ### Foutopsporing
 
-Check your brackets and curly brackets if you get and error. Take note that the same number might be chosen over and over again. It's random!
+Controleer de haakjes en accolades als je een foutmelding krijgt. Houd er rekening mee dat hetzelfde nummer steeds opnieuw gekozen kan worden. Het is willekeurig!
 
 </div>
