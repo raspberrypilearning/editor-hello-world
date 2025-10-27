@@ -1,8 +1,8 @@
-<h2 class="c-project-heading--task">Over to you</h2>
+<h2 class="c-project-heading--task">Nu ben jij aan de beurt</h2>
 
 \--- task ---
 
-➡️ Practice adding more `print` lines to your code.
+➡️ Oefen met het toevoegen van meer `print`-regels aan je code.
 
 \--- /task ---
 
@@ -17,9 +17,9 @@ line_highlights: 24-26
 -----------------------------------------------------------
 
 roll_dice()
-print(f'I ❤️ ...')  
-print(f'... makes me 😃')  
-print(f'I would like to make ... maken met {python}')
+print(f'Ik ❤️ ...')  
+print(f'... maakt mij 😃')  
+print(f'Ik zou graag willen maken ... maken met {python}')
 
 \--- /code ---
 
@@ -33,6 +33,6 @@ Hier is een lijst met emoji's die je zou kunnen gebruiken:
 🦄 🚀 💯 ⭐ 💛 ❤️ 📚 ⚽ 🏏 🏀 🥋 🏆 ✨ 🥺 🌈 🔥 ♻️ 🌳
 👩‍🦽👩🏼‍🦽👩🏽‍🦽👩🏾‍🦽👩🏿‍🦽🧘 🧘🏼 🧘🏽 🧘🏾 🧘🏿 🙋 🙋🏼 🙋🏽 🙋🏾 🙋🏿
 
-You can copy and paste them into your code.
+Je kunt ze kopiëren en plakken in jouw code.
 
 </div>
