@@ -2,7 +2,7 @@
 
 ## legend: Vraag 2 van 3
 
-Which of these function definitions is correct and will print `I can code` when called?
+Welke van deze functie definities is correct en geeft `Ik kan coderen` weer wanneer deze wordt aangeroepen?
 
 ![The code editor with output area showing I can code.](images/quiz2.png)
 
