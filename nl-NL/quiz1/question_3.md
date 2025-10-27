@@ -8,15 +8,15 @@ Deze functie geeft twee willekeurige getallen:
 
 ## language: python
 
-def two_dice():
-print('First number:', randint(1, 6))
-print('Second number:', randint(1, 6))
+def twee_getallen():
+print('Eerste getal: ', randint(1, 6))
+print('Tweede getal: ', randint(1, 6))
 
 \--- /code ---
 
 Welke code roept de functie aan om uit te voeren?
 
-![The code editor with output area showing two randomly generated numbers.](images/quiz3.png)
+![De code-editor met een uitvoergebied waarin twee willekeurig gegenereerde getallen worden weergegeven.](images/quiz3.png)
 
 \--- choices ---
 
@@ -26,9 +26,9 @@ Welke code roept de functie aan om uit te voeren?
 
 ## language: python
 
-def two_dice():
-print('First number:', randint(1, 6))
-print('Second number:', randint(1, 6))
+def twee_getallen():
+print('Eerste getal: ', randint(1, 6))
+print('Tweede getal: ', randint(1, 6))
 
 \--- /code ---
 
@@ -51,7 +51,7 @@ twee_dobbelstenen
 
 \--- feedback ---
 
-Bijna! `two_dice` is the name of the function, but to call it you need more than just the name.
+Bijna! \`twee_getallen' is de naam van de functie, maar om deze aan te roepen heb je meer nodig dan alleen de naam.
 
 \--- /feedback ---
 
@@ -83,7 +83,7 @@ twee_getallen()
 
 \--- feedback ---
 
-That's correct, using the function name followed by `(` `)` brackets will call the function.
+Dat klopt, het gebruik van de functienaam gevolgd door '(' ')' haakjes zal de functie aanroepen.
 
 \--- /feedback ---
 
