@@ -2,11 +2,11 @@
 
 \--- task ---
 
-➡️ Print the value of a calculation.
+➡️ Imprimer la valeur d'un calcul.
 
 \--- /task ---
 
-Add two more `print()` lines to your code including a multiplication for Python to calculate:
+Ajoute deux autres lignes `print()` à ton code, y compris une multiplication pour que Python puisse calculer :
 
 ## --- code ---
 
