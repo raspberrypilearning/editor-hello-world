@@ -4,7 +4,7 @@
 
 ## legend: Vraag 1 van 3
 
-This code sets the `world` variable to contain the text '🌍🌎🌏' (the three different world emoji):
+Deze code stelt de wereld-variabele in om de tekst '🌍🌎🌏' te bevatten (de drie verschillende wereldbolemoji):
 
 ## --- code ---
 
@@ -14,9 +14,9 @@ wereld = '🌍🌎🌏'
 
 \--- /code ---
 
-Which code correctly uses the `world` variable and outputs Hello 🌍🌎🌏?
+Welke code gebruikt de 'world' variabele correct en geeft Hallo 🌍🌎🌏 als resultaat?
 
-![The output area from the code editor with Hello 🌍🌎🌏 showing.](images/quiz1.png)
+![Het uitvoergebied van de code-editor waarin Hallo 🌍🌎🌏 wordt weergegeven.](images/quiz1.png)
 
 \--- choices ---
 
@@ -32,7 +32,7 @@ output('Hallo' wereld)
 
 \--- feedback ---
 
-Not quite, `output` is not the way to output messages to the screen.
+Niet helemaal, 'output' is niet de manier om berichten naar het scherm te sturen.
 
 \--- /feedback ---
 
@@ -48,7 +48,7 @@ print('Hallo' wereld)
 
 \--- feedback ---
 
-Not quite, in Python `print` outputs messages to the screen, but something is missing in this example.
+Niet helemaal, in Python stuurt 'print' berichten naar het scherm, maar er ontbreekt iets in dit voorbeeld.
 
 \--- /feedback ---
 
@@ -58,13 +58,13 @@ Not quite, in Python `print` outputs messages to the screen, but something is mi
 
 ## language: python
 
-print(f'Hello {world}')
+print(f'Hallo{world}')
 
 \--- /code ---
 
 \--- feedback ---
 
-That's correct, in Python `print(f'')` outputs messages to the screen. The text output is inside single quotes `'` , and curly braces `{}` are used to print the `world` variable.
+Dat klopt, in Python stuurt 'print(f")' berichten naar het scherm. De tekstuitvoer staat tussen enkele aanhalingstekens `'` en accolades `{}` worden gebruikt om de variabele `world` af te drukken.
 
 \--- /feedback ---
 
@@ -74,13 +74,13 @@ That's correct, in Python `print(f'')` outputs messages to the screen. The text 
 
 ## language: python
 
-print('Hello {world}')
+print('Hallo{world}')
 
 \--- /code ---
 
 \--- feedback ---
 
-Not quite, in Python `print` outputs messages to the screen, but something is missing in this example.
+Niet helemaal, in Python stuurt 'print' berichten naar het scherm, maar er ontbreekt iets in dit voorbeeld.
 
 \--- /feedback ---
 
