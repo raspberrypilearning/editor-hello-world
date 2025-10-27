@@ -1,12 +1,12 @@
-<h2 class="c-project-heading--task">Print variables</h2>
+<h2 class="c-project-heading--task">Variabelen afdrukken</h2>
 
 \--- task ---
 
-➡️ Print the contents of a variable.
+➡️ De inhoud van een variabele afdrukken.
 
 \--- /task ---
 
-Change your code to also `print()` the contents of the `world` variable. You can do this by adding the variable name in curly brackets `{}`
+Wijzig je code zodat ook er een 'print()' wordt gedaan van de inhoud van de 'world' variabele. Je kan dit doen door de variabelenaam tussen accolades '{}' toe te voegen
 
 ## --- code ---
 
@@ -26,7 +26,7 @@ vuur = '🔥'
 
 # Zet de code om uit te voeren hier onder
 
-print(f'Hello {world}')
+print(f'Hallo {world}')
 
 \--- /code ---
 
@@ -35,7 +35,7 @@ Dit is wat je zou moeten zien wanneer je jouw code uitvoert.
 
 <div class="c-project-output">
 ```
-Hello 🌍🌎🌏
+Hallo 🌍🌎🌏
 ```
 </div>
 
@@ -43,7 +43,7 @@ Hello 🌍🌎🌏
 
 ### Tip
 
-The `f` character inside the print lets you easily print variables along with strings of text.
+Met het teken 'f' in het print commando kun je eenvoudig variabelen samen met tekstreeksen afdrukken.
 
 </div>
 
@@ -51,6 +51,6 @@ The `f` character inside the print lets you easily print variables along with st
 
 ### Foutopsporing
 
-If you get an error then check you have opened and closed all your brackets `()` and curly brackets `{}`
+Als je een foutmelding krijgt, controleer dan of je alle haakjes `()` en accolades `{}` hebt geopend en gesloten
 
 </div>
