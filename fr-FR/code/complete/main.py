@@ -9,17 +9,17 @@ feu = '🔥'
 # Définitions de fonctions        
 def roule_de():
     max = input('Combien de faces y a-t-il sur ton dé ?')
-    print(f'That is a D {max}')
+    print(f"C'est un D {max}")
     roule = randint(1, int(max))
-    print(f'You rolled a {roll} {fire * roll}')
+    print(f'Tu as obtenu un {roule} {feu * roule}')
     
 # Mettre le code à exécuter ci-dessous
-print(f'Hello {world}')
-print(f'Welcome to {python}')
-print(f'{python} is good at maths!')
+print(f'Bonjour {monde}')
+print(f'Bienvenue sur {python}')
+print(f'{python} est bon en maths !')
 print(f'{111111111 * 111111111}')
-print(f'The date and time is {datetime.now()}')
+print(f'La date et l'heure sont {datetime.now()}')
 roule_de() # Appel la fonction lancer de dés
-print(f'I ❤️ ...')   
+print(f"J'❤️ ...")   
 print(f'... me rend 😃')   
-print(f'I would like to make ... avec {python}')
+print(f'Je voudrais faire ... avec {python}')
