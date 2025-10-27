@@ -1,12 +1,12 @@
-<h2 class="c-project-heading--task">Print variables</h2>
+<h2 class="c-project-heading--task">Imprimer des variables</h2>
 
 \--- task ---
 
-➡️ Print the contents of a variable.
+➡️ Imprimer le contenu d'une variable.
 
 \--- /task ---
 
-Change your code to also `print()` the contents of the `world` variable. You can do this by adding the variable name in curly brackets `{}`
+Change ton code pour aussi 'print()' le contenu de la variable 'monde' . Tu peux le faire en ajoutant le nom de la variable entre accolades `{}`
 
 ## --- code ---
 
@@ -26,7 +26,7 @@ feu = '🔥'
 
 # Mettre le code à exécuter ci-dessous
 
-print(f'Hello {world}')
+print(f'Bonjour {monde}')
 
 \--- /code ---
 
@@ -35,7 +35,7 @@ Tu devrais voir ceci lorsque tu exécutes ton code .
 
 <div class="c-project-output">
 ```
-Hello 🌍🌎🌏
+Bonjour 🌍🌎🌏
 ```
 </div>
 
@@ -43,7 +43,7 @@ Hello 🌍🌎🌏
 
 ### Conseil
 
-The `f` character inside the print lets you easily print variables along with strings of text.
+Le caractère 'f' à l'intérieur de print te permet d'imprimer facilement des variables avec des chaînes de texte.
 
 </div>
 
@@ -51,6 +51,6 @@ The `f` character inside the print lets you easily print variables along with st
 
 ### Déboguer
 
-If you get an error then check you have opened and closed all your brackets `()` and curly brackets `{}`
+Si tu obtiens une erreur, vérifie que tu as ouvert et fermé toutes tes parenthèses `()` et tes accolades `{}`
 
 </div>
