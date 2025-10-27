@@ -1,12 +1,12 @@
-<h2 class="c-project-heading--task">Print another variable</h2>
+<h2 class="c-project-heading--task">Imprimer une autre variable</h2>
 
 \--- task ---
 
-➡️ Print the contents of the `python` variable.
+➡️ Imprime le contenu de la variable `python`.
 
 \--- /task ---
 
-**Add** another line to your code to `print()` more text and emojis:
+**Ajoute** une autre ligne à ton code pour 'print()' plus de texte et d'émojis :
 
 ## --- code ---
 
@@ -18,8 +18,8 @@ line_highlights: 12
 
 # Mettre le code à exécuter ci-dessous
 
-print(f'Hello {world}')
-print(f'Welcome to {python}')
+print(f'Bonjour {monde}')
+print(f'Bienvenue à {python}')
 
 \--- /code ---
 
@@ -28,7 +28,7 @@ Tu devrais voir ceci lorsque tu exécutes ton code .
 
 <div class="c-project-output">
 ```
-Hello 🌍🌎🌏
-Welcome to Python 🐍
+Bonjour 🌍🌎🌏
+Bienvenue dans Python 🐍
 ```
 </div>
