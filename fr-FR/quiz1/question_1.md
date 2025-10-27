@@ -4,19 +4,19 @@
 
 ## legend: Question 1 sur 3
 
-This code sets the `world` variable to contain the text '🌍🌎🌏' (the three different world emoji):
+Ce code définit la variable 'monde' pour qu'elle contienne le texte '🌍🌎🌏' (les trois emojis de monde différents) :
 
 ## --- code ---
 
 ## language: python
 
-world = '🌍🌎🌏'
+monde = '🌍🌎🌏'
 
 \--- /code ---
 
-Which code correctly uses the `world` variable and outputs Hello 🌍🌎🌏?
+Quel code utilise correctement la variable 'monde' et affiche Bonjour 🌍🌎🌏 ?
 
-![The output area from the code editor with Hello 🌍🌎🌏 showing.](images/quiz1.png)
+![La zone de sortie de l'éditeur de code avec Bonjour 🌍🌎🌏 affiché.](images/quiz1.png)
 
 \--- choices ---
 
@@ -32,7 +32,7 @@ output('Bonjour' monde)
 
 \--- feedback ---
 
-Not quite, `output` is not the way to output messages to the screen.
+Pas tout à fait, 'output' n'est pas le moyen d'afficher des messages à l'écran.
 
 \--- /feedback ---
 
@@ -48,7 +48,7 @@ print('Bonjour' monde)
 
 \--- feedback ---
 
-Not quite, in Python `print` outputs messages to the screen, but something is missing in this example.
+Pas tout à fait, dans Python 'print' affiche des messages à l'écran, mais il manque quelque chose dans cet exemple.
 
 \--- /feedback ---
 
@@ -58,13 +58,13 @@ Not quite, in Python `print` outputs messages to the screen, but something is mi
 
 ## language: python
 
-print(f'Hello {world}')
+print(f'Bonjour {monde}')
 
 \--- /code ---
 
 \--- feedback ---
 
-That's correct, in Python `print(f'')` outputs messages to the screen. The text output is inside single quotes `'` , and curly braces `{}` are used to print the `world` variable.
+C'est correct, en Python, `print(f'')` affiche des messages à l'écran. La sortie du texte est entre guillemets simples `'`, et les accolades `{}` sont utilisées pour imprimer la variable `monde`.
 
 \--- /feedback ---
 
@@ -74,13 +74,13 @@ That's correct, in Python `print(f'')` outputs messages to the screen. The text 
 
 ## language: python
 
-print('Hello {world}')
+print('Bonjour {monde}')
 
 \--- /code ---
 
 \--- feedback ---
 
-Not quite, in Python `print` outputs messages to the screen, but something is missing in this example.
+Pas tout à fait, dans Python 'print' affiche des messages à l'écran, mais il manque quelque chose dans cet exemple.
 
 \--- /feedback ---
 
