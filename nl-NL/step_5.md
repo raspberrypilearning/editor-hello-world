@@ -1,11 +1,11 @@
 <h2 class="c-project-heading--explainer">Functies</h2>
 
-In Python kun je met getallen en data werken. You can use **arithmetic operators** such as `+` and `-`  to do calculations:
+In Python kun je met getallen en data werken. Je kunt **rekenkundige operatoren** gebruiken, zoals '+' en '-'  om berekeningen uit te voeren:
 
-\| + | add |  
-\| - | subtract |  
-\| \* | multiply |  
-\| / | divide |  
-\| \*\* | exponent |
+\| + | optellen |
+\| - | aftrekken |
+\| \* | vermenigvuldigen |
+\| / | delen |
+\| \*\* | machtsverheffen |
 
 
