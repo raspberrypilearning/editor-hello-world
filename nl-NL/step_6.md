@@ -2,11 +2,11 @@
 
 \--- task ---
 
-➡️ Print the value of a calculation.
+➡️ De waarde van een berekening afdrukken.
 
 \--- /task ---
 
-Add two more `print()` lines to your code including a multiplication for Python to calculate:
+Voeg nog twee 'print()' regels toe aan je code, inclusief een vermenigvuldiging die Python moet berekenen:
 
 ## --- code ---
 
@@ -18,9 +18,9 @@ line_highlights: 13-14
 
 # Zet de code om uit te voeren hier onder
 
-print(f'Hello {world}')
-print(f'Welcome to {python}')
-print(f'{python} is good at maths!')
+print(f'Hallo {world}')
+print(f'Welkom bij {python}')
+print(f'{python} is goed in wiskunde!')
 print(f'{111111111 \* 111111111}')
 
 \--- /code ---
@@ -30,9 +30,9 @@ Dit is wat je zou moeten zien wanneer je jouw code uitvoert.
 
 <div class="c-project-output">
 ```
-Hello 🌍🌎🌏
-Welcome to Python 🐍
-Python 🐍 is good at maths!
+Hallo 🌍🌎🌏
+Welkom bij Python 🐍
+Python 🐍 is goed in wiskunde!
 12345678987654321
 ```
 </div>
@@ -41,7 +41,7 @@ Python 🐍 is good at maths!
 
 ### Tip
 
-Python uses the same rules for calculations as you might have learned at school. **B**rackets first, then **O**rders, **D**ivision, **M**ultiplication, **A**ddition, and lastly **S**ubtraction.
+Python gebruikt dezelfde regels voor berekeningen die je op school hebt geleerd. BODMAS: **B**rackets (haakjes) eerst, dan **O**rders (machten), **M**ultiplication (vermenigvuldiging), **A**ddition (optellen) en als laatste **S**ubtraction (aftrekken).
 
 </div>
 
@@ -49,6 +49,6 @@ Python uses the same rules for calculations as you might have learned at school.
 
 ### Foutopsporing
 
-Don't forget that the UPPERCASE and lowercase letters are important in Python. Always check you are using the correct case.
+Vergeet niet dat HOOFDLETTERS en kleine letters belangrijk zijn in Python. Controleer altijd of je de juiste lettergrootte gebruikt.
 
 </div>
