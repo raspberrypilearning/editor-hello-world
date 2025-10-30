@@ -20,7 +20,7 @@ Attendre l'entrée de l'utilisateur
 
 Utiliser le numéro que l'utilisateur a saisi
 
-randint a besoin que max soit un "entier"
+randint a besoin que max soit un 'entier'
 
 Attendre que l'utilisateur appuie sur Entrée
 
@@ -30,7 +30,7 @@ Variables Emoji à utiliser dans ton projet
 
 Ajouter des alternatives d'art ASCII
 
-Avant les emoji, nous utilisions des émoticônes faites à partir de caractères
+Avant les emojis, nous utilisions des émoticônes faites à partir de caractères
 
 obtenir l'entrée de l'utilisateur
 
