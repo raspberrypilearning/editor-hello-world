@@ -6,7 +6,7 @@
 
 \--- /task ---
 
-Change ton code pour aussi 'print()' le contenu de la variable 'monde' . Tu peux le faire en ajoutant le nom de la variable entre accolades `{}`
+Change ton code pour aussi `print()` le contenu de la variable `monde`. Tu peux le faire en ajoutant le nom de la variable entre accolades `{}`
 
 ## --- code ---
 
@@ -31,7 +31,7 @@ print(f'Bonjour {monde}')
 \--- /code ---
 
 **Test :** clique sur le bouton **Run**.
-Tu devrais voir ceci lorsque tu exécutes ton code .
+Tu devrais voir ceci lorsque tu exécutes ton code.
 
 <div class="c-project-output">
 ```
@@ -41,9 +41,9 @@ Bonjour 🌍🌎🌏
 
 <div class="c-project-callout c-project-callout--tip">
 
-### Conseil
+### Astuce
 
-Le caractère 'f' à l'intérieur de print te permet d'imprimer facilement des variables avec des chaînes de texte.
+Le caractère `f` à l'intérieur de print te permet d'imprimer facilement des variables avec des chaînes de texte.
 
 </div>
 
