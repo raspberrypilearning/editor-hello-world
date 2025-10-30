@@ -34,7 +34,7 @@ hobbies
 
 hobby
 
-Qu\'est-ce que tu aimes ?
+Qu\'aimes-tu ?
 
 Cela a l'air ...
 
