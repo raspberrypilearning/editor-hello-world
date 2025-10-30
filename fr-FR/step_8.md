@@ -24,7 +24,7 @@ print(f'La date et l\'heure sont {datetime.now()}')
 
 --- /code ---
 
-**Test :** clique sur le bouton **Run**.
+**Test :** clique sur le bouton **Exécuter**.
 C'est ce que tu devrais voir lorsque tu exécutes ton code, mais la date et l'heure seront différentes.
 
 <div class="c-project-output">

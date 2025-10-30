@@ -27,7 +27,7 @@ print(f'Bonjour ')
 
 </div>
 
-**Test :** clique sur le bouton **Run**.
+**Test :** clique sur le bouton **Exécuter**.
 Tu devrais voir ceci lorsque tu exécutes ton code .
 
 <div class="c-project-output">

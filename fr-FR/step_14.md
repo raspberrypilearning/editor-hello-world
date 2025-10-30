@@ -25,7 +25,7 @@ def roule_de():
 
 --- /code ---
 
-**Test :** clique sur le bouton **Run**.
+**Test :** clique sur le bouton **Exécuter**.
 Assure-toi d'appuyer sur la touche <kbd>Entrée</kbd> après avoir saisi le nombre de faces.
 Tu devrais voir ceci lorsque tu exécutes ton code.
 

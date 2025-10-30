@@ -22,7 +22,7 @@ def roule_de():
 
 --- /code ---
 
-**Test :** clique sur le bouton **Run**.
+**Test :** clique sur le bouton **Exécuter**.
 Maintenant, lorsque tu exécutes ton code, un nouveau nombre aléatoire entre 1 et 6 sera choisi à chaque fois.
 
 <div class="c-project-output">

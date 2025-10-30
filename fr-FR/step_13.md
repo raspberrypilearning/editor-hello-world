@@ -42,7 +42,7 @@ def roule_de():
 
 --- /code ---
 
-**Test :** clique sur le bouton **Run**.
+**Test :** clique sur le bouton **Exécuter**.
 Ton code de sortie devrait ressembler à ceci :
 
 <div class="c-project-output">
