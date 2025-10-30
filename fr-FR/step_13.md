@@ -1,15 +1,15 @@
-<h2 class="c-project-heading--task">Multiply strings</h2>
+<h2 class="c-project-heading--task">Multiplier les chaînes</h2>
 
 \--- task ---
 
-➡️ Store the random number in a variable.
-➡️ Multiply the number by the 🔥 emoji to print the emoji a number of times equal to the dice roll.
+➡️ Stocker le nombre aléatoire dans une variable.
+➡️ Multiplier le nombre par l'emoji 🔥 pour imprimer l'emoji un nombre de fois égal au lancer de dés.
 
 \--- /task ---
 
 En Python, tu peux multiplier des chaînes de caractères telles que des emojis ou des mots entiers par un nombre, afin qu'elles s'impriment plusieurs fois.
 
-Store the random number in a variable called `roll`.
+Stocke le nombre aléatoire dans une variable appelée `roule`.
 
 ## --- code ---
 
@@ -21,12 +21,12 @@ line_highlights: 12
 
 # Définitions de fonctions
 
-def roll_dice():
-roll = randint(1,6)
+def roule_de():
+roule = randint(1,6)
 
 \--- /code ---
 
-Multiply the random number stored in `roll` by the 🔥 emoji, and print the result.
+Multiplie le nombre aléatoire stocké dans `roule` par l'emoji 🔥 et imprime le résultat.
 
 ## --- code ---
 
@@ -38,9 +38,9 @@ line_highlights: 13
 
 # Définitions de fonctions
 
-def roll_dice():
-roll = randint(1,6)
-print(f'You rolled a {roll} {fire \* roll}')
+def roule_de():
+roule = randint(1,6)
+print(f'Tu as obtenu un {roule} {feu \* roule}')
 
 \--- /code ---
 
@@ -49,12 +49,12 @@ Ton code de sortie devrait ressembler à ceci :
 
 <div class="c-project-output">
 ```
-Hello 🌍🌎🌏
-Welcome to Python 🐍
-Python 🐍 is good at maths!
+Bonjour 🌍🌎🌏
+Bienvenue sur Python 🐍
+Python 🐍 est bon en maths !
 12345678987654321
-The date and time is 2023-11-21 16:14:45.140000
-You rolled a 4 🔥🔥🔥🔥
+La date et l'heure sont 2023-11-21 16:14:45.140000
+Tu as obtenu un 4 🔥🔥🔥🔥
 ```
 </div>
 
@@ -62,6 +62,6 @@ You rolled a 4 🔥🔥🔥🔥
 
 ### Déboguer
 
-Check all your brackets are the same as the code example above.
+Vérifie que toutes tes parenthèses sont identiques à celles de l’exemple de code ci-dessus.
 
 </div>
