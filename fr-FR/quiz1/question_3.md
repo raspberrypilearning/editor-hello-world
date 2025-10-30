@@ -16,7 +16,7 @@ print('Deuxième nombre :', randint(1, 6))
 
 Quel code appellera la fonction pour l'exécuter ?
 
-![L'éditeur de code avec une zone de sortie affichant deux nombres générés aléatoirement.](images/quiz3.png)
+![Le Code Editor avec une zone de sortie affichant deux nombres générés aléatoirement.](images/quiz3.png)
 
 \--- choices ---
 
@@ -51,7 +51,7 @@ deux_des
 
 \--- feedback ---
 
-Presque ! \`deux_des est le nom de la fonction, mais pour l'appeler, il faut plus que le nom.
+Presque ! `deux_des` est le nom de la fonction, mais pour l'appeler, il faut plus que le nom.
 
 \--- /feedback ---
 
