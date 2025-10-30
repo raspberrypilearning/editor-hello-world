@@ -1,15 +1,15 @@
-<h2 class="c-project-heading--task">Change the dice</h2>
+<h2 class="c-project-heading--task">Changer le dé</h2>
 
 \--- task ---
 
-➡️ Change the input data to an integer.
-➡️ Generate a random number between 1 and the number of sides the user typed in.
+➡️ Modifier les données d’entrée en un entier.
+➡️ Génèrer un nombre aléatoire compris entre 1 et le nombre de faces saisi par l'utilisateur.
 
 \--- /task ---
 
-Inputs are always stored as text, but we need to use the input stored in `max` to specify the largest number that could be rolled.
+Les entrées sont toujours stockées sous forme de texte, mais nous devons utiliser l'entrée stockée dans `max` pour spécifier le plus grand nombre qui pourrait être obtenu.
 
-`max` is a string, so it needs changing to an integer `int()`.
+`max` est une chaîne, elle doit donc être changée en un entier `int()`.
 
 ## --- code ---
 
@@ -21,34 +21,34 @@ line_highlights: 14
 
 # Définitions de fonctions
 
-def roll_dice():
-max = input('How many sides on your dice?:')
-print(f'That is a D {max}')
-roll = randint(1, int(max))
-print(f'You rolled a {roll} {fire \* roll}')
+def roule_de():
+max = input('Combien de faces y a-t-il sur ton dé ?')
+print(f'C\'est un D {max}')
+roule = randint(1, int(max))
+print(f'Tu as obtenu un {roule} {feu \* roule}')
 
 \--- /code ---
 
 **Test :** clique sur le bouton **Run**.
-This is what you should see:
+Voici ce que tu devrais voir :
 
 <div class="c-project-output">
 ```
-Hello 🌍🌎🌏
-Welcome to Python 🐍
-Python 🐍 is good at maths!
+Bonjour 🌍🌎🌏
+Bienvenue sur Python 🐍
+Python 🐍 est bon en maths !
 12345678987654321
-The date and time is 2023-11-21 16:27:24.101000
-How many sides on your dice?:12
-That is a D 12
-You rolled a 5 🔥🔥🔥🔥🔥
+La date et l'heure sont 2023-11-21 16:27:24.101000
+Combien de faces y a-t-il sur ton dé ?:12
+C'est un D 12
+Tu as obtenu un 5 🔥🔥🔥🔥🔥
 ```
 </div>
 
 <div class="c-project-callout c-project-callout--tip">
 
-### Conseil
+### Astuce
 
-Changing one type of data to another type of data is called **type casting**.
+La modification d’un type de données en un autre type de données est appelée **type casting**.
 
 </div>
