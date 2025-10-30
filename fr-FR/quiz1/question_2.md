@@ -2,9 +2,9 @@
 
 ## legend: Question 2 sur 3
 
-Laquelle de ces définitions de fonction est correcte et affichera 'Je peux coder' lorsqu'elle sera appelée ?
+Laquelle de ces définitions de fonction est correcte et affichera `Je peux coder` lorsqu'elle sera appelée ?
 
-![L'éditeur de code avec une zone de sortie indiquant « Je peux coder ».](images/quiz2.png)
+![Le Code Editor avec une zone de sortie indiquant Je peux coder.](images/quiz2.png)
 
 \--- choices ---
 
@@ -21,7 +21,7 @@ print('Je peux coder')
 
 \--- feedback ---
 
-C'est exact, appeler cette fonction imprimera 'Je peux coder`. Tu as remarqué que les fonctions ont besoin de crochets `(` `)`et d'un`:\` dans la définition de la fonction, et que tout le code à exécuter lorsque cette fonction est appelée doit être indenté.
+C'est exact, appeler cette fonction affichera `Je peux coder`. Tu as remarqué que les fonctions nécessitent des parenthèses `(``)` et un `:` dans leur définition, et que tout le code à exécuter lorsque cette fonction est appelée doit être indenté.
 
 \--- /feedback ---
 
@@ -38,7 +38,7 @@ print('Je peux coder')
 
 \--- feedback ---
 
-Pas tout à fait, la mise en page de cet exemple provoquerait une erreur.
+Pas tout à fait, la mise en forme dans cet exemple provoquerait une erreur.
 
 \--- /feedback ---
 
