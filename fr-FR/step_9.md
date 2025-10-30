@@ -12,15 +12,15 @@ line_numbers: false
 
 # Définitions de fonctions
 
-def add_one_and_one():
+def ajoute_un_et_un():
 x = 1 + 1
 print(x)
 
 \--- /code ---
 
-The name of this function is `add_one_and_one`.
+Le nom de cette fonction est `ajoute_un_et_un`.
 
-The code for the task you want the function to do needs to be **indented**, which means that you need to add **four spaces** before each line of code.
+Le code de la tâche que tu souhaites que la fonction effectue doit être **indenté**, ce qui signifie que tu dois ajouter **quatre espaces** avant chaque ligne de code.
 
-**Calling** a function runs the code inside it. You **call** a function by using its name. In this case `add_one_and_one()`.
+**L'appel** d'une fonction exécute le code qu'elle contient. Tu **appelles** une fonction en utilisant son nom. Ici, `ajoute_un_et_un()`.
 
