@@ -4,7 +4,7 @@
 
 ## legend: Question 1 sur 3
 
-Ce code définit la variable 'monde' pour qu'elle contienne le texte '🌍🌎🌏' (les trois emojis de monde différents) :
+Ce code définit la variable `monde` pour qu'elle contienne le texte '🌍🌎🌏' (les trois différents emojis monde) :
 
 ## --- code ---
 
@@ -14,9 +14,9 @@ monde = '🌍🌎🌏'
 
 \--- /code ---
 
-Quel code utilise correctement la variable 'monde' et affiche Bonjour 🌍🌎🌏 ?
+Quel code utilise correctement la variable `monde` et affiche Bonjour 🌍🌎🌏 ?
 
-![La zone de sortie de l'éditeur de code avec Bonjour 🌍🌎🌏 affiché.](images/quiz1.png)
+![La zone de sortie du Code Editor avec Bonjour 🌍🌎🌏 affiché.](images/quiz1.png)
 
 \--- choices ---
 
@@ -32,7 +32,7 @@ output('Bonjour' monde)
 
 \--- feedback ---
 
-Pas tout à fait, 'output' n'est pas le moyen d'afficher des messages à l'écran.
+Pas tout à fait, `output` n'est pas le moyen d'afficher des messages à l'écran.
 
 \--- /feedback ---
 
@@ -48,7 +48,7 @@ print('Bonjour' monde)
 
 \--- feedback ---
 
-Pas tout à fait, dans Python 'print' affiche des messages à l'écran, mais il manque quelque chose dans cet exemple.
+Pas tout à fait, en Python `print` affiche des messages à l'écran, mais il manque quelque chose dans cet exemple.
 
 \--- /feedback ---
 
@@ -80,7 +80,7 @@ print('Bonjour {monde}')
 
 \--- feedback ---
 
-Pas tout à fait, dans Python 'print' affiche des messages à l'écran, mais il manque quelque chose dans cet exemple.
+Pas tout à fait, en Python `print` affiche des messages à l'écran, mais il manque quelque chose dans cet exemple.
 
 \--- /feedback ---
 
