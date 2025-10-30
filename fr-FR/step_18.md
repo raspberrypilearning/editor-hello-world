@@ -1,13 +1,13 @@
-<h2 class="c-project-heading--task">You've completed the project 🎉</h2>
+<h2 class="c-project-heading--task">Tu as terminé le projet 🎉</h2>
 
 \--- task ---
 
-We’d love to hear your thoughts about using the Code editor to complete the Hello World project!
+Nous aimerions connaître ton avis sur l’utilisation du Code Editor pour terminer le projet Bonjour Monde !
 
-➡️ Please complete our [feedback form](https://form.raspberrypi.org/4873648){:target="_blank"} to let us know.
+➡️ Peux-tu remplir notre [formulaire de commentaires](https://form.raspberrypi.org/4873648){:target="_blank"} pour nous le faire savoir ?
 
 ### Et ensuite ?
 
-If you are following the [Introduction to Python](https://projects.raspberrypi.org/en/raspberrypi/python-intro) pathway, you can move on to the [Target practice](https://projects.raspberrypi.org/en/projects/target-practice) project. In this project, you will draw a target then make an archery game where the player shoots arrows to score points.
+Si tu suis le parcours [Introduction à Python](https://projects.raspberrypi.org/en/raspberrypi/python-intro), tu peux passer au projet [Tir sur cible](https://projects.raspberrypi.org/en/projects/target-practice). Dans ce projet, tu dessineras une cible puis créeras un jeu de tir à l'arc où le joueur tire des flèches pour marquer des points.
 
 \--- /task ---
