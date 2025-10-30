@@ -39,9 +39,9 @@ Bonjour
 
 <div class="c-project-callout c-project-callout--tip">
 
-### Conseil
+### Astuce
 
-Lorsque tu tapes une parenthèse ouvrante `(`{:.language-python} , l'éditeur de code ajoutera automatiquement une parenthèse fermante `)`{:.language-python}
+Lorsque tu tapes une parenthèse ouvrante `(`{:.language-python} , le Code Editor ajoutera automatiquement une parenthèse fermante `)`{:.language-python}
 Cela se produit également lorsque tu tapes une apostrophe ouvrante `'`{:.language-python}.
 
 </div>
@@ -50,6 +50,6 @@ Cela se produit également lorsque tu tapes une apostrophe ouvrante `'`{:.langua
 
 ### Déboguer
 
-Si tu obtiens une erreur, vérifie ton code très attentivement. Vérifie qu'il y a des guillemets simples autour de `Hello`{:.language-python} afin que Python sache qu'il s'agit de texte.
+Si tu obtiens une erreur, vérifie ton code très attentivement. Vérifie qu'il y a des guillemets simples autour de `Bonjour`{:.language-python} afin que Python sache qu'il s'agit de texte.
 
 </div>
