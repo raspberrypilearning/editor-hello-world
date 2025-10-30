@@ -1,14 +1,14 @@
-<h2 class="c-project-heading--task">Using modules</h2>
+<h2 class="c-project-heading--task">Utilisation des modules</h2>
 
 \--- task ---
 
-➡️ Import the `datetime` module.
+➡️ Importer le module `datetime`.
 
 \--- /task ---
 
-Python has many **modules** that you can use in your code to help perform certain tasks. To use a module, you first need to **import** it.
+Python possède de nombreux **modules** que tu peux utiliser dans ton code pour t'aider à effectuer certaines tâches. Pour utiliser un module, tu dois d’abord l’**importer**.
 
-The `datetime` module helps with writing code that uses dates and times.
+Le module `datetime` aide à écrire du code qui utilise des dates et des heures.
 
 ## --- code ---
 
@@ -18,7 +18,7 @@ line_number_start: 1
 line_highlights: 2
 -------------------------------------------------------
 
-# imports
+# importations
 
 from datetime import datetime
 
@@ -26,13 +26,13 @@ from datetime import datetime
 
 \--- /code ---
 
-When you run this code, nothing should change, and you should have the same output as the previous step.
+Quand tu exécutes ce code, rien ne devrait changer et tu devrais avoir le même résultat que l’étape précédente.
 
 <div class="c-project-callout c-project-callout--tip">
 
-### Conseil
+### Astuce
 
-Any text you write in Python with a `#` in front of it becomes a comment. These lines won't run, so they can be useful to help people read and understand your code.
+Tout texte que tu écris en Python avec un `#` devant devient un commentaire. Ces lignes ne seront pas exécutées, elles peuvent donc être utiles pour aider les gens à lire et à comprendre ton code.
 
 </div>
 
@@ -40,6 +40,6 @@ Any text you write in Python with a `#` in front of it becomes a comment. These 
 
 ### Déboguer
 
-Check that you have spelled `datetime` correctly, and it is all lowercase.
+Vérifie que tu as correctement orthographié `datetime` et que tout est en minuscules.
 
 </div>
