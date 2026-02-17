@@ -1,0 +1,57 @@
+title: "Editor Hallo \U0001F30D\U0001F30E\U0001F30F"
+hero_image: images/banner.png
+description: Schrijf een interactief Python-project dat emoji gebruikt
+meta_title: Python programmeerprojecten voor kinderen en tieners | Hallo wereld
+meta_description: Leer Python met de Raspberry Pi Foundation. Maak een interactief Python programmeerproject dat emoji's gebruikt.
+version: 4
+listed: false
+copyedit: false
+last_tested: "2021-10-06"
+steps:
+  - 
+    title: step 1
+  - 
+    title: step 2
+    completion:
+      - engaged
+  - 
+    title: step 3
+  - 
+    title: step 4
+  - 
+    title: step 5
+  - 
+    title: step 6
+  - 
+    title: step 7
+  - 
+    title: step 8
+  - 
+    title: step 9
+  - 
+    title: step 10
+  - 
+    title: step 11
+  - 
+    title: step 12
+  - 
+    title: step 13
+  - 
+    title: step 14
+  - 
+    title: step 15
+  - 
+    title: step 16
+    completion:
+      - internal
+  - 
+    title: step 17
+    knowledge_quiz:
+      path: quiz1
+      version: 1
+      questions: 3
+      passing_score: 3
+  - 
+    title: step 18
+    completion:
+      - external
