@@ -1,10 +1,10 @@
 <h2 class="c-project-heading--task">Print Bonjour</h2>
 
---- task ---
+\--- task ---
 
 ➡️ Afficher le mot 'Bonjour' sur l'écran
 
---- /task ---
+\--- /task ---
 
 En Python, `print()`{:.language-python} affiche des chaînes (mots ou nombres) à l'écran.
 
@@ -12,22 +12,23 @@ Tape le code pour `print()`{:.language-python}(imprimer) Bonjour à l'écran :
 
 <div class="c-project-code">
 
---- code ---
----
+## --- code ---
+
 language: python
 line_numbers: true
 line_number_start: 10
 line_highlights: 11
----
+--------------------------------------------------------
 
 # Mettre le code à exécuter ci-dessous.
+
 print(f'Bonjour ')
 
---- /code ---
+\--- /code ---
 
 </div>
 
-**Test :** clique sur le bouton **Exécuter**.
+**Test :** clique sur le bouton **Run**.
 Tu devrais voir ceci lorsque tu exécutes ton code .
 
 <div class="c-project-output">

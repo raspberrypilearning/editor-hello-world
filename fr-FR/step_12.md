@@ -1,28 +1,29 @@
 <h2 class="c-project-heading--task">Nombres aléatoires</h2>
 
---- task ---
+\--- task ---
 
 ➡️ Choisir un nombre aléatoire pour le lancer de dés.
 
---- /task ---
+\--- /task ---
 
 Utilise la fonction `randint` que tu as importée pour choisir un nombre aléatoire entre 1 et 6 pour le lancer de dés.
 
---- code ---
----
+## --- code ---
+
 language: python
 line_numbers: true
 line_number_start: 10
 line_highlights: 12
----
+--------------------------------------------------------
 
 # Définitions de fonctions
+
 def roule_de():
-    print(f'Tu as obtenu un {randint(1, 6)}')
+print(f'Tu as obtenu un {randint(1, 6)}')
 
---- /code ---
+\--- /code ---
 
-**Test :** clique sur le bouton **Exécuter**.
+**Test :** clique sur le bouton **Run**.
 Maintenant, lorsque tu exécutes ton code, un nouveau nombre aléatoire entre 1 et 6 sera choisi à chaque fois.
 
 <div class="c-project-output">

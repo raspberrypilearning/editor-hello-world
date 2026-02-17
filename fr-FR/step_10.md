@@ -1,46 +1,48 @@
 <h2 class="c-project-heading--task">Lancer un dé</h2>
 
---- task ---
+\--- task ---
 
 ➡️ Créer une fonction pour simuler le lancement d'un dé.
 
 ➡️ Appeler la fonction pour exécuter le code qu'elle contient.
 
---- /task ---
+\--- /task ---
 
 Crée une fonction appelée `roule_de()`, qui imprime le nombre 4.
 
---- code ---
----
+## --- code ---
+
 language: python
 line_numbers: true
 line_number_start: 9
 line_highlights: 10, 11
----
+------------------------------------------------------------
 
 # Définitions de fonctions
+
 def roule_de():
-    print(f'Tu as obtenu un {4}')
+print(f'Tu as obtenu un {4}')
 
 # Mettre le code à exécuter ci-dessous
 
---- /code ---
+\--- /code ---
 
 Ensuite, appelle la fonction en bas de ton code.
 
---- code ---
----
+## --- code ---
+
 language: python
 line_numbers: true
 line_number_start: 18
 line_highlights: 19
----
+--------------------------------------------------------
+
 print(f'La date et l'heure sont {datetime.now()}')
 roule_de()
 
---- /code ---
+\--- /code ---
 
-**Test :** clique sur le bouton **Exécuter**.
+**Test :** clique sur le bouton **Run**.
 Tu devrais voir ceci lorsque tu exécutes ton code.
 
 <div class="c-project-output">
