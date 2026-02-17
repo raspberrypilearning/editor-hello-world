@@ -1,34 +1,35 @@
 <h2 class="c-project-heading--task">Changer le dé</h2>
 
---- task ---
+\--- task ---
 
 ➡️ Modifier les données d’entrée en un entier.
 ➡️ Génèrer un nombre aléatoire compris entre 1 et le nombre de faces saisi par l'utilisateur.
 
---- /task ---
+\--- /task ---
 
 Les entrées sont toujours stockées sous forme de texte, mais nous devons utiliser l'entrée stockée dans `max` pour spécifier le plus grand nombre qui pourrait être obtenu.
 
 `max` est une chaîne, elle doit donc être changée en un entier `int()`.
 
---- code ---
----
+## --- code ---
+
 language: python
 line_numbers: true
 line_number_start: 10
 line_highlights: 14
----
+--------------------------------------------------------
 
 # Définitions de fonctions
+
 def roule_de():
-    max = input('Combien de faces y a-t-il sur ton dé ?')
-    print(f'C\'est un D {max}')
-    roule = randint(1, int(max))
-    print(f'Tu as obtenu un {roule} {feu * roule}')
+max = input('Combien de faces y a-t-il sur ton dé ?')
+print(f'C\'est un D {max}')
+roule = randint(1, int(max))
+print(f'Tu as obtenu un {roule} {feu \* roule}')
 
---- /code ---
+\--- /code ---
 
-**Test :** clique sur le bouton **Exécuter**.
+**Test :** clique sur le bouton **Run**.
 Voici ce que tu devrais voir :
 
 <div class="c-project-output">

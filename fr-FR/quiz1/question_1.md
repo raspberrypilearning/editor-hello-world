@@ -1,95 +1,89 @@
 ## Questionnaire rapide
 
---- question ---
----
-legend: Question 1 sur 3
----
+## --- question ---
+
+## legend: Question 1 sur 3
 
 Ce code définit la variable `monde` pour qu'elle contienne le texte '🌍🌎🌏' (les trois différents emojis monde) :
 
---- code ---
----
-language: python
----
+## --- code ---
+
+## language: python
 
 monde = '🌍🌎🌏'
 
---- /code ---
+\--- /code ---
 
 Quel code utilise correctement la variable `monde` et affiche Bonjour 🌍🌎🌏 ?
 
 ![La zone de sortie du Code Editor avec Bonjour 🌍🌎🌏 affiché.](images/quiz1.png)
 
---- choices ---
+\--- choices ---
 
 - ( )
 
---- code ---
----
-language: python
----
+## --- code ---
+
+## language: python
 
 output('Bonjour' monde)
 
---- /code ---
+\--- /code ---
 
---- feedback ---
+\--- feedback ---
 
 Pas tout à fait, `output` n'est pas le moyen d'afficher des messages à l'écran.
 
---- /feedback ---
+\--- /feedback ---
 
 - ( )
 
---- code ---
----
-language: python
----
+## --- code ---
+
+## language: python
 
 print('Bonjour' monde)
 
---- /code ---
+\--- /code ---
 
---- feedback ---
+\--- feedback ---
 
 Pas tout à fait, en Python `print` affiche des messages à l'écran, mais il manque quelque chose dans cet exemple.
 
---- /feedback ---
+\--- /feedback ---
 
 - (x)
 
---- code ---
----
-language: python
----
+## --- code ---
+
+## language: python
 
 print(f'Bonjour {monde}')
 
---- /code ---
+\--- /code ---
 
---- feedback ---
+\--- feedback ---
 
 C'est correct, en Python, `print(f'')` affiche des messages à l'écran. La sortie du texte est entre guillemets simples `'`, et les accolades `{}` sont utilisées pour imprimer la variable `monde`.
 
---- /feedback ---
+\--- /feedback ---
 
 - ( )
 
---- code ---
----
-language: python
----
+## --- code ---
+
+## language: python
 
 print('Bonjour {monde}')
 
---- /code ---
+\--- /code ---
 
---- feedback ---
+\--- feedback ---
 
 Pas tout à fait, en Python `print` affiche des messages à l'écran, mais il manque quelque chose dans cet exemple.
 
---- /feedback ---
+\--- /feedback ---
 
---- /choices ---
+\--- /choices ---
 
---- /question ---
+\--- /question ---

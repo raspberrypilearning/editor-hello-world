@@ -1,29 +1,30 @@
 <h2 class="c-project-heading--task">Utilisation des modules</h2>
 
---- task ---
+\--- task ---
 
 ➡️ Importer le module `datetime`.
 
---- /task ---
+\--- /task ---
 
 Python possède de nombreux **modules** que tu peux utiliser dans ton code pour t'aider à effectuer certaines tâches. Pour utiliser un module, tu dois d’abord l’**importer**.
 
 Le module `datetime` aide à écrire du code qui utilise des dates et des heures.
 
---- code ---
----
+## --- code ---
+
 language: python
 line_numbers: true
 line_number_start: 1
 line_highlights: 2
----
+-------------------------------------------------------
 
 # importations
+
 from datetime import datetime
 
 # variables
 
---- /code ---
+\--- /code ---
 
 Quand tu exécutes ce code, rien ne devrait changer et tu devrais avoir le même résultat que l’étape précédente.
 
