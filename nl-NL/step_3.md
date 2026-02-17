@@ -1,14 +1,15 @@
 <h2 class="c-project-heading--task">Variabelen afdrukken</h2>
 
-\--- task ---
+--- task ---
 
 ➡️ De inhoud van een variabele afdrukken.
 
-\--- /task ---
+--- /task ---
 
 Wijzig je code zodat ook er een 'print()' wordt gedaan van de inhoud van de 'wereld' variabele. Je kan dit doen door de variabelenaam tussen accolades '{}' toe te voegen
 
-## --- code ---
+##
+--- code ---
 
 language: python
 line_numbers: true
@@ -28,7 +29,7 @@ vuur = '🔥'
 
 print(f'Hallo {wereld}')
 
-\--- /code ---
+--- /code ---
 
 **Test:** Klik op de **Run** knop.
 Dit is wat je zou moeten zien wanneer je jouw code uitvoert.

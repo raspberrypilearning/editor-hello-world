@@ -1,14 +1,15 @@
 <h2 class="c-project-heading--task">Willekeurige getallen</h2>
 
-\--- task ---
+--- task ---
 
 ➡️ Kies een willekeurig getal voor de dobbelsteenworp.
 
-\--- /task ---
+--- /task ---
 
 Gebruik de `randint`-functie die je hebt geïmporteerd om een willekeurig getal tussen 1 en 6 te kiezen voor de dobbelsteenworp.
 
-## --- code ---
+##
+--- code ---
 
 language: python
 line_numbers: true
@@ -21,7 +22,7 @@ line_highlights: 12
 def gooi_dobbelsteen():
 print(f'Je hebt een {randint(1, 6)} gegooid')
 
-\--- /code ---
+--- /code ---
 
 **Test:** Klik op de **Run** knop.
 Wanneer je nu je code nog eens uitvoert, zal er elke keer een nieuw willekeurig getal tussen 1 en 6 worden gekozen.

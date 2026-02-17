@@ -1,16 +1,17 @@
 <h2 class="c-project-heading--task">Gooi dobbelstenen</h2>
 
-\--- task ---
+--- task ---
 
 ➡️ Maak een functie om het gooien van een dobbelsteen te simuleren.
 
 ➡️ Roep de functie aan om de code erin uit te voeren.
 
-\--- /task ---
+--- /task ---
 
 Maak een functie genaamd `gooi_dobbelsteen()`, die het getal 4 afdrukt.
 
-## --- code ---
+##
+--- code ---
 
 language: python
 line_numbers: true
@@ -25,11 +26,12 @@ print(f'Je hebt een {4} gegooid')
 
 # Zet de code om uit te voeren hier onder
 
-\--- /code ---
+--- /code ---
 
 Roep vervolgens de functie onderaan je code aan.
 
-## --- code ---
+##
+--- code ---
 
 language: python
 line_numbers: true
@@ -40,7 +42,7 @@ line_highlights: 19
 print(f'De datum en tijd zijn {datetime.now()}')
 gooi_dobbelsteen()
 
-\--- /code ---
+--- /code ---
 
 **Test:** Klik op de **Run** knop.
 Dit is wat je zou moeten zien wanneer je jouw code uitvoert.

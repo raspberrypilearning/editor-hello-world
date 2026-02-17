@@ -1,14 +1,15 @@
 <h2 class="c-project-heading--task">Maak een berekening</h2>
 
-\--- task ---
+--- task ---
 
 ➡️ De waarde van een berekening afdrukken.
 
-\--- /task ---
+--- /task ---
 
 Voeg nog twee 'print()' regels toe aan je code, inclusief een vermenigvuldiging die Python moet berekenen:
 
-## --- code ---
+##
+--- code ---
 
 language: python
 line_numbers: true
@@ -23,7 +24,7 @@ print(f'Welkom bij {python}')
 print(f'{python} is goed in wiskunde!')
 print(f'{111111111 \* 111111111}')
 
-\--- /code ---
+--- /code ---
 
 **Test:** Klik op de **Run** knop.
 Dit is wat je zou moeten zien wanneer je jouw code uitvoert.

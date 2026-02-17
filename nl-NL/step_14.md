@@ -1,14 +1,15 @@
 <h2 class="c-project-heading--task">Invoer ophalen</h2>
 
-\--- task ---
+--- task ---
 
 ➡️ Laat de persoon die jouw programma gebruikt, iets invoeren.
 
-\--- /task ---
+--- /task ---
 
 Met `input()` kun je de persoon die jouw programma gebruikt vragen om tekst in te voeren en deze tekst als variabele opslaan.
 
-## --- code ---
+##
+--- code ---
 
 language: python
 line_numbers: true
@@ -24,7 +25,7 @@ print(f'Dat is een D {max}')
 worp = randint(1,6)
 print(f'Je hebt een {worp} {vuur \* worp}') gegooid
 
-\--- /code ---
+--- /code ---
 
 **Test:** Klik op de **Run** knop.
 Zorg ervoor dat je op de knop <kbd>Enter</kbd> klikt nadat je het aantal kanten hebt ingevoerd.

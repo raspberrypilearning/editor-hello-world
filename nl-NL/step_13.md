@@ -1,17 +1,18 @@
 <h2 class="c-project-heading--task">Tekenreeksen vermenigvuldigen</h2>
 
-\--- task ---
+--- task ---
 
 ➡️ Sla het willekeurige getal op in een variabele.
 ➡️ Vermenigvuldig het getal met de 🔥-emoji om de emoji een aantal keer af te drukken dat gelijk is aan de worp van de dobbelsteen.
 
-\--- /task ---
+--- /task ---
 
 In Python kun je tekenreeksen zoals emoji's of hele woorden vermenigvuldigen met een getal, zodat ze meerdere keren worden geprint.
 
 Sla het willekeurige getal op in een variabele met de naam `worp`.
 
-## --- code ---
+##
+--- code ---
 
 language: python
 line_numbers: true
@@ -24,11 +25,12 @@ line_highlights: 12
 def gooi_dobbelsteen():
 worp = randint(1,6)
 
-\--- /code ---
+--- /code ---
 
 Vermenigvuldig het willekeurige getal in `worp` met de 🔥 emoji en druk het resultaat af.
 
-## --- code ---
+##
+--- code ---
 
 language: python
 line_numbers: true
@@ -42,7 +44,7 @@ def gooi_dobbelsteen():
 worp = randint(1,6)
 print(f'Je hebt een {worp} {fire \* worp}') gegooid
 
-\--- /code ---
+--- /code ---
 
 **Test:** Klik op de **Run** knop.
 Je uitvoer zou er ongeveer zo uit moeten zien:

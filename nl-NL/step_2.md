@@ -12,7 +12,8 @@ We hebben enkele variabelen opgenomen die emoji-tekens opslaan.
 
 <div class="c-project-code">
 
-## --- code ---
+##
+--- code ---
 
 language: python
 line_numbers: true
@@ -32,7 +33,7 @@ vuur = '🔥'
 
 print(f'Hallo')
 
-\--- /code ---
+--- /code ---
 
 </div>
 

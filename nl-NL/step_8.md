@@ -1,16 +1,17 @@
 <h2 class="c-project-heading--task">Druk de datum af</h2>
 
-\--- task ---
+--- task ---
 
 ➡️ De huidige datum en tijd weergeven.
 
-\--- /task ---
+--- /task ---
 
 Voeg nog een regel toe aan je code om de huidige datum en tijd te 'print'-en.
 
 Haal de huidige datum en tijd op door de functie 'now()' uit de datetime -module te gebruiken:
 
-## --- code ---
+##
+--- code ---
 
 language: python
 line_numbers: true
@@ -22,7 +23,7 @@ print(f'{python} is goed in wiskunde!')
 print(f'{111111111 \* 111111111}')
 print(f'De datum en tijd zijn {datetime.now()}')
 
-\--- /code ---
+--- /code ---
 
 **Test:** Klik op de **Run** knop.
 Dit is wat je zou moeten zien wanneer je jouw code uitvoert, maar de datum en tijd zullen anders zijn.

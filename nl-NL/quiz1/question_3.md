@@ -1,10 +1,12 @@
-## --- question ---
+##
+--- question ---
 
 ## legend: Vraag 3 van 3
 
 Deze functie geeft twee willekeurige getallen weer:
 
-## --- code ---
+##
+--- code ---
 
 ## language: python
 
@@ -12,17 +14,18 @@ def twee_dobbelstenen():
 print('Eerste getal: ', randint(1, 6))
 print('Tweede getal: ', randint(1, 6))
 
-\--- /code ---
+--- /code ---
 
 Welke code roept de functie aan om uit te voeren?
 
 ![De code-editor met een uitvoergebied waarin twee willekeurig gegenereerde getallen worden weergegeven.](images/quiz3.png)
 
-\--- choices ---
+--- choices ---
 
 - ( )
 
-## --- code ---
+##
+--- code ---
 
 ## language: python
 
@@ -30,16 +33,16 @@ def twee_dobbelstenen():
 print('Eerste getal: ', randint(1, 6))
 print('Tweede getal: ', randint(1, 6))
 
-\--- /code ---
+--- /code ---
 
-\--- feedback ---
+--- feedback ---
 
 Nee, dit is de code om de functie te definiëren, maar deze voert de functie niet uit. Je moet andere code gebruiken om de functie aan te roepen.
 
-\--- /feedback ---
+--- /feedback ---
 
 - ( )
-  \--- code ---
+  --- code ---
 
 ---
 
@@ -47,46 +50,48 @@ Nee, dit is de code om de functie te definiëren, maar deze voert de functie nie
 
 twee_dobbelstenen
 
-\--- /code ---
+--- /code ---
 
-\--- feedback ---
+--- feedback ---
 
 Bijna! \`twee_getallen' is de naam van de functie, maar om deze aan te roepen heb je meer nodig dan alleen de naam.
 
-\--- /feedback ---
+--- /feedback ---
 
 - ()
 
-## --- code ---
+##
+--- code ---
 
 ## language: python
 
 twee_dobbelstenen[]
 
-\--- /code ---
+--- /code ---
 
-\--- feedback ---
+--- feedback ---
 
 Niet helemaal, denk aan het type haakjes dat je moet gebruiken om de functies in je project aan te roepen.
 
-\--- /feedback ---
+--- /feedback ---
 
 - (x)
 
-## --- code ---
+##
+--- code ---
 
 ## language: python
 
 twee_dobbelstenen()
 
-\--- /code ---
+--- /code ---
 
-\--- feedback ---
+--- feedback ---
 
 Dat klopt, het gebruik van de functienaam gevolgd door '(' ')' haakjes zal de functie aanroepen.
 
-\--- /feedback ---
+--- /feedback ---
 
-\--- /choices ---
+--- /choices ---
 
-\--- /question ---
+--- /question ---

@@ -1,17 +1,18 @@
 <h2 class="c-project-heading--task">Verander de dobbelstenen</h2>
 
-\--- task ---
+--- task ---
 
 ➡️ Wijzig de invoergegevens naar een geheel getal.
 ➡️ Genereer een willekeurig getal tussen 1 en het aantal zijden dat de gebruiker heeft ingevoerd.
 
-\--- /task ---
+--- /task ---
 
 Invoer wordt altijd opgeslagen als tekst, maar we moeten de invoer in `max` gebruiken om het grootste getal op te geven dat kan worden geworpen.
 
 `max` is een tekenreeks en moet daarom worden gewijzigd naar een integer `int()`.
 
-## --- code ---
+##
+--- code ---
 
 language: python
 line_numbers: true
@@ -27,7 +28,7 @@ print(f'Dat is een D {max}')
 worp = randint(1, int(max))
 print(f'Je hebt een {worp} {vuur \* worp}') gegooid
 
-\--- /code ---
+--- /code ---
 
 **Test:** Klik op de **Run** knop.
 Dit is wat je zou moeten zien:

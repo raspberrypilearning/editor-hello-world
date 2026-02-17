@@ -1,10 +1,10 @@
 <h2 class="c-project-heading--task">Print Hallo</h2>
 
-\--- task ---
+--- task ---
 
 ➡️ Toon het woord 'Hallo' op het scherm
 
-\--- /task ---
+--- /task ---
 
 In Python geeft `print()`{:.language-python} tekenreeksen (woorden of getallen) weer op het scherm.
 
@@ -12,7 +12,8 @@ Typ de code voor `print()`{:.language-python} Hallo op het scherm:
 
 <div class="c-project-code">
 
-## --- code ---
+##
+--- code ---
 
 language: python
 line_numbers: true
@@ -24,7 +25,7 @@ line_highlights: 11
 
 print(f'Hallo')
 
-\--- /code ---
+--- /code ---
 
 </div>
 

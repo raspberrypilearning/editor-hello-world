@@ -4,7 +4,8 @@ Functies zijn codeblokken die specifieke taken uitvoeren. Ze kunnen steeds opnie
 
 Hier is een voorbeeld van een functie:
 
-## --- code ---
+##
+--- code ---
 
 language: python
 line_numbers: false
@@ -16,7 +17,7 @@ def tel_een_en_een_op():
 x = 1 + 1
 print(x)
 
-\--- /code ---
+--- /code ---
 
 De naam van deze functie is 'tel_een_en_een_op\`.
 

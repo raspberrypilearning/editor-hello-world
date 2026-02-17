@@ -1,14 +1,15 @@
 <h2 class="c-project-heading--task">Een andere variabele afdrukken</h2>
 
-\--- task ---
+--- task ---
 
 ➡️ De inhoud van de variabele `python` afdrukken.
 
-\--- /task ---
+--- /task ---
 
 **Voeg** nog een regel toe aan je code om meer tekst en emojis te 'print()'en:
 
-## --- code ---
+##
+--- code ---
 
 language: python
 line_numbers: true
@@ -21,7 +22,7 @@ line_highlights: 12
 print(f'Hallo {wereld}')
 print(f'Welkom bij {python}')
 
-\--- /code ---
+--- /code ---
 
 **Test:** Klik op de **Run** knop.
 Dit is wat je zou moeten zien wanneer je jouw code uitvoert.
