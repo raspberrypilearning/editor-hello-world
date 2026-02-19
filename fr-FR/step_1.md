@@ -6,9 +6,9 @@
 
 --- /task ---
 
-En Python, `print()`{:.language-python} affiche des chaînes (mots ou nombres) à l'écran.
+En Python, `print()` affiche des chaînes (mots ou nombres) à l'écran.
 
-Tape le code pour `print()`{:.language-python}(imprimer) Bonjour à l'écran :
+Tape le code pour `print()` (imprimer) Bonjour à l'écran :
 
 <div class="c-project-code">
 
@@ -40,8 +40,8 @@ Bonjour
 
 ### Astuce
 
-Lorsque tu tapes une parenthèse ouvrante `(`{:.language-python} , le Code Editor ajoutera automatiquement une parenthèse fermante `)`{:.language-python}
-Cela se produit également lorsque tu tapes une apostrophe ouvrante `'`{:.language-python}.
+Lorsque tu tapes une parenthèse ouvrante `(` , le Code Editor ajoutera automatiquement une parenthèse fermante `)`
+Cela se produit également lorsque tu tapes une apostrophe ouvrante `'`.
 
 </div>
 
@@ -49,6 +49,6 @@ Cela se produit également lorsque tu tapes une apostrophe ouvrante `'`{:.langua
 
 ### Déboguer
 
-Si tu obtiens une erreur, vérifie ton code très attentivement. Vérifie qu'il y a des guillemets simples autour de `Bonjour`{:.language-python} afin que Python sache qu'il s'agit de texte.
+Si tu obtiens une erreur, vérifie ton code très attentivement. Vérifie qu'il y a des guillemets simples autour de `Bonjour` afin que Python sache qu'il s'agit de texte.
 
 </div>
