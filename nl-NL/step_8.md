@@ -8,19 +8,18 @@
 
 Voeg nog een regel toe aan je code om de huidige datum en tijd te 'print'-en.
 
-Haal de huidige datum en tijd op door de functie 'now()' uit de datetime -module te gebruiken:
+Haal de huidige datum en tijd op door de functie `now()` uit de `datetime`-module te gebruiken:
 
-##
 --- code ---
-
+---
 language: python
 line_numbers: true
 line_number_start: 14
 line_highlights: 16
---------------------------------------------------------
+---
 
 print(f'{python} is goed in wiskunde!')
-print(f'{111111111 \* 111111111}')
+print(f'{111111111 * 111111111}')
 print(f'De datum en tijd zijn {datetime.now()}')
 
 --- /code ---

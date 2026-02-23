@@ -6,19 +6,17 @@
 
 --- /task ---
 
-**Voeg** nog een regel toe aan je code om meer tekst en emojis te 'print()'en:
+**Voeg** nog een regel toe aan je code om meer tekst en emojis te `print()`en:
 
-##
 --- code ---
-
+---
 language: python
 line_numbers: true
 line_number_start: 10
 line_highlights: 12
---------------------------------------------------------
+---
 
 # Zet de code om uit te voeren hier onder
-
 print(f'Hallo {wereld}')
 print(f'Welkom bij {python}')
 

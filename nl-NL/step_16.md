@@ -8,14 +8,13 @@
 
 Hier zijn enkele startzinnen die je kunt gebruiken:
 
-##
 --- code ---
-
+---
 language: python
 line_numbers: true
 line_number_start: 23
 line_highlights: 24-26
------------------------------------------------------------
+---
 
 gooi_dobbelsteen()
 print(f'Ik ❤️ ...')  

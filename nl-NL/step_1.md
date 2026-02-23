@@ -12,17 +12,15 @@ Typ de code voor `print()`{:.language-python} Hallo op het scherm:
 
 <div class="c-project-code">
 
-##
 --- code ---
-
+---
 language: python
 line_numbers: true
 line_number_start: 10
 line_highlights: 11
---------------------------------------------------------
+---
 
 # Zet de code om uit te voeren hieronder.
-
 print(f'Hallo')
 
 --- /code ---

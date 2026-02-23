@@ -11,38 +11,34 @@ In Python kun je tekenreeksen zoals emoji's of hele woorden vermenigvuldigen met
 
 Sla het willekeurige getal op in een variabele met de naam `worp`.
 
-##
 --- code ---
-
+---
 language: python
 line_numbers: true
 line_number_start: 10
 line_highlights: 12
---------------------------------------------------------
+---
 
 # Functiedefinities
-
 def gooi_dobbelsteen():
-worp = randint(1,6)
+    worp = randint(1,6)
 
 --- /code ---
 
 Vermenigvuldig het willekeurige getal in `worp` met de 🔥 emoji en druk het resultaat af.
 
-##
 --- code ---
-
+---
 language: python
 line_numbers: true
 line_number_start: 10
 line_highlights: 13
---------------------------------------------------------
+---
 
 # Functiedefinities
-
 def gooi_dobbelsteen():
-worp = randint(1,6)
-print(f'Je hebt een {worp} {fire \* worp}') gegooid
+    worp = randint(1,6)
+    print(f'Je hebt een {worp} {fire * worp} gegooid')
 
 --- /code ---
 

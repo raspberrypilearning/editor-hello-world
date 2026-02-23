@@ -6,23 +6,22 @@
 
 --- /task ---
 
-Voeg nog twee 'print()' regels toe aan je code, inclusief een vermenigvuldiging die Python moet berekenen:
+Voeg nog twee `print()` regels toe aan je code, inclusief een vermenigvuldiging die Python moet berekenen:
 
-##
 --- code ---
-
+---
 language: python
 line_numbers: true
 line_number_start: 10
 line_highlights: 13-14
------------------------------------------------------------
+---
 
 # Zet de code om uit te voeren hier onder
 
 print(f'Hallo {wereld}')
 print(f'Welkom bij {python}')
 print(f'{python} is goed in wiskunde!')
-print(f'{111111111 \* 111111111}')
+print(f'{111111111 * 111111111}')
 
 --- /code ---
 

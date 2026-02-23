@@ -12,17 +12,15 @@ We hebben enkele variabelen opgenomen die emoji-tekens opslaan.
 
 <div class="c-project-code">
 
-##
 --- code ---
-
+---
 language: python
 line_numbers: true
 line_number_start: 3
 line_highlights: 4-6
----------------------------------------------------------
+---
 
 # variabelen
-
 wereld = '🌍🌎🌏'
 python = 'Python 🐍'
 vuur = '🔥'

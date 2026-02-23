@@ -2,10 +2,10 @@
 
 In Python kun je met getallen en data werken. Je kunt **rekenkundige operatoren** gebruiken, zoals '+' en '-'  om berekeningen uit te voeren:
 
-\| + | optellen |
-\| - | aftrekken |
-\| \* | vermenigvuldigen |
-\| / | delen |
-\| \*\* | machtsverheffen |
+| + | optellen |
+| - | aftrekken |
+| * | vermenigvuldigen |
+| / | delen |
+| ** | machtsverheffen |
 
 

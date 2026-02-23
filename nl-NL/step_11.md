@@ -6,19 +6,17 @@
 
 --- /task ---
 
-Een andere module, genaamd 'random', kan worden gebruikt om willekeurige getallen te creëren
+Een andere module, genaamd `random`, kan worden gebruikt om willekeurige getallen te creëren
 
-##
 --- code ---
-
+---
 language: python
 line_numbers: true
 line_number_start: 1
 line_highlights: 3
--------------------------------------------------------
+---
 
 # import
-
 from datetime import datetime
 from random import randint
 

@@ -10,14 +10,13 @@ Python heeft veel **modules** die je in jouw code kunt gebruiken om bepaalde tak
 
 De `datetime`-module helpt bij het schrijven van code die gebruikmaakt van data en tijden.
 
-##
 --- code ---
-
+---
 language: python
 line_numbers: true
 line_number_start: 1
 line_highlights: 2
--------------------------------------------------------
+---
 
 # import
 

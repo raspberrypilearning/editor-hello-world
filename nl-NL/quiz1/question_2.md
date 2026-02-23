@@ -1,7 +1,8 @@
-##
---- question ---
 
-## legend: Vraag 2 van 3
+--- question ---
+---
+legend: Question 2 of 3
+---
 
 Welke van deze functie definities is correct en geeft `Ik kan coderen` weer wanneer deze wordt aangeroepen?
 
@@ -11,31 +12,31 @@ Welke van deze functie definities is correct en geeft `Ik kan coderen` weer wann
 
 - (x)
 
-##
 --- code ---
-
-## language: python
+---
+language: python
+---
 
 def geweldig():
-print('Ik kan coderen')
+    print('Ik kan coderen')
 
 --- /code ---
 
 --- feedback ---
 
-Dat klopt, als je deze functie aanroept, wordt 'Ik kan coderen' afgedrukt. Je hebt gezien dat functies '(' ')' haakjes en een ':' in de functiedefinitie nodig hebben, en dat alle uit te voeren code wanneer die functie wordt aangeroepen, moet worden ingesprongen.
+Dat klopt, als je deze functie aanroept, wordt `Ik kan coderen` afgedrukt. Je hebt gezien dat functies `(` `)` haakjes en een `:` in de functiedefinitie nodig hebben, en dat alle uit te voeren code wanneer die functie wordt aangeroepen, moet worden ingesprongen.
 
 --- /feedback ---
 
 - ()
 
-##
 --- code ---
-
-## language: python
+---
+language: python
+---
 
 def geweldig():
-print('Ik kan coderen')
+    print('Ik kan coderen')
 
 --- /code ---
 
@@ -47,13 +48,13 @@ Niet helemaal, de lay-out in dit voorbeeld zou een fout veroorzaken.
 
 - ( )
 
-##
 --- code ---
-
-## language: python
+---
+language: python
+---
 
 def geweldig()
-print('Ik kan coderen')
+    print('Ik kan coderen')
 
 --- /code ---
 

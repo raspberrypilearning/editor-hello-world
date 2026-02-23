@@ -8,22 +8,20 @@
 
 Met `input()` kun je de persoon die jouw programma gebruikt vragen om tekst in te voeren en deze tekst als variabele opslaan.
 
-##
 --- code ---
-
+---
 language: python
 line_numbers: true
 line_number_start: 10
 line_highlights: 12-13
------------------------------------------------------------
+---
 
 # Functiedefinities
-
 def gooi_dobbelsteen():
-max = input('Hoeveel zijden heeft je dobbelsteen?:')
-print(f'Dat is een D {max}')
-worp = randint(1,6)
-print(f'Je hebt een {worp} {vuur \* worp}') gegooid
+    max = input('Hoeveel zijden heeft je dobbelsteen?:')
+    print(f'Dat is een D {max}')
+    worp = randint(1,6)
+    print(f'Je hebt een {worp} {vuur * worp} gegooid')
 
 --- /code ---
 

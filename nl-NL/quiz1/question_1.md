@@ -1,22 +1,22 @@
 ## Snelle quiz
 
-##
 --- question ---
-
-## legend: Vraag 1 van 3
+---
+legend: Vraag 1 van 3
+---
 
 Deze code stelt de `wereld`-variabele in om de tekst '🌍🌎🌏' te bevatten (de drie verschillende wereldbolemoji):
 
-##
 --- code ---
-
-## language: python
+---
+language: python
+---
 
 wereld = '🌍🌎🌏'
 
 --- /code ---
 
-Welke code gebruikt de 'wereld' variabele correct en geeft Hallo 🌍🌎🌏 als resultaat?
+Welke code gebruikt de `wereld` variabele correct en geeft Hallo 🌍🌎🌏 als resultaat?
 
 ![Het uitvoergebied van de code-editor waarin Hallo 🌍🌎🌏 wordt weergegeven.](images/quiz1.png)
 
@@ -24,10 +24,10 @@ Welke code gebruikt de 'wereld' variabele correct en geeft Hallo 🌍🌎🌏 al
 
 - ( )
 
-##
 --- code ---
-
-## language: python
+---
+language: python
+---
 
 output('Hallo' wereld)
 
@@ -35,16 +35,16 @@ output('Hallo' wereld)
 
 --- feedback ---
 
-Niet helemaal, 'output' is niet de manier om berichten naar het scherm te sturen.
+Niet helemaal, `output` is niet de manier om berichten naar het scherm te sturen.
 
 --- /feedback ---
 
 - ( )
 
-##
 --- code ---
-
-## language: python
+---
+language: python
+---
 
 print('Hallo' wereld)
 
@@ -52,16 +52,16 @@ print('Hallo' wereld)
 
 --- feedback ---
 
-Niet helemaal, in Python stuurt 'print' berichten naar het scherm, maar er ontbreekt iets in dit voorbeeld.
+Niet helemaal, in Python stuurt `print` berichten naar het scherm, maar er ontbreekt iets in dit voorbeeld.
 
 --- /feedback ---
 
 - (x)
 
-##
 --- code ---
-
-## language: python
+---
+language: python
+---
 
 print(f'Hallo {wereld}')
 
@@ -69,16 +69,16 @@ print(f'Hallo {wereld}')
 
 --- feedback ---
 
-Dat klopt, in Python stuurt 'print(f")' berichten naar het scherm. De tekstuitvoer staat tussen enkele aanhalingstekens `'` en accolades `{}` worden gebruikt om de variabele `wereld` af te drukken.
+Dat klopt, in Python stuurt `print(f")` berichten naar het scherm. De tekstuitvoer staat tussen enkele aanhalingstekens `'` en accolades `{}` worden gebruikt om de variabele `wereld` af te drukken.
 
 --- /feedback ---
 
 - ( )
 
-##
 --- code ---
-
-## language: python
+---
+language: python
+---
 
 print('Hallo {wereld}')
 
@@ -86,7 +86,7 @@ print('Hallo {wereld}')
 
 --- feedback ---
 
-Niet helemaal, in Python stuurt 'print' berichten naar het scherm, maar er ontbreekt iets in dit voorbeeld.
+Niet helemaal, in Python stuurt `print` berichten naar het scherm, maar er ontbreekt iets in dit voorbeeld.
 
 --- /feedback ---
 

@@ -11,22 +11,21 @@ Invoer wordt altijd opgeslagen als tekst, maar we moeten de invoer in `max` gebr
 
 `max` is een tekenreeks en moet daarom worden gewijzigd naar een integer `int()`.
 
-##
 --- code ---
-
+---
 language: python
 line_numbers: true
 line_number_start: 10
 line_highlights: 14
---------------------------------------------------------
+---
 
 # Functiedefinities
 
 def gooi_dobbelsteen():
-max = input('Hoeveel zijden heeft je dobbelsteen?:')
-print(f'Dat is een D {max}')
-worp = randint(1, int(max))
-print(f'Je hebt een {worp} {vuur \* worp}') gegooid
+    max = input('Hoeveel zijden heeft je dobbelsteen?:')
+    print(f'Dat is een D {max}')
+    worp = randint(1, int(max))
+    print(f'Je hebt een {worp} {vuur * worp} gegooid')
 
 --- /code ---
 

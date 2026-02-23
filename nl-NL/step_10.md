@@ -10,19 +10,18 @@
 
 Maak een functie genaamd `gooi_dobbelsteen()`, die het getal 4 afdrukt.
 
-##
 --- code ---
-
+---
 language: python
 line_numbers: true
 line_number_start: 9
 line_highlights: 10, 11
-------------------------------------------------------------
+---
 
 # Functiedefinities
 
 def gooi_dobbelsteen():
-print(f'Je hebt een {4} gegooid')
+    print(f'Je hebt een {4} gegooid')
 
 # Zet de code om uit te voeren hier onder
 
@@ -30,15 +29,13 @@ print(f'Je hebt een {4} gegooid')
 
 Roep vervolgens de functie onderaan je code aan.
 
-##
 --- code ---
-
+---
 language: python
 line_numbers: true
 line_number_start: 18
 line_highlights: 19
---------------------------------------------------------
-
+---
 print(f'De datum en tijd zijn {datetime.now()}')
 gooi_dobbelsteen()
 

@@ -8,19 +8,17 @@
 
 Gebruik de `randint`-functie die je hebt geïmporteerd om een willekeurig getal tussen 1 en 6 te kiezen voor de dobbelsteenworp.
 
-##
 --- code ---
-
+---
 language: python
 line_numbers: true
 line_number_start: 10
 line_highlights: 12
---------------------------------------------------------
+---
 
 # Functiedefinities
-
 def gooi_dobbelsteen():
-print(f'Je hebt een {randint(1, 6)} gegooid')
+    print(f'Je hebt een {randint(1, 6)} gegooid')
 
 --- /code ---
 
