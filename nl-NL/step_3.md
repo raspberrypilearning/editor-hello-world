@@ -6,7 +6,7 @@
 
 --- /task ---
 
-Wijzig je code zodat ook er een 'print()' wordt gedaan van de inhoud van de 'wereld' variabele. Je kan dit doen door de variabelenaam tussen accolades '{}' toe te voegen
+Wijzig je code zodat ook er een `print()` wordt gedaan van de inhoud van de `wereld` variabele. Je kan dit doen door de variabelenaam tussen accolades `{}` toe te voegen
 
 --- code ---
 ---
@@ -42,7 +42,7 @@ Hallo 🌍🌎🌏
 
 ### Tip
 
-Met het teken 'f' in het print commando kun je eenvoudig variabelen samen met tekstreeksen afdrukken.
+Met het teken `f` in het print commando kun je eenvoudig variabelen samen met tekstreeksen afdrukken.
 
 </div>
 

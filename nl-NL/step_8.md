@@ -6,7 +6,7 @@
 
 --- /task ---
 
-Voeg nog een regel toe aan je code om de huidige datum en tijd te 'print'-en.
+Voeg nog een regel toe aan je code om de huidige datum en tijd te `print`-en.
 
 Haal de huidige datum en tijd op door de functie `now()` uit de `datetime`-module te gebruiken:
 
