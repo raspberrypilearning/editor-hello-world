@@ -1,12 +1,12 @@
 <h2 class="c-project-heading--task">Maak een berekening</h2>
 
---- task ---
+\--- task ---
 
 ➡️ De waarde van een berekening afdrukken.
 
---- /task ---
+\--- /task ---
 
-Voeg nog twee `print()` regels toe aan je code, inclusief een vermenigvuldiging die Python moet berekenen:
+Voeg nog twee 'print()' regels toe aan je code, inclusief een vermenigvuldiging die Python moet berekenen:
 
 --- code ---
 ---
@@ -16,23 +16,22 @@ line_number_start: 10
 line_highlights: 13-14
 ---
 
-# Zet de code om uit te voeren hier onder
-
-print(f'Hallo {wereld}')
-print(f'Welkom bij {python}')
-print(f'{python} is goed in wiskunde!')
+# Put code to run under here
+print(f'Hello {world}')
+print(f'Welcome to {python}')
+print(f'{python} is good at maths!')
 print(f'{111111111 * 111111111}')
 
 --- /code ---
 
-**Test:** Klik op de **Run** knop.
-Dit is wat je zou moeten zien wanneer je jouw code uitvoert.
+**Test:** Click the **Run** button.
+This is what you should see when you run your code.
 
 <div class="c-project-output">
 ```
-Hallo 🌍🌎🌏
-Welkom bij Python 🐍
-Python 🐍 is goed in wiskunde!
+Hello 🌍🌎🌏
+Welcome to Python 🐍
+Python 🐍 is good at maths!
 12345678987654321
 ```
 </div>
@@ -41,14 +40,14 @@ Python 🐍 is goed in wiskunde!
 
 ### Tip
 
-Python gebruikt dezelfde regels voor berekeningen die je op school hebt geleerd. BODMAS: **B**rackets (haakjes) eerst, dan **O**rders (machten), **D**ivision (deling), **M**ultiplication (vermenigvuldiging), **A**ddition (optellen) en als laatste **S**ubtraction (aftrekken).
+Python uses the same rules for calculations as you might have learned at school. **B**rackets first, then **O**rders, **D**ivision, **M**ultiplication, **A**ddition, and lastly **S**ubtraction.
 
 </div>
 
 <div class="c-project-callout c-project-callout--debug">
 
-### Foutopsporing
+### Debugging
 
-Vergeet niet dat HOOFDLETTERS en kleine letters belangrijk zijn in Python. Controleer altijd of je de juiste lettergrootte gebruikt.
+Don't forget that the UPPERCASE and lowercase letters are important in Python. Always check you are using the correct case.
 
 </div>

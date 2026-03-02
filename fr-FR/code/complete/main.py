@@ -20,6 +20,6 @@ print(f'{python} est bon en maths !')
 print(f'{111111111 * 111111111}')
 print(f'La date et l\'heure sont {datetime.now()}')
 roule_de() # Appel la fonction lancer de dés
-print(f'J\'❤️ ...')   
+print(f"J'❤️ ...")   
 print(f'... me rend 😃')   
 print(f'Je voudrais faire ... avec {python}')

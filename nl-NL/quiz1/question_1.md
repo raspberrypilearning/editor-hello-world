@@ -1,9 +1,8 @@
 ## Snelle quiz
 
---- question ---
----
-legend: Vraag 1 van 3
----
+## --- question ---
+
+## legend: Vraag 1 van 3
 
 Deze code stelt de `wereld`-variabele in om de tekst '🌍🌎🌏' te bevatten (de drie verschillende wereldbolemoji):
 
@@ -12,15 +11,15 @@ Deze code stelt de `wereld`-variabele in om de tekst '🌍🌎🌏' te bevatten 
 language: python
 ---
 
-wereld = '🌍🌎🌏'
+world = '🌍🌎🌏'
 
 --- /code ---
 
-Welke code gebruikt de `wereld` variabele correct en geeft Hallo 🌍🌎🌏 als resultaat?
+Which code correctly uses the `world` variable and outputs Hello 🌍🌎🌏?
 
-![Het uitvoergebied van de code-editor waarin Hallo 🌍🌎🌏 wordt weergegeven.](images/quiz1.png)
+![The output area from the code editor with Hello 🌍🌎🌏 showing.](images/quiz1.png)
 
---- choices ---
+\--- choices ---
 
 - ( )
 
@@ -29,15 +28,15 @@ Welke code gebruikt de `wereld` variabele correct en geeft Hallo 🌍🌎🌏 al
 language: python
 ---
 
-output('Hallo' wereld)
+output('Hello' world)
 
 --- /code ---
 
---- feedback ---
+\--- feedback ---
 
-Niet helemaal, `output` is niet de manier om berichten naar het scherm te sturen.
+Not quite, `output` is not the way to output messages to the screen.
 
---- /feedback ---
+\--- /feedback ---
 
 - ( )
 
@@ -46,15 +45,15 @@ Niet helemaal, `output` is niet de manier om berichten naar het scherm te sturen
 language: python
 ---
 
-print('Hallo' wereld)
+print('Hello' world)
 
 --- /code ---
 
---- feedback ---
+\--- feedback ---
 
-Niet helemaal, in Python stuurt `print` berichten naar het scherm, maar er ontbreekt iets in dit voorbeeld.
+Not quite, in Python `print` outputs messages to the screen, but something is missing in this example.
 
---- /feedback ---
+\--- /feedback ---
 
 - (x)
 
@@ -63,15 +62,15 @@ Niet helemaal, in Python stuurt `print` berichten naar het scherm, maar er ontbr
 language: python
 ---
 
-print(f'Hallo {wereld}')
+print(f'Hello {world}')
 
 --- /code ---
 
---- feedback ---
+\--- feedback ---
 
-Dat klopt, in Python stuurt `print(f")` berichten naar het scherm. De tekstuitvoer staat tussen enkele aanhalingstekens `'` en accolades `{}` worden gebruikt om de variabele `wereld` af te drukken.
+That's correct, in Python `print(f'')` outputs messages to the screen. The text output is inside single quotes `'` , and curly braces `{}` are used to print the `world` variable.
 
---- /feedback ---
+\--- /feedback ---
 
 - ( )
 
@@ -80,16 +79,16 @@ Dat klopt, in Python stuurt `print(f")` berichten naar het scherm. De tekstuitvo
 language: python
 ---
 
-print('Hallo {wereld}')
+print('Hello {world}')
 
 --- /code ---
 
---- feedback ---
+\--- feedback ---
 
-Niet helemaal, in Python stuurt `print` berichten naar het scherm, maar er ontbreekt iets in dit voorbeeld.
+Not quite, in Python `print` outputs messages to the screen, but something is missing in this example.
 
---- /feedback ---
+\--- /feedback ---
 
---- /choices ---
+\--- /choices ---
 
---- /question ---
+\--- /question ---

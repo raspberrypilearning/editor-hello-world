@@ -1,14 +1,14 @@
-<h2 class="c-project-heading--task">Print Hallo</h2>
+<h2 class="c-project-heading--task">Print Hello</h2>
 
---- task ---
+\--- task ---
 
-➡️ Toon het woord 'Hallo' op het scherm
+➡️ Display the word 'Hello' on the screen
 
---- /task ---
+\--- /task ---
 
-In Python geeft `print()`{:.language-python} tekenreeksen (woorden of getallen) weer op het scherm.
+In Python, `print()` outputs strings (words or numbers) to the screen.
 
-Typ de code voor `print()`{:.language-python} Hallo op het scherm:
+Type the code to `print()` Hello to the screen:
 
 <div class="c-project-code">
 
@@ -20,19 +20,19 @@ line_number_start: 10
 line_highlights: 11
 ---
 
-# Zet de code om uit te voeren hieronder.
-print(f'Hallo')
+# Put code to run under here.
+print(f'Hello')
 
 --- /code ---
 
 </div>
 
-**Test:** Klik op de **Run** knop.
-Dit is wat je zou moeten zien wanneer je jouw code uitvoert.
+**Test:** Click the **Run** button.
+This is what you should see when you run your code.
 
 <div class="c-project-output">
 ```
-Hallo
+Hello
 ```
 </div>
 
@@ -40,15 +40,15 @@ Hallo
 
 ### Tip
 
-Wanneer je een openingshaakje `(`{:.language-python} typt, zal de code-editor automatisch een sluitingshaakje `)`{:.language-python} toevoegen
-Dit gebeurt ook wanneer je een openingsapostrof `'`{:.language-python} typt.
+When you type an opening bracket `(` the code editor will automatically add a closing bracket `)`
+This also happens when you type an opening apostrophe `'`.
 
 </div>
 
 <div class="c-project-callout c-project-callout--debug">
 
-### Foutopsporing
+### Debugging
 
-Als je een foutmelding krijgt, controleer dan zorgvuldig jouw code. Controleer of er enkele aanhalingstekens rond `Hallo`{:.language-python} staan, zodat Python weet dat het tekst moet zijn.
+If you get an error then check your code really carefully. Check there are single quotes around `Hello` so Python knows it is meant to be text.
 
 </div>
