@@ -1,10 +1,10 @@
 <h2 class="c-project-heading--task">Obtenir une entrée</h2>
 
---- task ---
+\--- task ---
 
 ➡️ Permettre à la personne qui utilise ton programme de saisir des données.
 
---- /task ---
+\--- /task ---
 
 Tu peux utiliser `input()` pour demander à la personne utilisant ton programme de saisir du texte et de l'enregistrer en tant que variable.
 
@@ -16,29 +16,29 @@ line_number_start: 10
 line_highlights: 12-13
 ---
 
-# Définitions de fonctions
-def roule_de():
-    max = input('Combien de faces y a-t-il sur ton dé ?')
-    print(f'C\'est un D {max}')
-    roule = randint(1,6)
-    print(f'Tu as obtenu un {roule} {feu * roule}')
+# Function definitions
+def roll_dice():
+    max = input('How many sides on your dice?:')
+    print(f'That is a D {max}')
+    roll = randint(1,6)
+    print(f'You rolled a {roll} {fire * roll}')
 
 --- /code ---
 
-**Test :** clique sur le bouton **Exécuter**.
-Assure-toi d'appuyer sur la touche <kbd>Entrée</kbd> après avoir saisi le nombre de faces.
-Tu devrais voir ceci lorsque tu exécutes ton code.
+**Test:** Click the **Run** button.
+Ensure you press the <kbd> Enter </kbd> key after inputting how many sides.
+This is what you should see when you run your code.
 
 <div class="c-project-output">
 ```
-Bonjour 🌍🌎🌏
-Bienvenue sur Python 🐍
-Python 🐍 est bon en maths !
+Hello 🌍🌎🌏
+Welcome to Python 🐍
+Python 🐍 is good at maths!
 12345678987654321
-La date et l'heure sont 2023-11-21 16:20:41.323000
-Combien de faces y a-t-il sur ton dé ?
+The date and time is 2023-11-21 16:20:41.323000
+How many sides on your dice?:
 20 
-C'est un D 20
-Tu as obtenu un 1 🔥
+That is a D 20
+You rolled a 1 🔥
 ```
 </div>

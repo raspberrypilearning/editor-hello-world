@@ -1,14 +1,14 @@
-<h2 class="c-project-heading--task">Print Bonjour</h2>
+<h2 class="c-project-heading--task">Print Hello</h2>
 
---- task ---
+\--- task ---
 
-➡️ Afficher le mot 'Bonjour' sur l'écran
+➡️ Display the word 'Hello' on the screen
 
---- /task ---
+\--- /task ---
 
-En Python, `print()` affiche des chaînes (mots ou nombres) à l'écran.
+In Python, `print()` outputs strings (words or numbers) to the screen.
 
-Tape le code pour `print()` (imprimer) Bonjour à l'écran :
+Type the code to `print()` Hello to the screen:
 
 <div class="c-project-code">
 
@@ -20,19 +20,19 @@ line_number_start: 10
 line_highlights: 11
 ---
 
-# Mettre le code à exécuter ci-dessous.
-print(f'Bonjour ')
+# Put code to run under here.
+print(f'Hello')
 
 --- /code ---
 
 </div>
 
-**Test :** clique sur le bouton **Exécuter**.
-Tu devrais voir ceci lorsque tu exécutes ton code .
+**Test:** Click the **Run** button.
+This is what you should see when you run your code.
 
 <div class="c-project-output">
 ```
-Bonjour
+Hello
 ```
 </div>
 
@@ -40,15 +40,15 @@ Bonjour
 
 ### Astuce
 
-Lorsque tu tapes une parenthèse ouvrante `(` , le Code Editor ajoutera automatiquement une parenthèse fermante `)`
-Cela se produit également lorsque tu tapes une apostrophe ouvrante `'`.
+When you type an opening bracket `(` the code editor will automatically add a closing bracket `)`
+This also happens when you type an opening apostrophe `'`.
 
 </div>
 
 <div class="c-project-callout c-project-callout--debug">
 
-### Déboguer
+### Debugging
 
-Si tu obtiens une erreur, vérifie ton code très attentivement. Vérifie qu'il y a des guillemets simples autour de `Bonjour` afin que Python sache qu'il s'agit de texte.
+If you get an error then check your code really carefully. Check there are single quotes around `Hello` so Python knows it is meant to be text.
 
 </div>

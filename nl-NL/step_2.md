@@ -20,16 +20,15 @@ line_number_start: 3
 line_highlights: 4-6
 ---
 
-# variabelen
-wereld = '🌍🌎🌏'
+# variables
+world = '🌍🌎🌏'
 python = 'Python 🐍'
-vuur = '🔥'
+fire = '🔥'
 
-# Functiedefinities
-
-# Zet de code om uit te voeren hier onder
-
-print(f'Hallo')
+# Function definitions
+  
+# Put code to run under here
+print(f'Hello')
 
 --- /code ---
 

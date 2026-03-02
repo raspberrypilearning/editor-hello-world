@@ -1,12 +1,12 @@
 <h2 class="c-project-heading--task">Importeer randint</h2>
 
---- task ---
+\--- task ---
 
 ➡️ Importeer de `randint`-functie vanuit de `random`-module.
 
---- /task ---
+\--- /task ---
 
-Een andere module, genaamd `random`, kan worden gebruikt om willekeurige getallen te creëren
+Een andere module, genaamd 'random', kan worden gebruikt om willekeurige getallen te creëren
 
 --- code ---
 ---
@@ -16,11 +16,11 @@ line_number_start: 1
 line_highlights: 3
 ---
 
-# import
+# imports
 from datetime import datetime
 from random import randint
 
 --- /code ---
 
-De uitvoer van jouw code verandert niet wanneer je deze uitvoert.
+Your code output will not change when you run it.
 

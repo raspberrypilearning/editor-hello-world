@@ -10,17 +10,16 @@ language: python
 line_numbers: false
 ---
 
-# Functiedefinities
-
-def tel_een_en_een_op():
+# Function definitions
+def add_one_and_one():
     x = 1 + 1
     print(x)
 
 --- /code ---
 
-De naam van deze functie is `tel_een_en_een_op`.
+The name of this function is `add_one_and_one`.
 
-De code voor de taak die je wilt dat de functie uitvoert, moet ingesprongen zijn, wat betekent dat je **vier spaties** moet toevoegen vóór elke regel code.
+The code for the task you want the function to do needs to be **indented**, which means that you need to add **four spaces** before each line of code.
 
-Door een functie **aan te roepen**, wordt de code erbinnen uitgevoerd. Het **aanroepen** van een functie doe je door de naam in te typen. In dit geval `tel_een_en_een_op()`.
+**Calling** a function runs the code inside it. You **call** a function by using its name. In this case `add_one_and_one()`.
 

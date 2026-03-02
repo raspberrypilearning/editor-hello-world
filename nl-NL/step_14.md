@@ -1,10 +1,10 @@
 <h2 class="c-project-heading--task">Invoer ophalen</h2>
 
---- task ---
+\--- task ---
 
 ➡️ Laat de persoon die jouw programma gebruikt, iets invoeren.
 
---- /task ---
+\--- /task ---
 
 Met `input()` kun je de persoon die jouw programma gebruikt vragen om tekst in te voeren en deze tekst als variabele opslaan.
 
@@ -16,29 +16,29 @@ line_number_start: 10
 line_highlights: 12-13
 ---
 
-# Functiedefinities
-def gooi_dobbelsteen():
-    max = input('Hoeveel zijden heeft je dobbelsteen?:')
-    print(f'Dat is een D {max}')
-    worp = randint(1,6)
-    print(f'Je hebt een {worp} {vuur * worp} gegooid')
+# Function definitions
+def roll_dice():
+    max = input('How many sides on your dice?:')
+    print(f'That is a D {max}')
+    roll = randint(1,6)
+    print(f'You rolled a {roll} {fire * roll}')
 
 --- /code ---
 
-**Test:** Klik op de **Run** knop.
-Zorg ervoor dat je op de knop <kbd>Enter</kbd> klikt nadat je het aantal kanten hebt ingevoerd.
-Dit is wat je zou moeten zien wanneer je jouw code uitvoert.
+**Test:** Click the **Run** button.
+Ensure you press the <kbd> Enter </kbd> key after inputting how many sides.
+This is what you should see when you run your code.
 
 <div class="c-project-output">
 ```
-Hallo 🌍🌎🌏
-Welkom bij Python 🐍
-Python 🐍 is goed in wiskunde!
+Hello 🌍🌎🌏
+Welcome to Python 🐍
+Python 🐍 is good at maths!
 12345678987654321
-De datum en tijd zijn 2023-11-21 16:20:41.323000
-Hoeveel zijden heeft je dobbelsteen?:
+The date and time is 2023-11-21 16:20:41.323000
+How many sides on your dice?:
 20 
-Dat is een D 20
-Je hebt een 1 gegooid 🔥
+That is a D 20
+You rolled a 1 🔥
 ```
 </div>

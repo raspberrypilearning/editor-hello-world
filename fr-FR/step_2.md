@@ -21,14 +21,14 @@ line_highlights: 4-6
 ---
 
 # variables
-monde = '🌍🌎🌏'
+world = '🌍🌎🌏'
 python = 'Python 🐍'
-feu = '🔥'
+fire = '🔥'
 
-# Définitions de fonctions
-
-# Mettre le code à exécuter ci-dessous
-print(f'Bonjour')
+# Function definitions
+  
+# Put code to run under here
+print(f'Hello')
 
 --- /code ---
 

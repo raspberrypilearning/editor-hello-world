@@ -1,7 +1,6 @@
---- question ---
----
-legend: Question 3 sur 3
----
+## --- question ---
+
+## legend: Question 3 sur 3
 
 Cette fonction génère deux nombres aléatoires :
 
@@ -10,17 +9,17 @@ Cette fonction génère deux nombres aléatoires :
 language: python
 ---
 
-def deux_des():
-    print('Premier nombre :', randint(1, 6))
-    print('Deuxième nombre :', randint(1, 6))
+def two_dice():
+    print('First number:', randint(1, 6))
+    print('Second number:', randint(1, 6))
 
 --- /code ---
 
-Quel code appellera la fonction pour l'exécuter ?
+Which code will call the function to run it?
 
-![Le Code Editor avec une zone de sortie affichant deux nombres générés aléatoirement.](images/quiz3.png)
+![The code editor with output area showing two randomly generated numbers.](images/quiz3.png)
 
---- choices ---
+\--- choices ---
 
 - ( )
 
@@ -29,33 +28,34 @@ Quel code appellera la fonction pour l'exécuter ?
 language: python
 ---
 
-def deux_des():
-    print('Premier nombre :', randint(1, 6))
-    print('Deuxième nombre :', randint(1, 6))
+def two_dice():
+    print('First number:', randint(1, 6))
+    print('Second number:', randint(1, 6))
 
 --- /code ---
 
---- feedback ---
+\--- feedback ---
 
-Non, c'est le code pour définir la fonction, mais il n'exécute pas la fonction. Tu dois utiliser un code différent pour l'appeler.
+No, this is the code to define the function, but it does not run the function. You'll need to use different code to call it.
 
---- /feedback ---
+\--- /feedback ---
 
 - ( )
+
 --- code ---
 ---
 language: python
 ---
 
-deux_des
+two_dice
 
 --- /code ---
 
---- feedback ---
+\--- feedback ---
 
-Presque ! `deux_des` est le nom de la fonction, mais pour l'appeler, il faut plus que le nom.
+Close! `two_dice` is the name of the function, but to call it you need more than just the name.
 
---- /feedback ---
+\--- /feedback ---
 
 - ()
 
@@ -64,15 +64,15 @@ Presque ! `deux_des` est le nom de la fonction, mais pour l'appeler, il faut plu
 language: python
 ---
 
-deux_des[]
+two_dice[]
 
 --- /code ---
 
---- feedback ---
+\--- feedback ---
 
-Pas tout à fait, pense au type de parenthèses que tu as utilisé pour appeler les fonctions de ton projet.
+Not quite, think about they type of brackets you used to call the functions in your project.
 
---- /feedback ---
+\--- /feedback ---
 
 - (x)
 
@@ -81,16 +81,16 @@ Pas tout à fait, pense au type de parenthèses que tu as utilisé pour appeler 
 language: python
 ---
 
-deux_des()
+two_dice()
 
 --- /code ---
 
---- feedback ---
+\--- feedback ---
 
-C'est correct, l'utilisation du nom de la fonction suivi des parenthèses `(` `)` appellera la fonction.
+That's correct, using the function name followed by `(` `)` brackets will call the function.
 
---- /feedback ---
+\--- /feedback ---
 
---- /choices ---
+\--- /choices ---
 
---- /question ---
+\--- /question ---

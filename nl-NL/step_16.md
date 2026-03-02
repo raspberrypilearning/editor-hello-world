@@ -1,10 +1,10 @@
 <h2 class="c-project-heading--task">Nu ben jij aan de beurt</h2>
 
---- task ---
+\--- task ---
 
 ➡️ Oefen met het toevoegen van meer `print`-regels aan je code.
 
---- /task ---
+\--- /task ---
 
 Hier zijn enkele startzinnen die je kunt gebruiken:
 
@@ -16,10 +16,10 @@ line_number_start: 23
 line_highlights: 24-26
 ---
 
-gooi_dobbelsteen()
-print(f'Ik ❤️ ...')  
-print(f'... maakt mij 😃')  
-print(f'Ik zou graag ... willen maken met {python}')
+roll_dice()
+print(f'I ❤️ ...')   
+print(f'... makes me 😃')   
+print(f'I would like to make ... with {python}')
 
 --- /code ---
 
@@ -27,12 +27,12 @@ print(f'Ik zou graag ... willen maken met {python}')
 
 ### Tip
 
-Hier is een lijst met emoji's die je zou kunnen gebruiken:
+Here is a list of some emojis you might like to use:
 
 🎊 🙌 🙌🏼 🙌🏽 🙌🏾 🙌🏿 😃 🕒 🎨 🎮 🔬 🎉 🕶️ 🎲 😊
 🦄 🚀 💯 ⭐ 💛 ❤️ 📚 ⚽ 🏏 🏀 🥋 🏆 ✨ 🥺 🌈 🔥 ♻️ 🌳
 👩‍🦽👩🏼‍🦽👩🏽‍🦽👩🏾‍🦽👩🏿‍🦽🧘 🧘🏼 🧘🏽 🧘🏾 🧘🏿 🙋 🙋🏼 🙋🏽 🙋🏾 🙋🏿
 
-Je kunt ze kopiëren en plakken in jouw code.
+You can copy and paste them into your code.
 
 </div>
