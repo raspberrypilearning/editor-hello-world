@@ -1,14 +1,12 @@
+## --- question ---
 
---- question ---
----
-legend: Question 2 sur 3
----
+## legend: Question 2 sur 3
 
 Laquelle de ces définitions de fonction est correcte et affichera `Je peux coder` lorsqu'elle sera appelée ?
 
 ![Le Code Editor avec une zone de sortie indiquant Je peux coder.](images/quiz2.png)
 
---- choices ---
+\--- choices ---
 
 - (x)
 
@@ -17,16 +15,16 @@ Laquelle de ces définitions de fonction est correcte et affichera `Je peux code
 language: python
 ---
 
-def impressionnant():
-    print('Je peux coder')
+def awesome():
+    print('I can code')
 
 --- /code ---
 
---- feedback ---
+\--- feedback ---
 
-C'est exact, appeler cette fonction affichera `Je peux coder`. Tu as remarqué que les fonctions nécessitent des parenthèses `(` `)` et un `:` dans leur définition, et que tout le code à exécuter lorsque cette fonction est appelée doit être indenté.
+That's correct, calling this function will print `I can code`. You spotted that functions need `(` `)` brackets and a `:` in the function definition, and that all code to be run when that function is called must be indented.
 
---- /feedback ---
+\--- /feedback ---
 
 - ()
 
@@ -35,16 +33,16 @@ C'est exact, appeler cette fonction affichera `Je peux coder`. Tu as remarqué q
 language: python
 ---
 
-def impressionnant():
-print('Je peux coder')
+def awesome():
+print('I can code')
 
 --- /code ---
 
---- feedback ---
+\--- feedback ---
 
-Pas tout à fait, la mise en forme dans cet exemple provoquerait une erreur.
+Not quite, the layout in this example would cause an error.
 
---- /feedback ---
+\--- /feedback ---
 
 - ( )
 
@@ -53,17 +51,17 @@ Pas tout à fait, la mise en forme dans cet exemple provoquerait une erreur.
 language: python
 ---
 
-def impressionnant()
-    print('Je peux coder')
-
+def awesome()
+    print('I can code')
+  
 --- /code ---
 
---- feedback ---
+\--- feedback ---
 
-Pas tout à fait, il manque quelque chose dans la définition de la fonction qui provoquerait une erreur.
+Not quite, there is something missing from the function definition that woud cause an error.
 
---- /feedback ---
+\--- /feedback ---
 
---- /choices ---
+\--- /choices ---
 
---- /question ---
+\--- /question ---
