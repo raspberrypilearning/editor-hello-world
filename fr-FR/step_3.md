@@ -1,22 +1,23 @@
 <h2 class="c-project-heading--task">Imprimer des variables</h2>
 
---- task ---
+\--- task ---
 
 ➡️ Imprimer le contenu d'une variable.
 
---- /task ---
+\--- /task ---
 
 Change ton code pour aussi `print()` le contenu de la variable `monde`. Tu peux le faire en ajoutant le nom de la variable entre accolades `{}`
 
---- code ---
----
+## --- code ---
+
 language: python
 line_numbers: true
 line_number_start: 3
 line_highlights: 11
----
+--------------------------------------------------------
 
 # variables
+
 monde = '🌍🌎🌏'
 python = 'Python 🐍'
 feu = '🔥'
@@ -24,11 +25,12 @@ feu = '🔥'
 # Définitions de fonctions
 
 # Mettre le code à exécuter ci-dessous
+
 print(f'Bonjour {monde}')
 
---- /code ---
+\--- /code ---
 
-**Test :** clique sur le bouton **Exécuter**.
+**Test :** clique sur le bouton **Run**.
 Tu devrais voir ceci lorsque tu exécutes ton code.
 
 <div class="c-project-output">

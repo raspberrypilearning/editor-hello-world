@@ -12,15 +12,16 @@ Nous avons inclus quelques variables qui stockent les caractères emoji.
 
 <div class="c-project-code">
 
---- code ---
----
+## --- code ---
+
 language: python
 line_numbers: true
 line_number_start: 3
 line_highlights: 4-6
----
+---------------------------------------------------------
 
 # variables
+
 monde = '🌍🌎🌏'
 python = 'Python 🐍'
 feu = '🔥'
@@ -28,9 +29,10 @@ feu = '🔥'
 # Définitions de fonctions
 
 # Mettre le code à exécuter ci-dessous
+
 print(f'Bonjour')
 
---- /code ---
+\--- /code ---
 
 </div>
 
