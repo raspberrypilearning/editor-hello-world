@@ -1,11 +1,11 @@
 <h2 class="c-project-heading--task">Verander de dobbelstenen</h2>
 
---- task ---
+\--- task ---
 
 ➡️ Wijzig de invoergegevens naar een geheel getal.
 ➡️ Genereer een willekeurig getal tussen 1 en het aantal zijden dat de gebruiker heeft ingevoerd.
 
---- /task ---
+\--- /task ---
 
 Invoer wordt altijd opgeslagen als tekst, maar we moeten de invoer in `max` gebruiken om het grootste getal op te geven dat kan worden geworpen.
 
@@ -19,29 +19,28 @@ line_number_start: 10
 line_highlights: 14
 ---
 
-# Functiedefinities
-
-def gooi_dobbelsteen():
-    max = input('Hoeveel zijden heeft je dobbelsteen?:')
-    print(f'Dat is een D {max}')
-    worp = randint(1, int(max))
-    print(f'Je hebt een {worp} {vuur * worp} gegooid')
-
+# Function definitions        
+def roll_dice():
+    max = input('How many sides on your dice?:')
+    print(f'That is a D {max}')
+    roll = randint(1, int(max))
+    print(f'You rolled a {roll} {fire * roll}')
+    
 --- /code ---
 
-**Test:** Klik op de **Run** knop.
-Dit is wat je zou moeten zien:
+**Test:** Click the **Run** button.
+This is what you should see:
 
 <div class="c-project-output">
 ```
-Hallo 🌍🌎🌏
-Welkom bij Python 🐍
-Python 🐍 is goed in wiskunde!
+Hello 🌍🌎🌏
+Welcome to Python 🐍
+Python 🐍 is good at maths!
 12345678987654321
-De datum en tijd zijn 2023-11-21 16:27:24.101000
-Hoeveel zijden heeft je dobbelsteen?:12
-Dat is een D 12
-Je hebt een 5 gegooid 🔥🔥🔥🔥🔥
+The date and time is 2023-11-21 16:27:24.101000
+How many sides on your dice?:12
+That is a D 12
+You rolled a 5 🔥🔥🔥🔥🔥
 ```
 </div>
 
@@ -49,6 +48,6 @@ Je hebt een 5 gegooid 🔥🔥🔥🔥🔥
 
 ### Tip
 
-Het veranderen van het ene gegevenstype naar het andere gegevenstype wordt **type casting** genoemd.
+Changing one type of data to another type of data is called **type casting**.
 
 </div>
