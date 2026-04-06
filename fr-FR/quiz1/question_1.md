@@ -1,9 +1,8 @@
 ## Questionnaire rapide
 
---- question ---
----
-legend: Question 1 sur 3
----
+## --- question ---
+
+## legend: Question 1 sur 3
 
 Ce code définit la variable `monde` pour qu'elle contienne le texte '🌍🌎🌏' (les trois différents emojis monde) :
 
@@ -12,15 +11,15 @@ Ce code définit la variable `monde` pour qu'elle contienne le texte '🌍🌎�
 language: python
 ---
 
-monde = '🌍🌎🌏'
+world = '🌍🌎🌏'
 
 --- /code ---
 
-Quel code utilise correctement la variable `monde` et affiche Bonjour 🌍🌎🌏 ?
+Which code correctly uses the `world` variable and outputs Hello 🌍🌎🌏?
 
-![La zone de sortie du Code Editor avec Bonjour 🌍🌎🌏 affiché.](images/quiz1.png)
+![The output area from the code editor with Hello 🌍🌎🌏 showing.](images/quiz1.png)
 
---- choices ---
+\--- choices ---
 
 - ( )
 
@@ -29,15 +28,15 @@ Quel code utilise correctement la variable `monde` et affiche Bonjour 🌍🌎�
 language: python
 ---
 
-output('Bonjour' monde)
+output('Hello' world)
 
 --- /code ---
 
---- feedback ---
+\--- feedback ---
 
-Pas tout à fait, `output` n'est pas le moyen d'afficher des messages à l'écran.
+Not quite, `output` is not the way to output messages to the screen.
 
---- /feedback ---
+\--- /feedback ---
 
 - ( )
 
@@ -46,15 +45,15 @@ Pas tout à fait, `output` n'est pas le moyen d'afficher des messages à l'écra
 language: python
 ---
 
-print('Bonjour' monde)
+print('Hello' world)
 
 --- /code ---
 
---- feedback ---
+\--- feedback ---
 
-Pas tout à fait, en Python `print` affiche des messages à l'écran, mais il manque quelque chose dans cet exemple.
+Not quite, in Python `print` outputs messages to the screen, but something is missing in this example.
 
---- /feedback ---
+\--- /feedback ---
 
 - (x)
 
@@ -63,15 +62,15 @@ Pas tout à fait, en Python `print` affiche des messages à l'écran, mais il ma
 language: python
 ---
 
-print(f'Bonjour {monde}')
+print(f'Hello {world}')
 
 --- /code ---
 
---- feedback ---
+\--- feedback ---
 
-C'est correct, en Python, `print(f'')` affiche des messages à l'écran. La sortie du texte est entre guillemets simples `'`, et les accolades `{}` sont utilisées pour imprimer la variable `monde`.
+That's correct, in Python `print(f'')` outputs messages to the screen. The text output is inside single quotes `'` , and curly braces `{}` are used to print the `world` variable.
 
---- /feedback ---
+\--- /feedback ---
 
 - ( )
 
@@ -80,16 +79,16 @@ C'est correct, en Python, `print(f'')` affiche des messages à l'écran. La sort
 language: python
 ---
 
-print('Bonjour {monde}')
+print('Hello {world}')
 
 --- /code ---
 
---- feedback ---
+\--- feedback ---
 
-Pas tout à fait, en Python `print` affiche des messages à l'écran, mais il manque quelque chose dans cet exemple.
+Not quite, in Python `print` outputs messages to the screen, but something is missing in this example.
 
---- /feedback ---
+\--- /feedback ---
 
---- /choices ---
+\--- /choices ---
 
---- /question ---
+\--- /question ---
