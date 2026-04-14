@@ -1,10 +1,9 @@
 <h2 class="c-project-heading--task">Print Hello</h2>
 
---- task ---
+### Step 1
 
 ➡️ Display the word 'Hello' on the screen
 
---- /task ---
 
 In Python, `print()` outputs strings (words or numbers) to the screen.
 

@@ -1,10 +1,9 @@
 <h2 class="c-project-heading--task">Print variables</h2>
 
---- task ---
+### Step 1
 
 ➡️ Print the contents of a variable.
 
---- /task ---
 
 Change your code to also `print()` the contents of the `world` variable. You can do this by adding the variable name in curly brackets `{}`
 

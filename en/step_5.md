@@ -7,6 +7,4 @@ In Python you can work with numbers and dates. You can use **arithmetic operator
 | - | subtract |   
 | * | multiply |   
 | / | divide |   
-| ** | exponent |   
-
-
+| ** | exponent |

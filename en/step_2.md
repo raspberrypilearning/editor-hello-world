@@ -33,5 +33,3 @@ print(f'Hello')
 --- /code ---
 
 </div>
-
-

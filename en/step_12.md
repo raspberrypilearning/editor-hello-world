@@ -1,10 +1,9 @@
 <h2 class="c-project-heading--task">Random numbers</h2>
 
---- task ---
+### Step 1
 
 ➡️ Choose a random number for the dice roll.
 
---- /task ---
 
 Use the `randint` function you imported to choose a random number between 1 and 6 for the dice roll.
 

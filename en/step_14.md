@@ -1,10 +1,9 @@
 <h2 class="c-project-heading--task">Get input</h2>
 
---- task ---
+### Step 1
 
 ➡️ Allow the person using your program to type in some input.
 
---- /task ---
 
 You can use `input()` to ask the person using your program to enter text, and save it as a variable.
 

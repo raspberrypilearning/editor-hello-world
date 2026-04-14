@@ -1,24 +1,7 @@
+## What you will make
+
 Write an interactive program in Python that uses emojis 🙌 🙌🏼 🙌🏽 🙌🏾 🙌🏿.
 
+Click on the **Run** button.
 
---- print-only ---
-
-![Completed project showing example code on the code editor](images/showcase_static.png){:width="640px"}
-
---- /print-only ---
-
-
---- no-print ---
-
-<div style="display: flex; flex-wrap: wrap">
-<div style="flex-basis: 175px; flex-grow: 1">  
-
-Click on the **Run** button 
-
-<iframe src="https://editor.raspberrypi.org/en/embed/viewer/hello-world-solution" width="600" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
-</iframe>
-</div>
-</div>
-
---- /no-print ---
-
+<iframe src="https://editor.raspberrypi.org/en/embed/viewer/editor-hello-world-complete" width="400" height="710" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>

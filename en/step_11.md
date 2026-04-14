@@ -1,10 +1,9 @@
 <h2 class="c-project-heading--task">Import randint</h2>
 
---- task ---
+### Step 1
 
 ➡️ Import the `randint` function from the `random` module.
 
---- /task ---
 
 Another module called `random` can be used to create random numbers
 
@@ -23,4 +22,3 @@ from random import randint
 --- /code ---
 
 Your code output will not change when you run it.
-

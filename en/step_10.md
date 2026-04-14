@@ -1,12 +1,11 @@
 <h2 class="c-project-heading--task">Roll dice</h2>
 
---- task ---
+### Step 1
 
 ➡️ Create a function to simulate rolling a dice.
 
 ➡️ Call the function to run the code inside it.
 
---- /task ---
 
 Create a function called `roll_dice()`, that prints out the number 4. 
 

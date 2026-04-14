@@ -1,10 +1,9 @@
 <h2 class="c-project-heading--task">Over to you</h2>
 
---- task ---
+### Step 1
 
 ➡️ Practice adding more `print` lines to your code. 
 
---- /task ---
 
 Here are some sentence starters that you can use:
 
