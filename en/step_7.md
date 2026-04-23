@@ -1,9 +1,8 @@
 <h2 class="c-project-heading--task">Using modules</h2>
 
-### Step 1
-
 ➡️ Import the `datetime` module.
 
+<h2 class="c-project-heading--explainer">Follow these instructions</h2>
 
 Python has many **modules** that you can use in your code to help perform certain tasks. To use a module, you first need to **import** it. 
 
@@ -26,18 +25,22 @@ from datetime import datetime
 
 When you run this code, nothing should change, and you should have the same output as the previous step.
 
-<div class="c-project-callout c-project-callout--tip">
-
 ### Tip
+
+<div class="c-project-callout c-project-callout--tip">
 
 Any text you write in Python with a `#` in front of it becomes a comment. These lines won't run, so they can be useful to help people read and understand your code.
 
 </div>
 
-<div class="c-project-callout c-project-callout--debug">
-
 ### Debugging
+
+<div class="c-project-callout c-project-callout--debug">
 
 Check that you have spelled `datetime` correctly, and it is all lowercase.
 
 </div>
+
+## Now run your code
+
+Confirm the observable result.

@@ -1,10 +1,10 @@
 <h2 class="c-project-heading--task">Change the dice</h2>
 
-### Step 1
-
 ➡️ Change the input data to an integer.
-➡️ Generate a random number between 1 and the number of sides the user typed in.
 
+<h2 class="c-project-heading--explainer">Follow these instructions</h2>
+
+➡️ Generate a random number between 1 and the number of sides the user typed in.
 
 Inputs are always stored as text, but we need to use the input stored in `max` to specify the largest number that could be rolled. 
 
@@ -27,7 +27,9 @@ def roll_dice():
     
 --- /code ---
 
-**Test:** Click the **Run** button.
+## Now run your code
+
+Click the **Run** button.
 This is what you should see:
 
 <div class="c-project-output">
@@ -43,10 +45,12 @@ You rolled a 5 🔥🔥🔥🔥🔥
 ```
 </div>
 
-<div class="c-project-callout c-project-callout--tip">
-
 ### Tip
+
+<div class="c-project-callout c-project-callout--tip">
 
 Changing one type of data to another type of data is called **type casting**.
 
 </div>
+
+Confirm the observable result.

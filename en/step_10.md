@@ -1,8 +1,8 @@
 <h2 class="c-project-heading--task">Roll dice</h2>
 
-### Step 1
-
 ➡️ Create a function to simulate rolling a dice.
+
+<h2 class="c-project-heading--explainer">Follow these instructions</h2>
 
 ➡️ Call the function to run the code inside it.
 
@@ -39,7 +39,9 @@ roll_dice()
 
 --- /code ---
 
-**Test:** Click the **Run** button.
+## Now run your code
+
+Click the **Run** button.
 This is what you should see when you run your code.
 
 <div class="c-project-output">
@@ -53,18 +55,20 @@ You rolled a 4
 ```
 </div>
 
-<div class="c-project-callout c-project-callout--tip">
-
 ### Tip
+
+<div class="c-project-callout c-project-callout--tip">
 
 You can use the **Tab** key on your keyboard to insert 4 spaces. Pressing **Shift** and **Tab** will remove the 4 spaces.
 
 </div>
 
-<div class="c-project-callout c-project-callout--debug">
-
 ### Debugging
+
+<div class="c-project-callout c-project-callout--debug">
 
 Check that you have brackets `()` and a colon `:` at the end of your function definition. Also check you are using brackets `()` when you call your function.
 
 </div>
+
+Confirm the observable result.

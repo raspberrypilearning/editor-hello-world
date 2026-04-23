@@ -1,9 +1,8 @@
 <h2 class="c-project-heading--task">Print another variable</h2>
 
-### Step 1
-
 ➡️ Print the contents of the `python` variable.
 
+<h2 class="c-project-heading--explainer">Follow these instructions</h2>
 
 **Add** another line to your code to `print()` more text and emojis:
 
@@ -21,7 +20,9 @@ print(f'Welcome to {python}')
 
 --- /code ---
 
-**Test:** Click the **Run** button.
+## Now run your code
+
+Click the **Run** button.
 This is what you should see when you run your code.
 
 <div class="c-project-output">
@@ -30,3 +31,5 @@ Hello 🌍🌎🌏
 Welcome to Python 🐍
 ```
 </div>
+
+Confirm the observable result.

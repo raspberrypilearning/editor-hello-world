@@ -1,9 +1,8 @@
 <h2 class="c-project-heading--task">Get input</h2>
 
-### Step 1
-
 ➡️ Allow the person using your program to type in some input.
 
+<h2 class="c-project-heading--explainer">Follow these instructions</h2>
 
 You can use `input()` to ask the person using your program to enter text, and save it as a variable.
 
@@ -24,7 +23,9 @@ def roll_dice():
 
 --- /code ---
 
-**Test:** Click the **Run** button.
+## Now run your code
+
+Click the **Run** button.
 Ensure you press the <kbd> Enter </kbd> key after inputting how many sides.
 This is what you should see when you run your code.
 
@@ -41,3 +42,5 @@ That is a D 20
 You rolled a 1 🔥
 ```
 </div>
+
+Confirm the observable result.

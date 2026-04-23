@@ -1,9 +1,8 @@
 <h2 class="c-project-heading--task">Print Hello</h2>
 
-### Step 1
-
 ➡️ Display the word 'Hello' on the screen
 
+<h2 class="c-project-heading--explainer">Follow these instructions</h2>
 
 In Python, `print()` outputs strings (words or numbers) to the screen.
 
@@ -26,7 +25,9 @@ print(f'Hello')
 
 </div>
 
-**Test:** Click the **Run** button. 
+## Now run your code
+
+Click the **Run** button.
 This is what you should see when you run your code.
 
 <div class="c-project-output">
@@ -35,19 +36,21 @@ Hello
 ```
 </div>
 
-<div class="c-project-callout c-project-callout--tip">
-
 ### Tip
+
+<div class="c-project-callout c-project-callout--tip">
 
 When you type an opening bracket `(` the code editor will automatically add a closing bracket `)` 
 This also happens when you type an opening apostrophe `'`.
 
 </div>
 
-<div class="c-project-callout c-project-callout--debug">
-
 ### Debugging
+
+<div class="c-project-callout c-project-callout--debug">
 
 If you get an error then check your code really carefully. Check there are single quotes around `Hello` so Python knows it is meant to be text.
 
 </div>
+
+Confirm the observable result.

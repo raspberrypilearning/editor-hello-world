@@ -1,9 +1,8 @@
 <h2 class="c-project-heading--task">Create a calculation</h2>
 
-### Step 1
-
 ➡️ Print the value of a calculation.
 
+<h2 class="c-project-heading--explainer">Follow these instructions</h2>
 
 Add two more `print()` lines to your code including a multiplication for Python to calculate:
 
@@ -23,7 +22,9 @@ print(f'{111111111 * 111111111}')
 
 --- /code ---
 
-**Test:** Click the **Run** button.
+## Now run your code
+
+Click the **Run** button.
 This is what you should see when you run your code.
 
 <div class="c-project-output">
@@ -36,19 +37,21 @@ Python 🐍 is good at maths!
 </div>
 
 
-<div class="c-project-callout c-project-callout--tip">
-
 ### Tip
+
+<div class="c-project-callout c-project-callout--tip">
 
 Python uses the same rules for calculations as you might have learned at school. **B**rackets first, then **O**rders, **D**ivision, **M**ultiplication, **A**ddition, and lastly **S**ubtraction.
 
 </div>
 
 
-<div class="c-project-callout c-project-callout--debug">
-
 ### Debugging
+
+<div class="c-project-callout c-project-callout--debug">
 
 Don't forget that the UPPERCASE and lowercase letters are important in Python. Always check you are using the correct case.
 
 </div>
+
+Confirm the observable result.

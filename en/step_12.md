@@ -1,9 +1,8 @@
 <h2 class="c-project-heading--task">Random numbers</h2>
 
-### Step 1
-
 ➡️ Choose a random number for the dice roll.
 
+<h2 class="c-project-heading--explainer">Follow these instructions</h2>
 
 Use the `randint` function you imported to choose a random number between 1 and 6 for the dice roll.
 
@@ -21,8 +20,9 @@ def roll_dice():
     
 --- /code ---
 
+## Now run your code
 
-**Test:** Click the **Run** button.
+Click the **Run** button.
 Now when you run your code, a new random number between 1 and 6 will be chosen each time.
 
 <div class="c-project-output">
@@ -36,19 +36,21 @@ You rolled a 6
 ```
 </div>
 
-<div class="c-project-callout c-project-callout--tip">
-
 ### Tip
+
+<div class="c-project-callout c-project-callout--tip">
 
 `randint` is short for random integer. Integers are whole numbers.
 
 </div>
 
 
-<div class="c-project-callout c-project-callout--debug">
-
 ### Debugging
+
+<div class="c-project-callout c-project-callout--debug">
 
 Check your brackets and curly brackets if you get and error. Take note that the same number might be chosen over and over again. It's random!
 
 </div>
+
+Confirm the observable result.

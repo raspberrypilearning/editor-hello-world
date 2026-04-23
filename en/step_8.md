@@ -1,9 +1,8 @@
 <h2 class="c-project-heading--task">Print the date</h2>
 
-### Step 1
-
 ➡️ Display the current date and time.
 
+<h2 class="c-project-heading--explainer">Follow these instructions</h2>
 
 Add another line to your code to `print` the current date and time.
 
@@ -23,7 +22,9 @@ print(f'The date and time is {datetime.now()}')
 
 --- /code ---
 
-**Test:** Click the **Run** button.
+## Now run your code
+
+Click the **Run** button.
 This is what you should see when you run your code, but the date and time will be different.
 
 <div class="c-project-output">
@@ -36,10 +37,12 @@ The date and time is 2023-11-21 15:34:10.148000
 ```
 </div>
 
-<div class="c-project-callout c-project-callout--debug">
-
 ### Debugging
+
+<div class="c-project-callout c-project-callout--debug">
 
 Check all your brackets `()` and curly brackets `{}` to make sure they are all opened and closed in the correct place.
 
 </div>
+
+Confirm the observable result.
