@@ -41,7 +41,6 @@ roll_dice()
 
 ## Now run your code
 
-Click the **Run** button.
 This is what you should see when you run your code.
 
 <div class="c-project-output">
@@ -71,4 +70,4 @@ Check that you have brackets `()` and a colon `:` at the end of your function de
 
 </div>
 
-Confirm the observable result.
+Click the **Run** button and check that the last line says `You rolled a 4`.

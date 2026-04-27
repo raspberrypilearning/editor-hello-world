@@ -38,4 +38,4 @@ print(f'Hello')
 
 ## Now run your code
 
-Confirm the observable result.
+Click the **Run** button and check that the output still says `Hello`.

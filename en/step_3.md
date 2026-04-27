@@ -28,7 +28,6 @@ print(f'Hello {world}')
 
 ## Now run your code
 
-Click the **Run** button.
 This is what you should see when you run your code.
 
 <div class="c-project-output">
@@ -54,4 +53,4 @@ If you get an error then check you have opened and closed all your brackets `()`
 
 </div>
 
-Confirm the observable result.
+Click the **Run** button and check that `Hello` is followed by the globe emojis.

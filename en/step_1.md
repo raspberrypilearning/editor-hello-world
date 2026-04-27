@@ -27,7 +27,6 @@ print(f'Hello')
 
 ## Now run your code
 
-Click the **Run** button.
 This is what you should see when you run your code.
 
 <div class="c-project-output">
@@ -53,4 +52,4 @@ If you get an error then check your code really carefully. Check there are singl
 
 </div>
 
-Confirm the observable result.
+Click the **Run** button and check that `Hello` appears in the output.

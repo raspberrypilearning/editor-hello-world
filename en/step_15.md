@@ -29,7 +29,6 @@ def roll_dice():
 
 ## Now run your code
 
-Click the **Run** button.
 This is what you should see:
 
 <div class="c-project-output">
@@ -53,4 +52,4 @@ Changing one type of data to another type of data is called **type casting**.
 
 </div>
 
-Confirm the observable result.
+Click the **Run** button, type a number of sides, and check that the dice roll can be any number from 1 up to the number you entered.

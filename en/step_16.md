@@ -36,4 +36,4 @@ You can copy and paste them into your code.
 
 ## Now run your code
 
-Confirm the observable result.
+Click the **Run** button and check that your extra print lines show your own words and emojis after the dice roll.

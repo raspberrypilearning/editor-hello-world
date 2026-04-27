@@ -24,7 +24,6 @@ print(f'{111111111 * 111111111}')
 
 ## Now run your code
 
-Click the **Run** button.
 This is what you should see when you run your code.
 
 <div class="c-project-output">
@@ -54,4 +53,4 @@ Don't forget that the UPPERCASE and lowercase letters are important in Python. A
 
 </div>
 
-Confirm the observable result.
+Click the **Run** button and check that your program now prints a maths message and a large number on the next line.

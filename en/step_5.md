@@ -14,4 +14,4 @@ You can use **arithmetic operators** such as `+` and `-`  to do calculations:
 
 ## Now run your code
 
-Confirm the observable result.
+Click the **Run** button and check that the output is still the same as in the previous step, because you have not added any new code yet.

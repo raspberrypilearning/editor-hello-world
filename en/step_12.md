@@ -22,7 +22,6 @@ def roll_dice():
 
 ## Now run your code
 
-Click the **Run** button.
 Now when you run your code, a new random number between 1 and 6 will be chosen each time.
 
 <div class="c-project-output">
@@ -53,4 +52,4 @@ Check your brackets and curly brackets if you get and error. Take note that the 
 
 </div>
 
-Confirm the observable result.
+Click the **Run** button and check that the last line says `You rolled a` followed by a number from 1 to 6.

@@ -22,7 +22,6 @@ print(f'Welcome to {python}')
 
 ## Now run your code
 
-Click the **Run** button.
 This is what you should see when you run your code.
 
 <div class="c-project-output">
@@ -32,4 +31,4 @@ Welcome to Python 🐍
 ```
 </div>
 
-Confirm the observable result.
+Click the **Run** button and check that the output has two lines: `Hello` with the globe emojis and `Welcome to Python 🐍`.

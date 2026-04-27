@@ -43,4 +43,4 @@ Check that you have spelled `datetime` correctly, and it is all lowercase.
 
 ## Now run your code
 
-Confirm the observable result.
+Run your code and check that the output stays the same as in the previous step after importing `datetime`.

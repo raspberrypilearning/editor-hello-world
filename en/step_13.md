@@ -43,7 +43,6 @@ def roll_dice():
 
 ## Now run your code
 
-Click the **Run** button.
 Your output code should look something like this:
 
 <div class="c-project-output">
@@ -65,4 +64,4 @@ Check all your brackets are the same as the code example above.
 
 </div>
 
-Confirm the observable result.
+Click the **Run** button and check that the last line shows the dice number and the same number of fire emojis.

@@ -24,7 +24,6 @@ print(f'The date and time is {datetime.now()}')
 
 ## Now run your code
 
-Click the **Run** button.
 This is what you should see when you run your code, but the date and time will be different.
 
 <div class="c-project-output">
@@ -45,4 +44,4 @@ Check all your brackets `()` and curly brackets `{}` to make sure they are all o
 
 </div>
 
-Confirm the observable result.
+Click the **Run** button and check that the output now includes a line that starts with `The date and time is`, followed by the current date and time.

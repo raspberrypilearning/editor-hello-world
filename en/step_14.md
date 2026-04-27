@@ -25,7 +25,6 @@ def roll_dice():
 
 ## Now run your code
 
-Click the **Run** button.
 Ensure you press the <kbd> Enter </kbd> key after inputting how many sides.
 This is what you should see when you run your code.
 
@@ -43,4 +42,4 @@ You rolled a 1 🔥
 ```
 </div>
 
-Confirm the observable result.
+Click the **Run** button, type a number such as `20`, and check that the program says `That is a D 20` before showing a dice roll.

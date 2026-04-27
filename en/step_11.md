@@ -24,4 +24,4 @@ Your code output will not change when you run it.
 
 ## Now run your code
 
-Confirm the observable result.
+Run your code and check that the output stays the same as in the previous step after importing `randint`.

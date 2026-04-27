@@ -31,4 +31,4 @@ The code for the task you want the function to do needs to be **indented**, whic
 
 ## Now run your code
 
-Confirm the observable result.
+Run your code and check that nothing new is printed yet, because the function has been defined but not called.
