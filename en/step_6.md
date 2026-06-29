@@ -2,8 +2,6 @@
 
 ➡️ Print the value of a calculation.
 
-<h2 class="c-project-heading--explainer">Follow these instructions</h2>
-
 Add two more `print()` lines to your code including a multiplication for Python to calculate:
 
 --- code ---
