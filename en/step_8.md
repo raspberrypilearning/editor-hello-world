@@ -2,8 +2,6 @@
 
 ➡️ Display the current date and time.
 
-<h2 class="c-project-heading--explainer">Follow these instructions</h2>
-
 Add another line to your code to `print` the current date and time.
 
 Get the current date and time by using the `now()` function from the `datetime` module:
