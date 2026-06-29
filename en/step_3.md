@@ -2,8 +2,6 @@
 
 ➡️ Print the contents of a variable.
 
-<h2 class="c-project-heading--explainer">Follow these instructions</h2>
-
 Change your code to also `print()` the contents of the `world` variable. You can do this by adding the variable name in curly brackets `{}`
 
 --- code ---
