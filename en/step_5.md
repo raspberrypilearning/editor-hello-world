@@ -2,8 +2,6 @@
 
 In Python you can work with numbers and dates.
 
-<h2 class="c-project-heading--explainer">Follow these instructions</h2>
-
 You can use **arithmetic operators** such as `+` and `-`  to do calculations:
 
 | + | add |   

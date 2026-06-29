@@ -2,8 +2,6 @@
 
 ➡️ Import the `datetime` module.
 
-<h2 class="c-project-heading--explainer">Follow these instructions</h2>
-
 Python has many **modules** that you can use in your code to help perform certain tasks. To use a module, you first need to **import** it. 
 
 The `datetime` module helps with writing code that uses dates and times.

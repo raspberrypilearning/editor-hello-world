@@ -2,8 +2,6 @@
 
 ➡️ Import the `randint` function from the `random` module.
 
-<h2 class="c-project-heading--explainer">Follow these instructions</h2>
-
 Another module called `random` can be used to create random numbers
 
 --- code ---

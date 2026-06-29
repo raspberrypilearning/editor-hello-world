@@ -2,8 +2,6 @@
 
 Functions are blocks of code that perform specific tasks.
 
-<h2 class="c-project-heading--explainer">Follow these instructions</h2>
-
 They can be used over and over again.
 
 Here is an example of a function:
