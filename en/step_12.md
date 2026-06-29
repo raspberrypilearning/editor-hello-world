@@ -2,8 +2,6 @@
 
 ➡️ Choose a random number for the dice roll.
 
-<h2 class="c-project-heading--explainer">Follow these instructions</h2>
-
 Use the `randint` function you imported to choose a random number between 1 and 6 for the dice roll.
 
 --- code ---
