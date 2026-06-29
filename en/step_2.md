@@ -2,8 +2,6 @@
 
 We have included some variables that store emoji characters.
 
-<h2 class="c-project-heading--explainer">Follow these instructions</h2>
-
 ### Tip
 
 <div class="c-project-callout c-project-callout--tip">
