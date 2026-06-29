@@ -2,8 +2,6 @@
 
 ➡️ Display the word 'Hello' on the screen
 
-<h2 class="c-project-heading--explainer">Follow these instructions</h2>
-
 In Python, `print()` outputs strings (words or numbers) to the screen.
 
 Type the code to `print()` Hello to the screen:
