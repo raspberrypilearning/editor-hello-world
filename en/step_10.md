@@ -2,11 +2,6 @@
 
 ➡️ Create a function to simulate rolling a dice.
 
-<h2 class="c-project-heading--explainer">Follow these instructions</h2>
-
-➡️ Call the function to run the code inside it.
-
-
 Create a function called `roll_dice()`, that prints out the number 4. 
 
 --- code ---
