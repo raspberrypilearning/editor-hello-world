@@ -2,8 +2,6 @@
 
 ➡️ Practice adding more `print` lines to your code.
 
-<h2 class="c-project-heading--explainer">Follow these instructions</h2>
-
 Here are some sentence starters that you can use:
 
 --- code ---
