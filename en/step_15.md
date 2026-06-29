@@ -1,9 +1,5 @@
 <h2 class="c-project-heading--task">Change the dice</h2>
 
-➡️ Change the input data to an integer.
-
-<h2 class="c-project-heading--explainer">Follow these instructions</h2>
-
 ➡️ Generate a random number between 1 and the number of sides the user typed in.
 
 Inputs are always stored as text, but we need to use the input stored in `max` to specify the largest number that could be rolled. 
