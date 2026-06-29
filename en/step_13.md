@@ -1,9 +1,5 @@
 <h2 class="c-project-heading--task">Multiply strings</h2>
 
-➡️ Store the random number in a variable.
-
-<h2 class="c-project-heading--explainer">Follow these instructions</h2>
-
 ➡️ Multiply the number by the 🔥 emoji to print the emoji a number of times equal to the dice roll.
 
 In Python you can multiply strings such as emojis or whole words by a number, so they print out several times.
