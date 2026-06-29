@@ -1,14 +1,16 @@
-<h2 class="c-project-heading--explainer">Variables</h2>
+<h2 class="c-project-heading--task">Variables</h2>
 
-<div class="c-project-callout c-project-callout--tip">
+We have included some variables that store emoji characters.
+
+<h2 class="c-project-heading--explainer">Follow these instructions</h2>
 
 ### Tip
+
+<div class="c-project-callout c-project-callout--tip">
 
 A **variable** is used to store values such as text or numbers. Choosing a sensible name for a variable makes it easier for you to remember what it is for.
 
 </div>
-
-We have included some variables that store emoji characters.
 
 <div class="c-project-code">
 
@@ -34,4 +36,6 @@ print(f'Hello')
 
 </div>
 
+## Now run your code
 
+Click the **Run** button and check that the output still says `Hello`.

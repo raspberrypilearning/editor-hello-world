@@ -1,3 +1,4 @@
 name: "Hallo 🌍🌎🌏"
 identifier: "editor-hello-world-starter"
 type: 'python'
+build: true

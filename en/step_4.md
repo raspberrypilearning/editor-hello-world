@@ -1,10 +1,8 @@
 <h2 class="c-project-heading--task">Print another variable</h2>
 
---- task ---
-
 ➡️ Print the contents of the `python` variable.
 
---- /task ---
+<h2 class="c-project-heading--explainer">Follow these instructions</h2>
 
 **Add** another line to your code to `print()` more text and emojis:
 
@@ -22,7 +20,8 @@ print(f'Welcome to {python}')
 
 --- /code ---
 
-**Test:** Click the **Run** button.
+## Now run your code
+
 This is what you should see when you run your code.
 
 <div class="c-project-output">
@@ -31,3 +30,5 @@ Hello 🌍🌎🌏
 Welcome to Python 🐍
 ```
 </div>
+
+Click the **Run** button and check that the output has two lines: `Hello` with the globe emojis and `Welcome to Python 🐍`.

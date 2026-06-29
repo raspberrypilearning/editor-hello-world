@@ -1,10 +1,8 @@
 <h2 class="c-project-heading--task">Get input</h2>
 
---- task ---
-
 ➡️ Allow the person using your program to type in some input.
 
---- /task ---
+<h2 class="c-project-heading--explainer">Follow these instructions</h2>
 
 You can use `input()` to ask the person using your program to enter text, and save it as a variable.
 
@@ -25,7 +23,8 @@ def roll_dice():
 
 --- /code ---
 
-**Test:** Click the **Run** button.
+## Now run your code
+
 Ensure you press the <kbd> Enter </kbd> key after inputting how many sides.
 This is what you should see when you run your code.
 
@@ -42,3 +41,5 @@ That is a D 20
 You rolled a 1 🔥
 ```
 </div>
+
+Click the **Run** button, type a number such as `20`, and check that the program says `That is a D 20` before showing a dice roll.

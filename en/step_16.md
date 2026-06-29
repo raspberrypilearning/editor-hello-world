@@ -1,10 +1,8 @@
 <h2 class="c-project-heading--task">Over to you</h2>
 
---- task ---
+➡️ Practice adding more `print` lines to your code.
 
-➡️ Practice adding more `print` lines to your code. 
-
---- /task ---
+<h2 class="c-project-heading--explainer">Follow these instructions</h2>
 
 Here are some sentence starters that you can use:
 
@@ -23,9 +21,9 @@ print(f'I would like to make ... with {python}')
 
 --- /code ---
 
-<div class="c-project-callout c-project-callout--tip">
-
 ### Tip
+
+<div class="c-project-callout c-project-callout--tip">
 
 Here is a list of some emojis you might like to use:
 
@@ -35,3 +33,7 @@ Here is a list of some emojis you might like to use:
 
 You can copy and paste them into your code.
 </div>
+
+## Now run your code
+
+Click the **Run** button and check that your extra print lines show your own words and emojis after the dice roll.

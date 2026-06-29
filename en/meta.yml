@@ -6,28 +6,28 @@ meta_description: Learn Python with the Raspberry Pi Foundation. Make an interac
 version: 4
 listed: true
 copyedit: false
-landing: true
 last_tested: "2021-10-06"
+landing: true
 steps:
-  - title: step 1
-  - title: step 2
+  - title: Print Hello
+  - title: Variables
     completion:
       - engaged
-  - title: step 3
-  - title: step 4
-  - title: step 5
-  - title: step 6
-  - title: step 7
-  - title: step 8
-  - title: step 9
-  - title: step 10
-  - title: step 11
-  - title: step 12
-  - title: step 13
-  - title: step 14
-  - title: step 15
-  - title: step 16
+  - title: Print variables
+  - title: Print another variable
+  - title: Operators
+  - title: Create a calculation
+  - title: Using modules
+  - title: Print the date
+  - title: Functions
+  - title: Roll dice
+  - title: Import randint
+  - title: Random numbers
+  - title: Multiply strings
+  - title: Get input
+  - title: Change the dice
     completion:
       - internal
+  - title: Over to you
+    completion:
       - external
-
