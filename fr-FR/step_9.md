@@ -1,25 +1,34 @@
-<h2 class="c-project-heading--explainer">Fonctions</h2>
+<h2 class="c-project-heading--task">Fonctions</h2>
 
-Les fonctions sont des blocs de code qui exécutent des tâches spécifiques. Elles peuvent être utilisées à l'infini.
+Functions are blocks of code that perform specific tasks.
 
-Voici un exemple de fonction :
+They can be used over and over again.
 
+Here is an example of a function:
+
+<div class="c-project-code">
 --- code ---
 ---
 language: python
 line_numbers: false
 ---
 
-# Définitions de fonctions
-def ajoute_un_et_un():
-    x = 1 + 1
-    print(x)
+# Function definitions
 
---- /code ---
+def add_one_and_one():
+x = 1 + 1
+print(x)
 
-Le nom de cette fonction est `ajoute_un_et_un`.
+\--- /code ---
+</div>
 
-Le code de la tâche que tu souhaites que la fonction effectue doit être **indenté**, ce qui signifie que tu dois ajouter **quatre espaces** avant chaque ligne de code.
+The name of this function is `add_one_and_one`. 
 
-**L'appel** d'une fonction exécute le code qu'elle contient. Tu **appelles** une fonction en utilisant son nom. Ici, `ajoute_un_et_un()`.
+The code for the task you want the function to do needs to be **indented**, which means that you need to add **four spaces** before each line of code.
 
+**Calling** a function runs the code inside it. You **call** a function by using its name. In this case `add_one_and_one()`.
+
+## Now run your code
+
+Run your code and check that nothing new is printed yet, because the function has been defined but not called.
+```

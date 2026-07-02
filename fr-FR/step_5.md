@@ -1,11 +1,15 @@
-<h2 class="c-project-heading--explainer">Opérateurs</h2>
+<h2 class="c-project-heading--task">Opérateurs</h2>
 
-En Python, tu peux travailler avec des nombres et des dates. Tu peux utiliser des **opérateurs arithmétiques** tels que `+` et `-` pour effectuer des calculs :
+In Python you can work with numbers and dates.
 
-| + | addition |  
-| - | soustraction |  
-| * | multiplication |  
-| / | division |  
-| ** | puissance |
+You can use **arithmetic operators** such as `+` and `-`  to do calculations:
 
+\| + | add |  
+\| - | subtract |  
+\| \* | multiply |  
+\| / | divide |  
+\| \*\* | exponent |
 
+## Now run your code
+
+Click the **Run** button and check that the output is still the same as in the previous step, because you have not added any new code yet.

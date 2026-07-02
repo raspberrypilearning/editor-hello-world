@@ -1,10 +1,6 @@
 <h2 class="c-project-heading--task">Nu ben jij aan de beurt</h2>
 
---- task ---
-
 ➡️ Oefen met het toevoegen van meer `print`-regels aan je code.
-
---- /task ---
 
 Hier zijn enkele startzinnen die je kunt gebruiken:
 
@@ -16,23 +12,27 @@ line_number_start: 23
 line_highlights: 24-26
 ---
 
-gooi_dobbelsteen()
-print(f'Ik ❤️ ...')  
-print(f'... maakt mij 😃')  
-print(f'Ik zou graag ... willen maken met {python}')
+roll_dice()
+print(f'I ❤️ ...')   
+print(f'... makes me 😃')   
+print(f'I would like to make ... with {python}')
 
 --- /code ---
 
-<div class="c-project-callout c-project-callout--tip">
-
 ### Tip
 
-Hier is een lijst met emoji's die je zou kunnen gebruiken:
+<div class="c-project-callout c-project-callout--tip">
+
+Here is a list of some emojis you might like to use:
 
 🎊 🙌 🙌🏼 🙌🏽 🙌🏾 🙌🏿 😃 🕒 🎨 🎮 🔬 🎉 🕶️ 🎲 😊
 🦄 🚀 💯 ⭐ 💛 ❤️ 📚 ⚽ 🏏 🏀 🥋 🏆 ✨ 🥺 🌈 🔥 ♻️ 🌳
 👩‍🦽👩🏼‍🦽👩🏽‍🦽👩🏾‍🦽👩🏿‍🦽🧘 🧘🏼 🧘🏽 🧘🏾 🧘🏿 🙋 🙋🏼 🙋🏽 🙋🏾 🙋🏿
 
-Je kunt ze kopiëren en plakken in jouw code.
+You can copy and paste them into your code.
 
 </div>
+
+## Now run your code
+
+Click the **Run** button and check that your extra print lines show your own words and emojis after the dice roll.
