@@ -1,10 +1,6 @@
 <h2 class="c-project-heading--task">Utilisation des modules</h2>
 
---- task ---
-
 ➡️ Importer le module `datetime`.
-
---- /task ---
 
 Python possède de nombreux **modules** que tu peux utiliser dans ton code pour t'aider à effectuer certaines tâches. Pour utiliser un module, tu dois d’abord l’**importer**.
 
@@ -18,27 +14,31 @@ line_number_start: 1
 line_highlights: 2
 ---
 
-# importations
+# imports
 from datetime import datetime
 
 # variables
 
 --- /code ---
 
-Quand tu exécutes ce code, rien ne devrait changer et tu devrais avoir le même résultat que l’étape précédente.
-
-<div class="c-project-callout c-project-callout--tip">
+When you run this code, nothing should change, and you should have the same output as the previous step.
 
 ### Astuce
 
-Tout texte que tu écris en Python avec un `#` devant devient un commentaire. Ces lignes ne seront pas exécutées, elles peuvent donc être utiles pour aider les gens à lire et à comprendre ton code.
+<div class="c-project-callout c-project-callout--tip">
+
+Any text you write in Python with a `#` in front of it becomes a comment. These lines won't run, so they can be useful to help people read and understand your code.
 
 </div>
+
+### Debugging
 
 <div class="c-project-callout c-project-callout--debug">
 
-### Déboguer
-
-Vérifie que tu as correctement orthographié `datetime` et que tout est en minuscules.
+Check that you have spelled `datetime` correctly, and it is all lowercase.
 
 </div>
+
+## Now run your code
+
+Run your code and check that the output stays the same as in the previous step after importing `datetime`.

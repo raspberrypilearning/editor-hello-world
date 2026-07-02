@@ -1,10 +1,6 @@
 <h2 class="c-project-heading--task">Willekeurige getallen</h2>
 
---- task ---
-
 ➡️ Kies een willekeurig getal voor de dobbelsteenworp.
-
---- /task ---
 
 Gebruik de `randint`-functie die je hebt geïmporteerd om een willekeurig getal tussen 1 en 6 te kiezen voor de dobbelsteenworp.
 
@@ -16,38 +12,41 @@ line_number_start: 10
 line_highlights: 12
 ---
 
-# Functiedefinities
-def gooi_dobbelsteen():
-    print(f'Je hebt een {randint(1, 6)} gegooid')
-
+# Function definitions 
+def roll_dice():
+    print(f'You rolled a {randint(1, 6)}')
+    
 --- /code ---
 
-**Test:** Klik op de **Run** knop.
-Wanneer je nu je code nog eens uitvoert, zal er elke keer een nieuw willekeurig getal tussen 1 en 6 worden gekozen.
+## Now run your code
+
+Now when you run your code, a new random number between 1 and 6 will be chosen each time.
 
 <div class="c-project-output">
 ```
-Hallo 🌍🌎🌏
-Welkom bij Python 🐍
-Python 🐍 is goed in wiskunde!
+Hello 🌍🌎🌏
+Welcome to Python 🐍
+Python 🐍 is good at maths!
 12345678987654321
-De datum en tijd zijn 2023-11-21 16:02:12.535000
-Je hebt een 6 gegooid
+The date and time is 2023-11-21 16:02:12.535000
+You rolled a 6
 ```
 </div>
 
-<div class="c-project-callout c-project-callout--tip">
-
 ### Tip
 
-`randint` is de afkorting van random integer. Integers zijn gehele getallen.
+<div class="c-project-callout c-project-callout--tip">
+
+`randint` is short for random integer. Integers are whole numbers.
 
 </div>
+
+### Debugging
 
 <div class="c-project-callout c-project-callout--debug">
 
-### Foutopsporing
-
-Controleer de haakjes en accolades als je een foutmelding krijgt. Houd er rekening mee dat hetzelfde getal steeds opnieuw gekozen kan worden. Het is willekeurig!
+Check your brackets and curly brackets if you get and error. Take note that the same number might be chosen over and over again. It's random!
 
 </div>
+
+Click the **Run** button and check that the last line says `You rolled a` followed by a number from 1 to 6.

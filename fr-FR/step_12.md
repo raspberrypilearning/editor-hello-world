@@ -1,10 +1,6 @@
 <h2 class="c-project-heading--task">Nombres aléatoires</h2>
 
---- task ---
-
 ➡️ Choisir un nombre aléatoire pour le lancer de dés.
-
---- /task ---
 
 Utilise la fonction `randint` que tu as importée pour choisir un nombre aléatoire entre 1 et 6 pour le lancer de dés.
 
@@ -16,38 +12,41 @@ line_number_start: 10
 line_highlights: 12
 ---
 
-# Définitions de fonctions
-def roule_de():
-    print(f'Tu as obtenu un {randint(1, 6)}')
-
+# Function definitions 
+def roll_dice():
+    print(f'You rolled a {randint(1, 6)}')
+    
 --- /code ---
 
-**Test :** clique sur le bouton **Exécuter**.
-Maintenant, lorsque tu exécutes ton code, un nouveau nombre aléatoire entre 1 et 6 sera choisi à chaque fois.
+## Now run your code
+
+Now when you run your code, a new random number between 1 and 6 will be chosen each time.
 
 <div class="c-project-output">
 ```
-Bonjour 🌍🌎🌏
-Bienvenue sur Python 🐍
-Python 🐍 est bon en maths !
+Hello 🌍🌎🌏
+Welcome to Python 🐍
+Python 🐍 is good at maths!
 12345678987654321
-La date et l'heure sont 2023-11-21 16:02:12.535000
-Tu as obtenu un 6
+The date and time is 2023-11-21 16:02:12.535000
+You rolled a 6
 ```
 </div>
 
-<div class="c-project-callout c-project-callout--tip">
-
 ### Astuce
 
-`randint` est l'abréviation d'entier aléatoire. Les entiers sont des nombres entiers.
+<div class="c-project-callout c-project-callout--tip">
+
+`randint` is short for random integer. Integers are whole numbers.
 
 </div>
+
+### Debugging
 
 <div class="c-project-callout c-project-callout--debug">
 
-### Déboguer
-
-Vérifie tes parenthèses et accolades si tu obtiens une erreur. Note que le même nombre peut être choisi plusieurs fois. C'est aléatoire !
+Check your brackets and curly brackets if you get and error. Take note that the same number might be chosen over and over again. It's random!
 
 </div>
+
+Click the **Run** button and check that the last line says `You rolled a` followed by a number from 1 to 6.

@@ -1,14 +1,14 @@
-<h2 class="c-project-heading--explainer">Variables</h2>
+<h2 class="c-project-heading--task">Variables</h2>
 
-<div class="c-project-callout c-project-callout--tip">
+Nous avons inclus quelques variables qui stockent les caractères emoji.
 
 ### Astuce
+
+<div class="c-project-callout c-project-callout--tip">
 
 Une **variable** est utilisée pour stocker des valeurs telles que du texte ou des nombres. Choisir un nom judicieux pour une variable te permet de te rappeler plus facilement à quoi elle sert.
 
 </div>
-
-Nous avons inclus quelques variables qui stockent les caractères emoji.
 
 <div class="c-project-code">
 
@@ -21,17 +21,19 @@ line_highlights: 4-6
 ---
 
 # variables
-monde = '🌍🌎🌏'
+world = '🌍🌎🌏'
 python = 'Python 🐍'
-feu = '🔥'
+fire = '🔥'
 
-# Définitions de fonctions
-
-# Mettre le code à exécuter ci-dessous
-print(f'Bonjour')
+# Function definitions
+  
+# Put code to run under here
+print(f'Hello')
 
 --- /code ---
 
 </div>
 
+## Now run your code
 
+Click the **Run** button and check that the output still says `Hello`.

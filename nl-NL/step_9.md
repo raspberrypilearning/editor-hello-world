@@ -1,26 +1,34 @@
-<h2 class="c-project-heading--explainer">Functies</h2>
+<h2 class="c-project-heading--task">Functies</h2>
 
-Functies zijn codeblokken die specifieke taken uitvoeren. Ze kunnen steeds opnieuw gebruikt worden.
+Functions are blocks of code that perform specific tasks.
 
-Hier is een voorbeeld van een functie:
+They can be used over and over again.
 
+Here is an example of a function:
+
+<div class="c-project-code">
 --- code ---
 ---
 language: python
 line_numbers: false
 ---
 
-# Functiedefinities
+# Function definitions
 
-def tel_een_en_een_op():
-    x = 1 + 1
-    print(x)
+def add_one_and_one():
+x = 1 + 1
+print(x)
 
---- /code ---
+\--- /code ---
+</div>
 
-De naam van deze functie is `tel_een_en_een_op`.
+The name of this function is `add_one_and_one`. 
 
-De code voor de taak die je wilt dat de functie uitvoert, moet ingesprongen zijn, wat betekent dat je **vier spaties** moet toevoegen vóór elke regel code.
+The code for the task you want the function to do needs to be **indented**, which means that you need to add **four spaces** before each line of code.
 
-Door een functie **aan te roepen**, wordt de code erbinnen uitgevoerd. Het **aanroepen** van een functie doe je door de naam in te typen. In dit geval `tel_een_en_een_op()`.
+**Calling** a function runs the code inside it. You **call** a function by using its name. In this case `add_one_and_one()`.
 
+## Now run your code
+
+Run your code and check that nothing new is printed yet, because the function has been defined but not called.
+```

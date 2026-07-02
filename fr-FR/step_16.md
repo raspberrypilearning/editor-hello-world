@@ -1,10 +1,6 @@
 <h2 class="c-project-heading--task">À toi de jouer</h2>
 
---- task ---
-
 ➡️ S'entraîner à ajouter plus de lignes `print` à ton code.
-
---- /task ---
 
 Voici quelques débuts de phrases que tu peux utiliser :
 
@@ -16,23 +12,27 @@ line_number_start: 23
 line_highlights: 24-26
 ---
 
-roule_de()
-print(f'J\'❤️ ...')  
-print(f'... me fait 😃')  
-print(f'Je voudrais faire ... avec {python}')
+roll_dice()
+print(f'I ❤️ ...')   
+print(f'... makes me 😃')   
+print(f'I would like to make ... with {python}')
 
 --- /code ---
 
-<div class="c-project-callout c-project-callout--tip">
-
 ### Astuce
 
-Voici une liste d'emojis que tu pourrais utiliser :
+<div class="c-project-callout c-project-callout--tip">
+
+Here is a list of some emojis you might like to use:
 
 🎊 🙌 🙌🏼 🙌🏽 🙌🏾 🙌🏿 😃 🕒 🎨 🎮 🔬 🎉 🕶️ 🎲 😊
 🦄 🚀 💯 ⭐ 💛 ❤️ 📚 ⚽ 🏏 🏀 🥋 🏆 ✨ 🥺 🌈 🔥 ♻️ 🌳
 👩‍🦽👩🏼‍🦽👩🏽‍🦽👩🏾‍🦽👩🏿‍🦽🧘 🧘🏼 🧘🏽 🧘🏾 🧘🏿 🙋 🙋🏼 🙋🏽 🙋🏾 🙋🏿
 
-Tu peux les copier et les coller dans ton code.
+You can copy and paste them into your code.
 
 </div>
+
+## Now run your code
+
+Click the **Run** button and check that your extra print lines show your own words and emojis after the dice roll.

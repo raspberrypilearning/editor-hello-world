@@ -1,0 +1,49 @@
+title: "Привіт, \U0001F30D\U0001F30E\U0001F30F у редакторі коду"
+hero_image: images/banner.png
+description: Створи інтерактивний проєкт на Python, який використовує емоджі
+meta_title: Проєкти з кодування для дітей і підлітків | Привіт, світе
+meta_description: Вивчай Python разом з Raspberry Pi Foundation. Створи інтерактивний проєкт мовою програмування Python з використанням емоджі.
+version: 4
+listed: true
+copyedit: false
+last_tested: "2021-10-06"
+landing: true
+steps:
+  - 
+    title: Print Hello
+  - 
+    title: Змінні
+    completion:
+      - engaged
+  - 
+    title: Виведи змінні
+  - 
+    title: Виведи ще одну змінну
+  - 
+    title: Оператори
+  - 
+    title: Створи розрахунок
+  - 
+    title: Використання модулів
+  - 
+    title: Виведи дату
+  - 
+    title: Функції
+  - 
+    title: Підкинь кубик
+  - 
+    title: Імпортуй функцію randint
+  - 
+    title: Випадкові числа
+  - 
+    title: Помнож рядки
+  - 
+    title: Отримай дані
+  - 
+    title: Зміни кубик
+    completion:
+      - internal
+  - 
+    title: Твоя черга!
+    completion:
+      - external
