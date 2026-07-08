@@ -1,30 +1,31 @@
 <h2 class="c-project-heading--task">Créer un calcul</h2>
 
---- task ---
+\--- task ---
 
 ➡️ Imprimer la valeur d'un calcul.
 
---- /task ---
+\--- /task ---
 
 Ajoute deux autres lignes `print()` à ton code, y compris une multiplication pour que Python puisse calculer :
 
---- code ---
----
+## --- code ---
+
 language: python
 line_numbers: true
 line_number_start: 10
 line_highlights: 13-14
----
+-----------------------------------------------------------
 
 # Mettre le code à exécuter ci-dessous
+
 print(f'Bonjour {monde}')
 print(f'Bienvenue sur {python}')
 print(f'{python} est bon en maths !')
-print(f'{111111111 * 111111111}')
+print(f'{111111111 \* 111111111}')
 
---- /code ---
+\--- /code ---
 
-**Test :** clique sur le bouton **Exécuter**.
+**Test :** clique sur le bouton **Run**.
 Tu devrais voir ceci lorsque tu exécutes ton code.
 
 <div class="c-project-output">
