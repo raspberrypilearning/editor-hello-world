@@ -1,16 +1,10 @@
-<h2 class="c-project-heading--task">Get input</h2>
+## Get input
 
 ➡️ Allow the person using your program to type in some input.
 
 You can use `input()` to ask the person using your program to enter text, and save it as a variable.
 
---- code ---
----
-language: python
-line_numbers: true
-line_number_start: 10
-line_highlights: 12-13
----
+```python line_numbers="true" line_number_start="10" line_highlights="12-13"
 
 # Function definitions
 def roll_dice():
@@ -19,14 +13,13 @@ def roll_dice():
     roll = randint(1,6)
     print(f'You rolled a {roll} {fire * roll}')
 
---- /code ---
+```
 
 ## Now run your code
 
 Ensure you press the <kbd> Enter </kbd> key after inputting how many sides.
 This is what you should see when you run your code.
 
-<div class="c-project-output">
 ```
 Hello 🌍🌎🌏
 Welcome to Python 🐍
@@ -38,6 +31,5 @@ How many sides on your dice?:
 That is a D 20
 You rolled a 1 🔥
 ```
-</div>
 
 Click the **Run** button, type a number such as `20`, and check that the program says `That is a D 20` before showing a dice roll.
