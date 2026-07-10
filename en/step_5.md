@@ -1,8 +1,8 @@
-<h2 class="c-project-heading--task">Operators</h2>
+## Operators
 
 In Python you can work with numbers and dates.
 
-You can use **arithmetic operators** such as `+` and `-`  to do calculations:
+You can use **arithmetic operators** such as `+` and `-` to do calculations:
 
 | + | add |   
 | - | subtract |   

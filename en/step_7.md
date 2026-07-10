@@ -1,4 +1,4 @@
-<h2 class="c-project-heading--task">Using modules</h2>
+## Using modules
 
 ➡️ Import the `datetime` module.
 
@@ -6,38 +6,24 @@ Python has many **modules** that you can use in your code to help perform certai
 
 The `datetime` module helps with writing code that uses dates and times.
 
---- code ---
----
-language: python
-line_numbers: true
-line_number_start: 1
-line_highlights: 2
----
+```python line_numbers="true" line_number_start="1" line_highlights="2"
 
 # imports
 from datetime import datetime
 
 # variables
 
---- /code ---
+```
 
 When you run this code, nothing should change, and you should have the same output as the previous step.
 
-### Tip
+> [!TIP]
+>
+> Any text you write in Python with a `#` in front of it becomes a comment. These lines won't run, so they can be useful to help people read and understand your code.
 
-<div class="c-project-callout c-project-callout--tip">
-
-Any text you write in Python with a `#` in front of it becomes a comment. These lines won't run, so they can be useful to help people read and understand your code.
-
-</div>
-
-### Debugging
-
-<div class="c-project-callout c-project-callout--debug">
-
-Check that you have spelled `datetime` correctly, and it is all lowercase.
-
-</div>
+> [!DEBUG]
+>
+> Check that you have spelled `datetime` correctly, and it is all lowercase.
 
 ## Now run your code
 

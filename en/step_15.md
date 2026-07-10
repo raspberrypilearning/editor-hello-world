@@ -1,4 +1,4 @@
-<h2 class="c-project-heading--task">Change the dice</h2>
+## Change the dice
 
 ➡️ Generate a random number between 1 and the number of sides the user typed in.
 
@@ -6,13 +6,7 @@ Inputs are always stored as text, but we need to use the input stored in `max` t
 
 `max` is a string, so it needs changing to an integer `int()`.
 
---- code ---
----
-language: python
-line_numbers: true
-line_number_start: 10
-line_highlights: 14
----
+```python line_numbers="true" line_number_start="10" line_highlights="14"
 
 # Function definitions        
 def roll_dice():
@@ -21,13 +15,12 @@ def roll_dice():
     roll = randint(1, int(max))
     print(f'You rolled a {roll} {fire * roll}')
     
---- /code ---
+```
 
 ## Now run your code
 
 This is what you should see:
 
-<div class="c-project-output">
 ```
 Hello 🌍🌎🌏
 Welcome to Python 🐍
@@ -38,14 +31,9 @@ How many sides on your dice?:12
 That is a D 12
 You rolled a 5 🔥🔥🔥🔥🔥
 ```
-</div>
 
-### Tip
-
-<div class="c-project-callout c-project-callout--tip">
-
-Changing one type of data to another type of data is called **type casting**.
-
-</div>
+> [!TIP]
+>
+> Changing one type of data to another type of data is called **type casting**.
 
 Click the **Run** button, type a number of sides, and check that the dice roll can be any number from 1 up to the number you entered.
