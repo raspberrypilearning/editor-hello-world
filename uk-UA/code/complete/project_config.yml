@@ -1,0 +1,4 @@
+name: "Привіт, 🌍🌎🌏"
+identifier: "editor-hello-world-complete"
+type: 'python'
+build: true
