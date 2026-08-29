@@ -4,18 +4,19 @@ Les fonctions sont des blocs de code qui exécutent des tâches spécifiques. El
 
 Voici un exemple de fonction :
 
---- code ---
----
+## --- code ---
+
 language: python
 line_numbers: false
----
+--------------------------------------------------------
 
 # Définitions de fonctions
-def ajoute_un_et_un():
-    x = 1 + 1
-    print(x)
 
---- /code ---
+def ajoute_un_et_un():
+x = 1 + 1
+print(x)
+
+\--- /code ---
 
 Le nom de cette fonction est `ajoute_un_et_un`.
 

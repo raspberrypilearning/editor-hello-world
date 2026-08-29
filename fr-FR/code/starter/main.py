@@ -1,11 +1,11 @@
-# importations
+# imports
 
 # variables
-monde = '🌍🌎🌏'
+world = '🌍🌎🌏'
 python = 'Python 🐍'
-feu = '🔥'
+fire = '🔥'
 
-# Définitions de fonctions        
+# Function definitions        
 
-# Mettre le code à exécuter ci-dessous
+# Put code to run under here
 
