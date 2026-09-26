@@ -1,11 +1,11 @@
 # imports
 
-# variabelen
-wereld = '🌍🌎🌏'
+# variables
+world = '🌍🌎🌏'
 python = 'Python 🐍'
-vuur = '🔥'
+fire = '🔥'
 
-# Functiedefinities        
+# Function definitions        
 
-# Zet de code om uit te voeren hieronder
+# Put code to run under here
 
