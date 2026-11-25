@@ -1,33 +1,22 @@
-<h2 class="c-project-heading--task">Een andere variabele afdrukken</h2>
+## Print another variable
 
---- task ---
+**Voeg** nog een regel toe aan je code om meer tekst en emojis te 'print()'en:
 
-➡️ De inhoud van de variabele `python` afdrukken.
+```python line_numbers="true" line_number_start="10" line_highlights="12"
 
---- /task ---
+# Put code to run under here
+print(f'Hello {world}')
+print(f'Welcome to {python}')
 
-**Voeg** nog een regel toe aan je code om meer tekst en emojis te `print()`en:
-
---- code ---
----
-language: python
-line_numbers: true
-line_number_start: 10
-line_highlights: 12
----
-
-# Zet de code om uit te voeren hier onder
-print(f'Hallo {wereld}')
-print(f'Welkom bij {python}')
-
---- /code ---
-
-**Test:** Klik op de **Run** knop.
-Dit is wat je zou moeten zien wanneer je jouw code uitvoert.
-
-<div class="c-project-output">
 ```
-Hallo 🌍🌎🌏
-Welkom bij Python 🐍
+
+## Now run your code
+
+This is what you should see when you run your code.
+
 ```
-</div>
+Hello 🌍🌎🌏
+Welcome to Python 🐍
+```
+
+Click the **Run** button and check that the output has two lines: `Hello` with the globe emojis and `Welcome to Python 🐍`.
